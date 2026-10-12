@@ -1,0 +1,402 @@
+[
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a solitary watchmaker repairing a rare brass music box.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 1,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a network_router record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 1,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a deep-sea submarine mapping a bioluminescent reef.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 2,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a shipping_container record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 2,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a mountain climber setting up camp on an icy ridge.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 3,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a microcontroller record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 3,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a desert nomad finding an ancient limestone well.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 4,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a satellite_payload record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 4,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a librarian cataloging an unrecorded medieval manuscript.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 5,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a inventory_sku record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 5,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a robot wandering a forgotten garden learning to listen to birds.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 6,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a weather_sensor record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 6,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a wildlife researcher tracking snow leopards across a mountain pass.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 7,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a crypto_token record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 7,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a baker shaping artisan sourdough before dawn.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 8,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a billing_invoice record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 8,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting an astronomer recording spectroscopic data from a dying star.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 9,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a employee_record record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 9,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a lost traveler following a creek down a darkened ravine.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 10,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a database_cluster record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 10,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a violinist tuning an instrument in an empty train corridor.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 11,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a vehicle_telemetry record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 11,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a botanist identifying rare night-blooming orchids in a conservatory.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 12,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a payment_receipt record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 12,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a carpenter carving a rocking chair from seasoned walnut.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 13,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a flight_manifest record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 13,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a sailor charting harbor navigation lights at midnight.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 14,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a medical_vitals record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 14,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a tea artisan preparing white tea for a private ceremony.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 15,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a industrial_boiler record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 15,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting two childhood companions reconnecting unexpectedly on a ferry.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 16,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a access_credential record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 16,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a mural artist applying vibrant tempera to an alley wall.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 17,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a smart_meter record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 17,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a pilot guiding a cargo propeller plane through mountain valleys.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 18,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a solar_inverter record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 18,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a marine diver examining a sunken 18th-century galleon.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 19,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a storage_volume record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 19,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting an archaeologist dusting sand off a cuneiform clay cylinder.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 20,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a pipeline_job record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 20,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a park ranger monitoring a herd of elk crossing a river.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 21,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a dns_record record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 21,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a crystallographer observing calcite structures through a microscope.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 22,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a firewall_rule record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 22,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a clock restorer adjusting the escapement wheel of a pendulum.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 23,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a load_balancer record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 23,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a landscape photographer capturing mist clearing over canyon rims.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 24,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a security_certificate record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 24,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Compose a narrative vignette in exactly 2 sentences depicting a metal craftsman shaping iron scrollwork for an estate gate.",
+    "label": "SEMADPT",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 25,
+    "pattern": "boundary_pair"
+  },
+  {
+    "text": "Construct a JSON object containing precisely 2 attributes for a backup_snapshot record.",
+    "label": "CSTRSET",
+    "source": "BoundaryAugmentation_Phase6_7",
+    "source_dataset": "BoundaryAugmentation_Phase6_7",
+    "pair_id": 25,
+    "pattern": "boundary_pair"
+  }
+]

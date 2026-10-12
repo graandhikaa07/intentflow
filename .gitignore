@@ -1,0 +1,27 @@
+# Environment Variables and Secrets
+.env
+.env.*
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Temporary files and logs
+*.log
+temp_*
+*.tmp
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+artifacts/
+artifacts/
+models/
+*.safetensors/

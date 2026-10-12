@@ -1,0 +1,20 @@
+{
+  "id2label": {
+    "0": "MATHDS",
+    "1": "TXTSRC",
+    "2": "SEMADPT",
+    "3": "CSTRSET"
+  },
+  "label2id": {
+    "MATHDS": 0,
+    "TXTSRC": 1,
+    "SEMADPT": 2,
+    "CSTRSET": 3
+  },
+  "descriptions": {
+    "MATHDS": "Mathematical & Data Science queries requiring numerical computation, symbolic algebra, or algorithmic execution.",
+    "TXTSRC": "Factual & Text Search queries requiring external retrieval, verified facts, or document grounding.",
+    "SEMADPT": "Semantic Adaptation queries requiring open-ended text generation, creative writing, or stylistic transformation.",
+    "CSTRSET": "Constraint Satisfaction queries requiring strict schema adherence, formatting rules, or programmatic constraints."
+  }
+}

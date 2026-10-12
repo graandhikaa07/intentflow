@@ -1,0 +1,37 @@
+{
+  "datasets_investigated": [
+    "google/IFEval",
+    "zk-guo/RECAST-30K",
+    "zk-guo/RECAST-Test",
+    "EdinburghNLP/xsum",
+    "mandarjoshi/trivia_qa",
+    "chtmp223/suri"
+  ],
+  "datasets_rejected_or_not_used": [
+    {
+      "dataset": "chtmp223/suri",
+      "intended_class": "SEMADPT",
+      "reason_for_rejection": "1. Dataset paper is titled 'Suri: Multi-constraint instruction following for long-form text generation' and heavily pairs explicit constraints (word count, structural markers, required keywords) with long responses, creating strong semantic overlap and boundary confusion with CSTRSET.\n2. The Books3 source subset has copyright restrictions and requires local reconstruction.\n3. Unauthenticated HF access to 430MB multi-split parquet is rate-limited/throttled.\nExcluded to preserve clean semantic boundaries between SEMADPT and CSTRSET."
+    }
+  ],
+  "filtering_exclusions": {
+    "recast30k_length_filtered": 10363,
+    "recast30k_no_constraint_signals": 210,
+    "recast_test_no_constraint_signals": 6,
+    "recast_test_length_filtered": 2,
+    "xsum_doc_too_short": 18,
+    "triviaqa_math_like_filtered": 9,
+    "triviaqa_length_filtered": 25,
+    "TXTSRC_exact_dup": 59,
+    "TXTSRC_benchmark_leak": 1
+  },
+  "benchmark_leaks_removed": [
+    {
+      "query": "What is the capital city of Colombia?",
+      "matched_benchmark_id": "TXT_18",
+      "match_type": "high_jaccard",
+      "source": "TriviaQA",
+      "class": "TXTSRC"
+    }
+  ]
+}

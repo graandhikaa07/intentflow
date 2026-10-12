@@ -1,0 +1,13 @@
+{
+  "RECAST-30K": 3000,
+  "CLINC150": 6996,
+  "GSM8K": 7473,
+  "IFEval": 541,
+  "XSum": 2750,
+  "ExistingProjectData": 1471,
+  "ExistingCustomGenerator": 1511,
+  "BoundaryAugmentation_Phase6_7": 800,
+  "RECAST-Test": 490,
+  "TriviaQA": 1440,
+  "BoundaryPatternDefense": 20
+}

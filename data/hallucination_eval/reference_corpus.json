@@ -1,0 +1,252 @@
+[
+  {
+    "reference_id": "REF_01",
+    "entity": "Australia",
+    "topic": "National Capital",
+    "passage": "Canberra is the federal capital city of Australia. Founded following the federation of the Australian colonies in 1901 as a compromise location between the two largest rival cities, Sydney and Melbourne, Canberra is located within the Australian Capital Territory (ACT). It is an entirely planned city designed by American architects Walter Burley Griffin and Marion Mahony Griffin.",
+    "key_facts": {
+      "capital_city": "Canberra",
+      "country": "Australia",
+      "rival_cities_compromised": ["Sydney", "Melbourne"]
+    },
+    "source": "Encyclopaedia Britannica (Country Profiles: Australia)"
+  },
+  {
+    "reference_id": "REF_02",
+    "entity": "Gold",
+    "topic": "Chemical Element Properties",
+    "passage": "Gold is a chemical element with the chemical symbol Au (derived from the Latin 'aurum') and atomic number 79. It is a dense, soft, malleable, and ductile transition metal with a characteristic bright yellow color. Standard atomic weight of gold is approximately 196.96657 u.",
+    "key_facts": {
+      "element_name": "Gold",
+      "chemical_symbol": "Au",
+      "atomic_number": 79
+    },
+    "source": "CRC Handbook of Chemistry and Physics (104th Edition)"
+  },
+  {
+    "reference_id": "REF_03",
+    "entity": "Apollo 11",
+    "topic": "Space Exploration History",
+    "passage": "Apollo 11 was the American spaceflight that first landed humans on the Moon. Commander Neil Armstrong and Lunar Module Pilot Buzz Aldrin landed the Apollo Lunar Module Eagle on July 20, 1969, at 20:17 UTC. Armstrong became the first person to step onto the lunar surface six hours and 39 minutes later on July 21 (02:56 UTC).",
+    "key_facts": {
+      "mission_name": "Apollo 11",
+      "landing_year": 1969,
+      "landing_date": "July 20, 1969",
+      "first_human": "Neil Armstrong"
+    },
+    "source": "NASA History Division (Apollo 11 Mission Overview)"
+  },
+  {
+    "reference_id": "REF_04",
+    "entity": "Speed of Light",
+    "topic": "Fundamental Physical Constants",
+    "passage": "The speed of light in vacuum, commonly denoted c, is a universal physical constant vital in many areas of physics. Its exact value is defined as 299,792,458 meters per second (approximately 3.00 x 10^8 m/s). It is the upper limit for the speed at which conventional matter or information can travel.",
+    "key_facts": {
+      "constant_name": "Speed of light in vacuum",
+      "symbol": "c",
+      "exact_value_m_s": 299792458,
+      "unit": "meters per second"
+    },
+    "source": "NIST Reference on Constants, Units, and Uncertainty (CODATA)"
+  },
+  {
+    "reference_id": "REF_05",
+    "entity": "General Relativity",
+    "topic": "Theoretical Physics",
+    "passage": "General relativity is the geometric theory of gravitation developed by Albert Einstein and published in November 1915. It describes gravitation as a geometric property of space and time, or spacetime, curvature caused by the mass-energy content of the system.",
+    "key_facts": {
+      "developer": "Albert Einstein",
+      "theory": "General Relativity",
+      "publication_year": 1915
+    },
+    "source": "The Collected Papers of Albert Einstein, Princeton University Press"
+  },
+  {
+    "reference_id": "REF_06",
+    "entity": "Mariana Trench",
+    "topic": "Oceanography",
+    "passage": "The Mariana Trench is located in the western Pacific Ocean approximately 200 kilometers east of the Mariana Islands. It is the deepest oceanic trench on Earth. The Challenger Deep, located at the southern end of the trench, reaches a maximum known depth of approximately 10,984 meters (36,037 feet) below sea level.",
+    "key_facts": {
+      "feature": "Mariana Trench",
+      "deepest_point": "Challenger Deep",
+      "maximum_depth_meters": 10984
+    },
+    "source": "NOAA National Centers for Environmental Information"
+  },
+  {
+    "reference_id": "REF_07",
+    "entity": "Ribosome",
+    "topic": "Cell Biology",
+    "passage": "Ribosomes are complex macromolecular machines found within all living cells that perform biological protein synthesis (translation). Ribosomes link amino acids together in the order specified by the codons of messenger RNA (mRNA) molecules to form polypeptide chains.",
+    "key_facts": {
+      "organelle": "Ribosome",
+      "primary_function": "Protein synthesis",
+      "mechanism": "Translating mRNA codons into amino acid polypeptide chains"
+    },
+    "source": "Alberts et al., Molecular Biology of the Cell (6th Edition)"
+  },
+  {
+    "reference_id": "REF_08",
+    "entity": "Treaty of Versailles",
+    "topic": "Modern World History",
+    "passage": "The Treaty of Versailles was the primary treaty produced by the Paris Peace Conference at the end of World War I. Signed on June 28, 1919, in the Hall of Mirrors at the Palace of Versailles, it officially brought the state of war between the Allied Powers and Germany to an end.",
+    "key_facts": {
+      "treaty_name": "Treaty of Versailles",
+      "year_signed": 1919,
+      "conflict_ended": "World War I"
+    },
+    "source": "United Nations Treaty Series / League of Nations Archives"
+  },
+  {
+    "reference_id": "REF_09",
+    "entity": "Water Boiling Point",
+    "topic": "Thermodynamics and Physical Chemistry",
+    "passage": "Under standard atmospheric pressure (defined as 1 atm, 101.325 kPa, or 760 mmHg), the boiling point of pure water is 100 degrees Celsius, which equals exactly 212 degrees Fahrenheit or 373.15 Kelvin. At higher elevations where atmospheric pressure is lower, the boiling point decreases accordingly.",
+    "key_facts": {
+      "substance": "Pure water",
+      "pressure_condition": "Standard atmospheric pressure (1 atm)",
+      "boiling_point_celsius": 100,
+      "boiling_point_fahrenheit": 212
+    },
+    "source": "CRC Handbook of Chemistry and Physics (104th Edition)"
+  },
+  {
+    "reference_id": "REF_10",
+    "entity": "Pride and Prejudice",
+    "topic": "English Literature",
+    "passage": "Pride and Prejudice is an English romantic novel written by Jane Austen. First published anonymously in three volumes in January 1813, the story follows the character development of Elizabeth Bennet as she navigates issues of manners, upbringing, morality, education, and marriage in Regency Britain.",
+    "key_facts": {
+      "book_title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_year": 1813
+    },
+    "source": "The Cambridge Companion to Jane Austen"
+  },
+  {
+    "reference_id": "REF_11",
+    "entity": "Mount Everest",
+    "topic": "Physical Geography",
+    "passage": "Mount Everest is Earth's highest mountain peak above sea level, located in the Mahalangur Himal sub-range of the Himalayas on the border between Nepal and China. In December 2020, Nepal and China jointly announced its officially measured elevation as 8,848.86 meters (29,031.7 feet).",
+    "key_facts": {
+      "mountain": "Mount Everest",
+      "official_elevation_meters": 8848.86,
+      "official_elevation_feet": 29031.7,
+      "mountain_range": "Himalayas"
+    },
+    "source": "Survey Department of Nepal and Ministry of Natural Resources of China (2020)"
+  },
+  {
+    "reference_id": "REF_12",
+    "entity": "Carbon Allotropes",
+    "topic": "Materials Science and Inorganic Chemistry",
+    "passage": "Elemental carbon exists in several distinct structural allotropes. The three historically recognized and most prominent allotropes are diamond (sp3-hybridized tetrahedral crystal lattice), graphite (sp2-hybridized planar hexagonal sheets), and fullerenes (such as Buckminsterfullerene C60, hollow carbon spheres or ellipsoids).",
+    "key_facts": {
+      "element": "Carbon",
+      "three_main_allotropes": ["Diamond", "Graphite", "Fullerenes"]
+    },
+    "source": "Greenwood and Earnshaw, Chemistry of the Elements (2nd Edition)"
+  },
+  {
+    "reference_id": "REF_13",
+    "entity": "Marie Curie",
+    "topic": "History of Science",
+    "passage": "Marie Skłodowska Curie was the first woman to win a Nobel Prize. In 1903, she shared the Nobel Prize in Physics with her husband Pierre Curie and physicist Henri Becquerel for their pioneering investigations into radioactivity. In 1911, she won a second Nobel Prize in Chemistry, becoming the first person to win Nobel Prizes in two scientific fields.",
+    "key_facts": {
+      "individual": "Marie Curie",
+      "first_nobel_prize_discipline": "Physics",
+      "first_nobel_prize_year": 1903,
+      "achievement": "First woman to win a Nobel Prize"
+    },
+    "source": "Nobel Prize Official Archive (nobelprize.org)"
+  },
+  {
+    "reference_id": "REF_14",
+    "entity": "South Korean Won",
+    "topic": "Global Economics and Currencies",
+    "passage": "The official currency of the Republic of Korea (South Korea) is the South Korean Won, designated by the international currency code KRW and the symbol ₩. It is issued by the Bank of Korea, the central bank of South Korea, headquartered in Seoul.",
+    "key_facts": {
+      "country": "South Korea",
+      "currency_name": "South Korean Won",
+      "currency_code": "KRW",
+      "currency_symbol": "₩"
+    },
+    "source": "International Monetary Fund (IMF) Currency Classifications"
+  },
+  {
+    "reference_id": "REF_15",
+    "entity": "United Nations",
+    "topic": "International Organizations",
+    "passage": "The United Nations (UN) is an intergovernmental organization established on October 24, 1945, following the ratification of the UN Charter by the majority of its founding signatories after World War II. Its official global headquarters is located in international territory within New York City, United States.",
+    "key_facts": {
+      "organization": "United Nations",
+      "foundation_year": 1945,
+      "foundation_date": "October 24, 1945",
+      "headquarters_location": "New York City"
+    },
+    "source": "United Nations Charter and Official Protocol Documentation"
+  },
+  {
+    "reference_id": "REF_16",
+    "entity": "Mitochondria",
+    "topic": "Cellular Biology",
+    "passage": "Mitochondria are membrane-bound organelles found in the cytoplasm of nearly all eukaryotic cells. Commonly termed the 'powerhouse of the cell', their primary biological role is the generation of adenosine triphosphate (ATP) via aerobic cellular respiration and oxidative phosphorylation.",
+    "key_facts": {
+      "organelle": "Mitochondria",
+      "common_moniker": "Powerhouse of the cell",
+      "primary_function": "ATP generation / cellular respiration"
+    },
+    "source": "Lodish et al., Molecular Cell Biology (8th Edition)"
+  },
+  {
+    "reference_id": "REF_17",
+    "entity": "Carbon-14",
+    "topic": "Nuclear Chemistry and Geochronology",
+    "passage": "Carbon-14 (14C) is a radioactive isotope of carbon with an atomic nucleus containing 6 protons and 8 neutrons. Used extensively in radiocarbon dating of organic archaeological artifacts, Carbon-14 has a known radioactive half-life of 5,730 +/- 40 years, decaying into Nitrogen-14 via beta decay.",
+    "key_facts": {
+      "isotope": "Carbon-14",
+      "half_life_years": 5730,
+      "decay_mode": "Beta decay into Nitrogen-14",
+      "dating_application": "Radiocarbon dating"
+    },
+    "source": "Godwin, H. 'Half-life of radiocarbon', Nature (1962) / IAEA Standards"
+  },
+  {
+    "reference_id": "REF_18",
+    "entity": "Canada",
+    "topic": "National Capital",
+    "passage": "Ottawa is the capital city of Canada. Located on the south bank of the Ottawa River in the eastern portion of southern Ontario, Ottawa was chosen as the capital of the Province of Canada by Queen Victoria in 1857 due to its defensible position and location between English-speaking Upper Canada and French-speaking Lower Canada.",
+    "key_facts": {
+      "capital_city": "Ottawa",
+      "country": "Canada",
+      "province": "Ontario"
+    },
+    "source": "Statistics Canada / Canadian Encyclopedia"
+  },
+  {
+    "reference_id": "REF_19",
+    "entity": "Dorothy Crowfoot Hodgkin",
+    "topic": "Crystallography and Chemistry",
+    "passage": "Dorothy Crowfoot Hodgkin was a British chemist who pioneered the application of X-ray crystallography to biological molecules. In 1945, she determined the three-dimensional chemical structure of penicillin, proving its beta-lactam core. In 1964, Hodgkin was awarded the Nobel Prize in Chemistry for her determinations by X-ray techniques of the structures of important biochemical substances.",
+    "key_facts": {
+      "scientist": "Dorothy Crowfoot Hodgkin",
+      "major_discovery": "Structure of penicillin",
+      "method": "X-ray crystallography",
+      "nobel_prize_year": 1964,
+      "nobel_discipline": "Chemistry"
+    },
+    "source": "Nobel Prize Official Archive (nobelprize.org)"
+  },
+  {
+    "reference_id": "REF_20",
+    "entity": "Astronomical Unit (Distance to the Sun)",
+    "topic": "Astronomy and Planetary Science",
+    "passage": "The average distance from the Earth to the Sun is defined as one astronomical unit (1 AU). In 2012, the International Astronomical Union (IAU) formally defined 1 AU as exactly 149,597,870,700 meters, which corresponds approximately to 149.6 million kilometers (or roughly 92.96 million miles).",
+    "key_facts": {
+      "unit_name": "Astronomical Unit (AU)",
+      "exact_meters": 149597870700,
+      "approximate_kilometers_millions": 149.6,
+      "approximate_miles_millions": 92.96
+    },
+    "source": "International Astronomical Union (IAU Resolution B2, 2012)"
+  }
+]

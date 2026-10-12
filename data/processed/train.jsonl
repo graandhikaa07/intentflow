@@ -1,0 +1,1920 @@
+{"text": "Rewrite this message in a friendly tone: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "tell me what the date is tomorrow", "label": "TXTSRC"}
+{"text": "Output exactly 6 items in a JSON array for programming languages.", "label": "CSTRSET"}
+{"text": "do you have anything funny to tell me", "label": "SEMADPT"}
+{"text": "What is the surface area of a sphere of diameter 16?", "label": "MATHDS"}
+{"text": "Change the tone of this note to be professional: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Use XML with these specified tags: <patient_id>, <blood_type>, <systolic_bp> to represent a clinical patient record.", "label": "CSTRSET"}
+{"text": "Define an operating system while completely avoiding the following forbidden words: 'kernel', 'process', 'memory', 'driver'.", "label": "CSTRSET"}
+{"text": "your answer is appreciated", "label": "SEMADPT"}
+{"text": "Output strictly a JSON object representing a movie catalog entry with keys: ['movie_id', 'title', 'director', 'release_year', 'rating']. Do not include commentary.", "label": "CSTRSET"}
+{"text": "what is 4 + 7", "label": "MATHDS"}
+{"text": "Generate data for distributed consensus protocols strictly adhering to rule: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'.", "label": "CSTRSET"}
+{"text": "Rewrite this email to sound friendly: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "what is the calorie content in french fries", "label": "TXTSRC"}
+{"text": "what's the definition of analogy", "label": "TXTSRC"}
+{"text": "can you tell me the correct spelling of liaison", "label": "TXTSRC"}
+{"text": "which fuel does my car take", "label": "TXTSRC"}
+{"text": "Summarize the following passage explaining the fundamental concepts behind generative adversarial networks.", "label": "SEMADPT"}
+{"text": "what is 10000 divided by 20", "label": "MATHDS"}
+{"text": "Generate data for microservice design patterns strictly adhering to rule: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 5 elements of version control commands.", "label": "CSTRSET"}
+{"text": "Can you summarize this text about the history and architectural legacy of the Silk Road for a general reader?", "label": "SEMADPT"}
+{"text": "What is (952 + 321) / 2?", "label": "MATHDS"}
+{"text": "Provide exactly 4 bullet points on programming languages with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "does this take regular unleaded", "label": "TXTSRC"}
+{"text": "Factorize the polynomial 2x^2 + 15x + 8", "label": "MATHDS"}
+{"text": "Return a JSON array containing exactly 7 elements of machine learning algorithms.", "label": "CSTRSET"}
+{"text": "What is the area of a trapezoid with parallel sides 11, 40 and height 15?", "label": "MATHDS"}
+{"text": "What is (448 + 243) / 72?", "label": "MATHDS"}
+{"text": "Create a poem reflecting on a rainy evening in a quiet town.", "label": "SEMADPT"}
+{"text": "Summarize the main points of the text regarding the economic principles behind comparative advantage in international trade.", "label": "SEMADPT"}
+{"text": "what is 20% of a thousand", "label": "MATHDS"}
+{"text": "that's all i need, thanks!", "label": "SEMADPT"}
+{"text": "what gas is needed for the car", "label": "TXTSRC"}
+{"text": "Summarize the core message of this document about how sleep deprivation affects memory consolidation in the brain.", "label": "SEMADPT"}
+{"text": "Limit the explanation of container orchestration systems strictly to under 140 characters, including spaces.", "label": "CSTRSET"}
+{"text": "Calculate the mean and standard deviation of [17, 30, 23, 63, 85, 71]", "label": "MATHDS"}
+{"text": "how is it outside", "label": "TXTSRC"}
+{"text": "What is 19% of 2977?", "label": "MATHDS"}
+{"text": "tell me something funny about politics", "label": "SEMADPT"}
+{"text": "Return the answer as JSON with fields name and age.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 7 elements of cybersecurity best practices.", "label": "CSTRSET"}
+{"text": "what sort of gas should i get for my car", "label": "TXTSRC"}
+{"text": "what are your hobbies siri", "label": "SEMADPT"}
+{"text": "what's the date 32 days from now", "label": "TXTSRC"}
+{"text": "Give exactly 8 items in a list of cybersecurity best practices and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Rewrite this message in a friendly tone: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "Rewrite this message in a professional tone: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "tell me a joke about the subject of sailing", "label": "SEMADPT"}
+{"text": "would you let me know today's date", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be casual and relaxed: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "List exactly 2 cybersecurity best practices. No more and no less.", "label": "CSTRSET"}
+{"text": "what's the number of calories in a coke", "label": "TXTSRC"}
+{"text": "Output info on asymmetric cryptography under this strict formatting constraint: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS].", "label": "CSTRSET"}
+{"text": "what's today's weather", "label": "TXTSRC"}
+{"text": "Rewrite this message in a polite tone: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "will i be charged if i use my card in dublin", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels concise: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "it was pleasant having a conversation with you", "label": "SEMADPT"}
+{"text": "How many combinations of 5 items can be chosen from 15 items?", "label": "MATHDS"}
+{"text": "what company did this design", "label": "SEMADPT"}
+{"text": "Convert 415 kilometers to euros.", "label": "MATHDS"}
+{"text": "Output exactly 7 items in a JSON array for file compression formats.", "label": "CSTRSET"}
+{"text": "Divide 36290 by 38 and add 239.", "label": "MATHDS"}
+{"text": "Generate data for microservice design patterns strictly adhering to rule: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$.", "label": "CSTRSET"}
+{"text": "give me today's date", "label": "TXTSRC"}
+{"text": "who is the one that made you", "label": "SEMADPT"}
+{"text": "Provide exactly 5 bullet points on data visualization libraries with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "i'd like to hear about your hobbies", "label": "SEMADPT"}
+{"text": "Calculate 133 * 73 + 406", "label": "MATHDS"}
+{"text": "what is the square root of 888", "label": "MATHDS"}
+{"text": "how many calories are there in a scoop of chocolate ice cream", "label": "TXTSRC"}
+{"text": "Produce output for distributed consensus protocols enforcing: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS]. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "what sort of hobbies are you into", "label": "SEMADPT"}
+{"text": "Find the derivative of f(x) = 3x^2 + 6x - 22", "label": "MATHDS"}
+{"text": "If f(x) = 2x + 42, what is f(8)?", "label": "MATHDS"}
+{"text": "Make this sentence more polite: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "how many times can 3 be divided into 1253", "label": "MATHDS"}
+{"text": "Output exactly 10 items in a JSON array for networking protocols.", "label": "CSTRSET"}
+{"text": "what does assiduous mean", "label": "TXTSRC"}
+{"text": "what firm is responsible for your design", "label": "SEMADPT"}
+{"text": "What is the value of x if log2(x) = 6?", "label": "MATHDS"}
+{"text": "can you do algebra", "label": "MATHDS"}
+{"text": "Find the interquartile range (IQR) for values [47, 56, 50, 64, 24]", "label": "MATHDS"}
+{"text": "Rewrite this message in a professional tone: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "Calculate sin^2(90) + cos^2(90)", "label": "MATHDS"}
+{"text": "Convert 348 apples to tickets.", "label": "MATHDS"}
+{"text": "What is the z-score of a value 96 with mean 100 and standard deviation 14?", "label": "MATHDS"}
+{"text": "Rewrite this email to sound diplomatic and constructive: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "what's the definition of idiosyncratic", "label": "TXTSRC"}
+{"text": "Make this sentence more friendly: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "what is 2 + 2", "label": "MATHDS"}
+{"text": "what is the sum of 10 plus 5", "label": "MATHDS"}
+{"text": "Can you summarize this text about the impact of microplastics on marine food webs for a general reader?", "label": "SEMADPT"}
+{"text": "Return a JSON object containing these required fields: [instance_id, cpu_percent, memory_used_mb, disk_free_gb, status].", "label": "CSTRSET"}
+{"text": "What is the z-score of a value 87 with mean 100 and standard deviation 6?", "label": "MATHDS"}
+{"text": "Tell me a joke.", "label": "SEMADPT"}
+{"text": "Write a haiku capturing the atmosphere of a traveler waiting at an empty train station.", "label": "SEMADPT"}
+{"text": "can you tell me what 30% off 235 is, please", "label": "MATHDS"}
+{"text": "what day of the month is it today", "label": "TXTSRC"}
+{"text": "what is the solution to sixty times thirty", "label": "MATHDS"}
+{"text": "Make this sentence more inspirational: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "what is 10 + 10", "label": "MATHDS"}
+{"text": "Can you summarize this text about recent breakthroughs in quantum computing and error mitigation for a general reader?", "label": "SEMADPT"}
+{"text": "Multiply matrix A = [[8, 6], [6, 1]] by scalar 4", "label": "MATHDS"}
+{"text": "Evaluate 250 * (323 - 66)", "label": "MATHDS"}
+{"text": "can you divide 100 by 20", "label": "MATHDS"}
+{"text": "Condense the technical description of the cognitive psychology behind decision-making heuristics into two sentences.", "label": "SEMADPT"}
+{"text": "what timezone is russia in", "label": "TXTSRC"}
+{"text": "what's is the current weather forecast", "label": "TXTSRC"}
+{"text": "Brainstorm 5 innovative ideas for eco-friendly subscription boxes.", "label": "SEMADPT"}
+{"text": "direct me to the closest starbucks near home", "label": "TXTSRC"}
+{"text": "can you tell me what gas this car takes", "label": "TXTSRC"}
+{"text": "Generate a well-formed XML snippet for student academic transcript containing tags: [student_id, course_name, letter_grade, credit_hours].", "label": "CSTRSET"}
+{"text": "what is the time frame to get to phoenix", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be persuasive and motivational: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "i want to visit chicago by bus what do i need to do", "label": "TXTSRC"}
+{"text": "Compute the perimeter of a rectangle with length 36 and width 25", "label": "MATHDS"}
+{"text": "Write a short story about autumn leaves falling in an ancient courtyard.", "label": "SEMADPT"}
+{"text": "Generate data for distributed consensus protocols strictly adhering to rule: Wrap every value in double quotes and separate entries with a pipe delimiter (|).", "label": "CSTRSET"}
+{"text": "Provide exactly 5 bullet points on networking protocols with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "what is the number of calories in a steak", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels friendly: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "hello there!", "label": "SEMADPT"}
+{"text": "Rewrite this message in a professional tone: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound polite: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "what is 25 percent of 6999", "label": "MATHDS"}
+{"text": "Provide a concise summary highlighting the key takeaways of the cellular mechanisms of aging and telomere attrition.", "label": "SEMADPT"}
+{"text": "Multiply matrix A = [[5, 1], [8, 8]] by scalar 6", "label": "MATHDS"}
+{"text": "are there any transaction fees associated with my navy federal card if i am in japan", "label": "TXTSRC"}
+{"text": "Find the critical points of the function g(x) = 2x^3 - 6x + 21", "label": "MATHDS"}
+{"text": "Return a JSON array containing exactly 2 elements of file compression formats.", "label": "CSTRSET"}
+{"text": "can you subract 36 from 5", "label": "MATHDS"}
+{"text": "how long is it gonna take to get to red robin in avondale", "label": "TXTSRC"}
+{"text": "Solve the inequality 10x - 47 >= 68", "label": "MATHDS"}
+{"text": "Provide exactly 8 bullet points on file compression formats with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "what's the temperature like in tampa", "label": "TXTSRC"}
+{"text": "Divide 44608 by 64 and add 124.", "label": "MATHDS"}
+{"text": "Return a JSON array containing exactly 10 elements of cybersecurity best practices.", "label": "CSTRSET"}
+{"text": "Provide a JSON payload for user profile containing required keys: ['user_id', 'full_name', 'email_address', 'created_at', 'role']. No markdown formatting.", "label": "CSTRSET"}
+{"text": "why hello", "label": "SEMADPT"}
+{"text": "Rewrite this message in a warm and empathetic tone: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "when i am in spain using my cmaden card, is there any transaction fee", "label": "TXTSRC"}
+{"text": "Rewrite this message in a humorous and witty tone: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "Write an imaginative monologue from the perspective of someone witnessing autumn leaves falling in an ancient courtyard.", "label": "SEMADPT"}
+{"text": "Use XML with these specified tags: <instance_id>, <cpu_percent>, <memory_used_mb> to represent a cloud server telemetry.", "label": "CSTRSET"}
+{"text": "what is 35 times 23", "label": "MATHDS"}
+{"text": "Factorize the polynomial 2x^2 + 36x + 35", "label": "MATHDS"}
+{"text": "what's today's date", "label": "TXTSRC"}
+{"text": "Find the eigenvalues of matrix [[9, 0], [0, 5]]", "label": "MATHDS"}
+{"text": "it was great talking to you", "label": "SEMADPT"}
+{"text": "Make this sentence more concise: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "where is the closest mcdonalds", "label": "TXTSRC"}
+{"text": "Limit the explanation of garbage collection algorithms strictly to under 140 characters, including spaces.", "label": "CSTRSET"}
+{"text": "what is 1100 minus 2347", "label": "MATHDS"}
+{"text": "what amount of calories are in one muffin", "label": "TXTSRC"}
+{"text": "i want to know how to get to statue of liberty by bus", "label": "TXTSRC"}
+{"text": "take me to the nearest dairy queen", "label": "TXTSRC"}
+{"text": "Make this sentence more friendly: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "Rewrite this message in a diplomatic and constructive tone: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "can you tell me how to spell the word schadenfreude, i don't know how it's spelt", "label": "TXTSRC"}
+{"text": "how long does it take to get to red robin on phoenix", "label": "TXTSRC"}
+{"text": "Explain a microservice without using any of the terms: 'monolith', 'api', 'docker', 'deploy'. Output only the definition.", "label": "CSTRSET"}
+{"text": "Rewrite this message in a humorous and witty tone: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "what's the timezone over there", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels warm and empathetic: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "Compute the perimeter of a rectangle with length 23 and width 13", "label": "MATHDS"}
+{"text": "i'd like the calories for this chicken breast", "label": "TXTSRC"}
+{"text": "Find the critical points of the function g(x) = 6x^3 - 18x + 23", "label": "MATHDS"}
+{"text": "What is the z-score of a value 86 with mean 100 and standard deviation 7?", "label": "MATHDS"}
+{"text": "what company designed this", "label": "SEMADPT"}
+{"text": "what is seventeen plus three", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels inspirational: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "tell me what alternative means", "label": "TXTSRC"}
+{"text": "hey, how's it going", "label": "SEMADPT"}
+{"text": "List exactly 3 programming languages. No more and no less.", "label": "CSTRSET"}
+{"text": "Output exactly 5 items in a JSON array for version control commands.", "label": "CSTRSET"}
+{"text": "usually, how long does is the commute to brooklyn by bus", "label": "TXTSRC"}
+{"text": "Make this sentence more humorous and witty: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "can you tell me which timezone is cambodia in", "label": "TXTSRC"}
+{"text": "Output exactly 5 items in a JSON array for software architectural patterns.", "label": "CSTRSET"}
+{"text": "Provide exactly 3 bullet points on programming languages with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Produce output for asymmetric cryptography enforcing: Wrap every value in double quotes and separate entries with a pipe delimiter (|). No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Use XML with these specified tags: <station_id>, <temperature_c>, <humidity_pct> to represent a weather station report.", "label": "CSTRSET"}
+{"text": "Rewrite this email to sound casual and relaxed: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "it was cool talking with you", "label": "SEMADPT"}
+{"text": "Multiply matrix A = [[5, 10], [7, 0]] by scalar 2", "label": "MATHDS"}
+{"text": "what sort of gas does the car need", "label": "TXTSRC"}
+{"text": "how do you spell out espresso", "label": "TXTSRC"}
+{"text": "Compute the dot product of vectors [4, 7, 2] and [7, 4, 7]", "label": "MATHDS"}
+{"text": "how long does it take to get to phoenix by bus", "label": "TXTSRC"}
+{"text": "what is the sum of eleven and ten", "label": "MATHDS"}
+{"text": "whats the definition of poor", "label": "TXTSRC"}
+{"text": "Calculate 14 permutation 4 (P(14, 4))", "label": "MATHDS"}
+{"text": "Write an imaginative monologue from the perspective of someone witnessing the first snowfall in a mountain village.", "label": "SEMADPT"}
+{"text": "can you tell me the time zone for la", "label": "TXTSRC"}
+{"text": "define flange", "label": "TXTSRC"}
+{"text": "Define a message queue while completely avoiding the following forbidden words: 'kafka', 'rabbit', 'topic', 'consumer'.", "label": "CSTRSET"}
+{"text": "If an item costs $715 and has a discount of 31%, what is the final price?", "label": "MATHDS"}
+{"text": "What is 24% of 4100?", "label": "MATHDS"}
+{"text": "tell me the timezone las vegas is in", "label": "TXTSRC"}
+{"text": "Expand and simplify the algebraic term (x + 7)(x - 50)", "label": "MATHDS"}
+{"text": "do you know the timezone for phoenix", "label": "TXTSRC"}
+{"text": "Describe load balancing algorithms in between 30 and 40 words total.", "label": "CSTRSET"}
+{"text": "Write a creative story exploring the first snowfall in a mountain village.", "label": "SEMADPT"}
+{"text": "Compute the partial derivative of f(x, y) = 5x^2*y + 12y^3 with respect to x", "label": "MATHDS"}
+{"text": "Generate a fictional dialogue between two characters discussing two astronauts lost on a distant moon.", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 6 elements of version control commands.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 2 elements of machine learning algorithms.", "label": "CSTRSET"}
+{"text": "show me the international transactions fees for the zenith card", "label": "TXTSRC"}
+{"text": "how do i get to statue of liberty by bus", "label": "TXTSRC"}
+{"text": "Provide a 1-sentence technical definition of memory hierarchy in modern CPUs containing at least 20 words.", "label": "CSTRSET"}
+{"text": "Change the tone of this note to be polite: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "Evaluate 315 * (44 - 29)", "label": "MATHDS"}
+{"text": "tell me how to spent \"frightened", "label": "TXTSRC"}
+{"text": "Find the critical points of the function g(x) = 8x^3 - 24x + 23", "label": "MATHDS"}
+{"text": "Compute the dot product of vectors [4, 3, 5] and [9, 4, 3]", "label": "MATHDS"}
+{"text": "Solve the linear system: 12x + 2y = 117 and x - 3y = 35", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels persuasive and motivational: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Rewrite this message in a warm and empathetic tone: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "how many calories are in waffles", "label": "TXTSRC"}
+{"text": "what time will we arrive at the bank", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound casual and relaxed: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "Output info on container orchestration systems under this strict formatting constraint: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'.", "label": "CSTRSET"}
+{"text": "Condense the following discussion about the development of urban vertical farming systems into a brief overview.", "label": "SEMADPT"}
+{"text": "List exactly 5 file compression formats. No more and no less.", "label": "CSTRSET"}
+{"text": "Provide exactly 7 bullet points on networking protocols with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Suggest creative concepts and fresh angles for creative ways to practice conversational foreign languages.", "label": "SEMADPT"}
+{"text": "Calculate 8 permutation 2 (P(8, 2))", "label": "MATHDS"}
+{"text": "What is the surface area of a sphere of diameter 36?", "label": "MATHDS"}
+{"text": "Provide exactly 7 bullet points on programming languages with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "If an item costs $129 and has a discount of 29%, what is the final price?", "label": "MATHDS"}
+{"text": "what amount of time would it take me to reach the university by bus", "label": "TXTSRC"}
+{"text": "Brainstorm 5 innovative ideas for an interactive science podcast for teens.", "label": "SEMADPT"}
+{"text": "Output info on distributed consensus protocols under this strict formatting constraint: Prefix every line with a sequential numbering like [1], [2], [3].", "label": "CSTRSET"}
+{"text": "how many calories are in chocolate ice cream", "label": "TXTSRC"}
+{"text": "what does \"money\" mean", "label": "TXTSRC"}
+{"text": "Write an imaginative monologue from the perspective of someone witnessing a solitary lighthouse keeper during a storm.", "label": "SEMADPT"}
+{"text": "Produce output for microservice design patterns enforcing: Format the response such that every line contains exactly one key-value pair separated by an equals sign (=). No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Output info on garbage collection algorithms under this strict formatting constraint: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "Change the tone of this note to be persuasive and motivational: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "Generate a fictional dialogue between two characters discussing a traveler waiting at an empty train station.", "label": "SEMADPT"}
+{"text": "what date is it today", "label": "TXTSRC"}
+{"text": "Output info on microservice design patterns under this strict formatting constraint: Every line must strictly terminate with a semicolon (;).", "label": "CSTRSET"}
+{"text": "Explain the concept of the mechanism of CRISPR-Cas9 targeted genome editing using a clear, intuitive analogy.", "label": "SEMADPT"}
+{"text": "Generate data for microservice design patterns strictly adhering to rule: The output must follow this schema: key: string, count: integer, active: boolean.", "label": "CSTRSET"}
+{"text": "how many square feet is a 13 by 74 room", "label": "MATHDS"}
+{"text": "what is the derivative of x squared plus 5", "label": "MATHDS"}
+{"text": "Rewrite this email to sound humorous and witty: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "What is the surface area of a sphere of diameter 44?", "label": "MATHDS"}
+{"text": "Make this sentence more casual and relaxed: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "how many calories are in a ghirardelli sea salt caramel candy", "label": "TXTSRC"}
+{"text": "Give exactly 7 items in a list of software architectural patterns and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Find the roots of the quadratic equation x^2 - 52x + 451 = 0", "label": "MATHDS"}
+{"text": "Output exactly 7 items in a JSON array for relational database systems.", "label": "CSTRSET"}
+{"text": "tomorrow, what will the date be", "label": "TXTSRC"}
+{"text": "What is the value of x if log2(x) = 4?", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels casual and relaxed: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Provide a JSON payload for cloud server telemetry containing required keys: ['instance_id', 'cpu_percent', 'memory_used_mb', 'disk_free_gb', 'status']. No markdown formatting.", "label": "CSTRSET"}
+{"text": "Factorize the polynomial 2x^2 + 27x + 12", "label": "MATHDS"}
+{"text": "Calculate the compound interest on $9790 at 7% per year for 5 years.", "label": "MATHDS"}
+{"text": "does american express charge transaction fees for iceland", "label": "TXTSRC"}
+{"text": "what is the definiton of auspicious", "label": "TXTSRC"}
+{"text": "give me an answer to who made you", "label": "SEMADPT"}
+{"text": "do you know any jokes", "label": "SEMADPT"}
+{"text": "List exactly 7 networking protocols. No more and no less.", "label": "CSTRSET"}
+{"text": "Explain database index structures using fewer than 25 words total.", "label": "CSTRSET"}
+{"text": "Output info on cloud computing architecture under this strict formatting constraint: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS].", "label": "CSTRSET"}
+{"text": "Generate data for database index structures strictly adhering to rule: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'.", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels humorous and witty: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "Generate data for garbage collection algorithms strictly adhering to rule: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$.", "label": "CSTRSET"}
+{"text": "how can i take a bus to dallas", "label": "TXTSRC"}
+{"text": "Give exactly 4 items in a list of relational database systems and do not include any additional text.", "label": "CSTRSET"}
+{"text": "what s the uv index tomorrow", "label": "TXTSRC"}
+{"text": "What is 11% of 2882?", "label": "MATHDS"}
+{"text": "what is the square root of 36", "label": "MATHDS"}
+{"text": "Return a JSON array containing exactly 3 elements of version control commands.", "label": "CSTRSET"}
+{"text": "Write a creative story exploring two astronauts lost on a distant moon.", "label": "SEMADPT"}
+{"text": "how much is 50 plus 756", "label": "MATHDS"}
+{"text": "Compute the partial derivative of f(x, y) = 4x^2*y + 13y^3 with respect to x", "label": "MATHDS"}
+{"text": "if something is 15% off $35, how much is it", "label": "MATHDS"}
+{"text": "Make this sentence more diplomatic and constructive: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "Solve for x: 2x + 36 = 64", "label": "MATHDS"}
+{"text": "Calculate the determinant of 2x2 matrix [[4, 1], [3, -4]]", "label": "MATHDS"}
+{"text": "Find the second derivative of e^(3x) with respect to x", "label": "MATHDS"}
+{"text": "who is your originator", "label": "SEMADPT"}
+{"text": "List exactly 2 mobile operating systems. No more and no less.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 6 elements of software architectural patterns.", "label": "CSTRSET"}
+{"text": "Compute the perimeter of a rectangle with length 5 and width 7", "label": "MATHDS"}
+{"text": "Output exactly 2 items in a JSON array for machine learning algorithms.", "label": "CSTRSET"}
+{"text": "Evaluate the limit of (9x^2 - 9) / (x - 1) as x approaches 1", "label": "MATHDS"}
+{"text": "Make this sentence more humorous and witty: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "which gas type goes into this car", "label": "TXTSRC"}
+{"text": "i need to know the answer to 10000 multiplied by 44", "label": "MATHDS"}
+{"text": "what is the weather like in sparks right now", "label": "TXTSRC"}
+{"text": "will i be charged a transaction fee on my discover card in cuba", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be concise: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Change the tone of this note to be persuasive and motivational: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "Provide exactly 3 bullet points on file compression formats with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Output exactly 3 items in a JSON array for file compression formats.", "label": "CSTRSET"}
+{"text": "Give exactly 8 items in a list of networking protocols and do not include any additional text.", "label": "CSTRSET"}
+{"text": "i'd like to know the date tomorrow", "label": "TXTSRC"}
+{"text": "does using my card in portland charge me extra", "label": "TXTSRC"}
+{"text": "Return the student academic transcript data as a valid JSON object with fields: student_id, course_name, letter_grade, credit_hours.", "label": "CSTRSET"}
+{"text": "what timezone is china in", "label": "TXTSRC"}
+{"text": "i bought 6 shirts at $499 each what was my total expenditure for them", "label": "MATHDS"}
+{"text": "what is break a leg mean", "label": "TXTSRC"}
+{"text": "List exactly 2 web development frameworks. No more and no less.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 4 elements of data visualization libraries.", "label": "CSTRSET"}
+{"text": "i would like to know the timezone for britain", "label": "TXTSRC"}
+{"text": "how many miles until i get to the beach", "label": "TXTSRC"}
+{"text": "Make this sentence more concise: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "tell me something funny about cats", "label": "SEMADPT"}
+{"text": "Generate data for HTTP/2 protocol multiplexing strictly adhering to rule: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS].", "label": "CSTRSET"}
+{"text": "Make this sentence more professional: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "List exactly 5 networking protocols. No more and no less.", "label": "CSTRSET"}
+{"text": "Convert 392 seconds to books.", "label": "MATHDS"}
+{"text": "how do i spell ambitious", "label": "TXTSRC"}
+{"text": "Generate data for cloud computing architecture strictly adhering to rule: Every line must strictly terminate with a semicolon (;).", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 5 elements of machine learning algorithms.", "label": "CSTRSET"}
+{"text": "Generate data for microservice design patterns strictly adhering to rule: Every line must strictly terminate with a semicolon (;).", "label": "CSTRSET"}
+{"text": "what is the definition of intelligent", "label": "TXTSRC"}
+{"text": "tell me the forecast", "label": "TXTSRC"}
+{"text": "how are you today", "label": "SEMADPT"}
+{"text": "What is the area of a circle with radius 7 cm?", "label": "MATHDS"}
+{"text": "who manufactured you", "label": "SEMADPT"}
+{"text": "define epicurean", "label": "TXTSRC"}
+{"text": "Make this sentence more diplomatic and constructive: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "Calculate 6 permutation 2 (P(6, 2))", "label": "MATHDS"}
+{"text": "how far is the airport in dallas from my current location", "label": "TXTSRC"}
+{"text": "bonjour", "label": "SEMADPT"}
+{"text": "Multiply matrix A = [[4, 2], [0, -3]] by scalar 4", "label": "MATHDS"}
+{"text": "Write a short story about a rainy evening in a quiet town.", "label": "SEMADPT"}
+{"text": "Provide exactly 5 bullet points on web development frameworks with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels diplomatic and constructive: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "what timezone is miami in", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels friendly: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "Find the interquartile range (IQR) for values [38, 55, 38, 49, 63]", "label": "MATHDS"}
+{"text": "what is the correct spelling of the word comity, since i do not know", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound warm and empathetic: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "how much is the charge of using my card in italy during my stay there", "label": "TXTSRC"}
+{"text": "Find the hypotenuse of a right triangle with legs 8 and 37", "label": "MATHDS"}
+{"text": "what is 005 percent of 1 percent", "label": "MATHDS"}
+{"text": "Find the average speed if someone runs 21 km in 34 minutes.", "label": "MATHDS"}
+{"text": "Provide exactly 3 bullet points on networking protocols with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Output a PostgreSQL CREATE TABLE statement for weather station report with columns: [station_id, temperature_c, humidity_pct, wind_kph, timestamp].", "label": "CSTRSET"}
+{"text": "Format the product catalog item details as valid JSON only matching properties: sku, title, price_usd, stock_count, category.", "label": "CSTRSET"}
+{"text": "what do you get if you divide 3 by 2", "label": "MATHDS"}
+{"text": "Find the third angle of a triangle with angles 180 and 45 degrees.", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels friendly: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Evaluate 737 * (173 - 12)", "label": "MATHDS"}
+{"text": "Provide a JSON payload for weather station report containing required keys: ['station_id', 'temperature_c', 'humidity_pct', 'wind_kph', 'timestamp']. No markdown formatting.", "label": "CSTRSET"}
+{"text": "Make this sentence more casual and relaxed: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "Produce valid YAML content for a weather station report using keys: station_id, temperature_c, humidity_pct, wind_kph, timestamp. Strictly adhere to YAML indentation.", "label": "CSTRSET"}
+{"text": "List exactly 2 cloud service providers. No more and no less.", "label": "CSTRSET"}
+{"text": "Output exactly 4 items in a JSON array for machine learning algorithms.", "label": "CSTRSET"}
+{"text": "Give exactly 10 items in a list of data visualization libraries and do not include any additional text.", "label": "CSTRSET"}
+{"text": "can you multiply 45 by 23", "label": "MATHDS"}
+{"text": "Output info on database index structures under this strict formatting constraint: Every line must strictly terminate with a semicolon (;).", "label": "CSTRSET"}
+{"text": "Produce output for garbage collection algorithms enforcing: Output using only capitalized words (ALL CAPS) with no lowercase letters. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Output strictly a JSON object representing a vehicle fleet telemetry with keys: ['vin', 'odometer_km', 'fuel_level_pct', 'tire_pressure_psi', 'speed_kph']. Do not include commentary.", "label": "CSTRSET"}
+{"text": "what is 22+ 6", "label": "MATHDS"}
+{"text": "Compute the derivative of sin(6x) * cos(6x)", "label": "MATHDS"}
+{"text": "Expand and simplify the algebraic term (x + 12)(x - 17)", "label": "MATHDS"}
+{"text": "Calculate the volume of a cylinder with radius 5 and height 24", "label": "MATHDS"}
+{"text": "A store sells 82 items at $66 each and 346 items at $27 each. What is the total revenue?", "label": "MATHDS"}
+{"text": "Output strictly a JSON object representing a commercial invoice with keys: ['invoice_num', 'client_name', 'issue_date', 'subtotal', 'tax', 'total_due']. Do not include commentary.", "label": "CSTRSET"}
+{"text": "Give exactly 8 items in a list of relational database systems and do not include any additional text.", "label": "CSTRSET"}
+{"text": "tell me who made you", "label": "SEMADPT"}
+{"text": "Expand and simplify the algebraic term (x + 9)(x - 48)", "label": "MATHDS"}
+{"text": "what does the word ataraxy mean", "label": "TXTSRC"}
+{"text": "What is the area of a trapezoid with parallel sides 11, 39 and height 4?", "label": "MATHDS"}
+{"text": "what is the timezone for san francisco", "label": "TXTSRC"}
+{"text": "Return a JSON object containing these required fields: [order_id, customer_id, total_usd, payment_status, item_count].", "label": "CSTRSET"}
+{"text": "what timezone is hanoi in", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels professional: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "Output as YAML format only: serialize the user profile record with attributes [user_id, full_name, email_address, created_at, role].", "label": "CSTRSET"}
+{"text": "What is the integral of 2x^1 dx from 0 to 2?", "label": "MATHDS"}
+{"text": "Find the critical points of the function g(x) = 7x^3 - 21x + 9", "label": "MATHDS"}
+{"text": "Simplify the expression (4x^2 + 20x) / (4x)", "label": "MATHDS"}
+{"text": "is it raining", "label": "TXTSRC"}
+{"text": "Find the trace of matrix [[-2, 10], [-3, -1]]", "label": "MATHDS"}
+{"text": "what kind of gas should i use for this car", "label": "TXTSRC"}
+{"text": "Make this sentence more persuasive and motivational: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Produce output for garbage collection algorithms enforcing: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS]. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Calculate the mean and standard deviation of [27, 94, 25, 39, 67, 30, 22, 37]", "label": "MATHDS"}
+{"text": "Calculate 13 permutation 2 (P(13, 2))", "label": "MATHDS"}
+{"text": "how do you feel", "label": "SEMADPT"}
+{"text": "what timezone is reno in", "label": "TXTSRC"}
+{"text": "Suggest creative concepts and fresh angles for memorable taglines for a clean energy startup.", "label": "SEMADPT"}
+{"text": "give me a joke about horses", "label": "SEMADPT"}
+{"text": "does phoenix have a different timezone", "label": "TXTSRC"}
+{"text": "is new york in mountain timezone", "label": "TXTSRC"}
+{"text": "thanks for the reply", "label": "SEMADPT"}
+{"text": "Find the average speed if someone runs 17 km in 84 minutes.", "label": "MATHDS"}
+{"text": "is there a surcharge for using my card in mexico", "label": "TXTSRC"}
+{"text": "weather", "label": "TXTSRC"}
+{"text": "Generate a well-formed XML snippet for vehicle fleet telemetry containing tags: [vin, odometer_km, fuel_level_pct, tire_pressure_psi, speed_kph].", "label": "CSTRSET"}
+{"text": "Return valid YAML only defining a vehicle fleet telemetry with keys: ['vin', 'odometer_km', 'fuel_level_pct', 'tire_pressure_psi', 'speed_kph'].", "label": "CSTRSET"}
+{"text": "Calculate 462 * 10 + 255", "label": "MATHDS"}
+{"text": "List exactly 10 software architectural patterns. No more and no less.", "label": "CSTRSET"}
+{"text": "Generate data for container orchestration systems strictly adhering to rule: The output must follow this schema: key: string, count: integer, active: boolean.", "label": "CSTRSET"}
+{"text": "Rewrite this message in a friendly tone: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "which type of gas does this car take", "label": "TXTSRC"}
+{"text": "how do i get to the bus stop on foot", "label": "TXTSRC"}
+{"text": "who is your manufacturer", "label": "SEMADPT"}
+{"text": "Output info on asymmetric cryptography under this strict formatting constraint: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "can you help me spell facetiousness", "label": "TXTSRC"}
+{"text": "Return a JSON array containing exactly 4 elements of web development frameworks.", "label": "CSTRSET"}
+{"text": "tell me what date it is please", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound polite.", "label": "SEMADPT"}
+{"text": "tell me the gasoline type for this car", "label": "TXTSRC"}
+{"text": "how many calories should i plan to be in a donut", "label": "TXTSRC"}
+{"text": "Output exactly 7 items in a JSON array for networking protocols.", "label": "CSTRSET"}
+{"text": "Normalize the vector [10, 10, 0] to have unit Euclidean norm", "label": "MATHDS"}
+{"text": "Return only a comma-separated values (CSV) string for commercial invoice with header columns: invoice_num, client_name, issue_date, subtotal, tax, total_due.", "label": "CSTRSET"}
+{"text": "Format the e-commerce customer order details as valid JSON only matching properties: order_id, customer_id, total_usd, payment_status, item_count.", "label": "CSTRSET"}
+{"text": "please add 456 and 781 for me", "label": "MATHDS"}
+{"text": "what's the caloric content of an apple", "label": "TXTSRC"}
+{"text": "Output info on cloud computing architecture under this strict formatting constraint: Every line must strictly terminate with a semicolon (;).", "label": "CSTRSET"}
+{"text": "if i use my discover card in cuba are there transaction fees", "label": "TXTSRC"}
+{"text": "what gas does the car use", "label": "TXTSRC"}
+{"text": "Produce valid YAML content for a student academic transcript using keys: student_id, course_name, letter_grade, credit_hours. Strictly adhere to YAML indentation.", "label": "CSTRSET"}
+{"text": "Produce valid YAML content for a flight booking record using keys: booking_ref, passenger_name, origin_code, dest_code, flight_date. Strictly adhere to YAML indentation.", "label": "CSTRSET"}
+{"text": "how do i get to central park by foot", "label": "TXTSRC"}
+{"text": "in what timezone is nigeria", "label": "TXTSRC"}
+{"text": "how many calories in chicken", "label": "TXTSRC"}
+{"text": "Limit the output for garbage collection algorithms strictly to fewer than 30 words.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 6 elements of programming languages.", "label": "CSTRSET"}
+{"text": "Produce output for database index structures enforcing: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "any hobbies you like to do", "label": "SEMADPT"}
+{"text": "Divide 60066 by 71 and add 257.", "label": "MATHDS"}
+{"text": "Find the interquartile range (IQR) for values [33, 95, 82, 16, 80]", "label": "MATHDS"}
+{"text": "List exactly 3 software architectural patterns. No more and no less.", "label": "CSTRSET"}
+{"text": "would you give me examples of what some of your hobbies are", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound polite: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "what is 750 divided by 5", "label": "MATHDS"}
+{"text": "List exactly 3 version control commands. No more and no less.", "label": "CSTRSET"}
+{"text": "Give exactly 6 items in a list of mobile operating systems and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Find the eigenvalues of matrix [[2, 0], [0, 6]]", "label": "MATHDS"}
+{"text": "Find the interquartile range (IQR) for values [82, 85, 84, 22, 23, 82]", "label": "MATHDS"}
+{"text": "Generate a well-formed XML snippet for job application tracking containing tags: [applicant_id, position_title, years_experience, status_code].", "label": "CSTRSET"}
+{"text": "what is the square root of 95", "label": "MATHDS"}
+{"text": "Find the average speed if someone runs 24 km in 58 minutes.", "label": "MATHDS"}
+{"text": "Solve the linear system: 4x + 2y = 106 and x - 3y = 1", "label": "MATHDS"}
+{"text": "what is 592 minus 124", "label": "MATHDS"}
+{"text": "make me laugh with a funny joke", "label": "SEMADPT"}
+{"text": "do you charge me if i use my card in japan", "label": "TXTSRC"}
+{"text": "Give me a short summary of this article on the fundamental concepts behind generative adversarial networks.", "label": "SEMADPT"}
+{"text": "Provide exactly 4 bullet points on data visualization libraries with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "what gas does my car use", "label": "TXTSRC"}
+{"text": "what is 10 to the 12th power", "label": "MATHDS"}
+{"text": "Can you summarize this text about the principles of sustainable circular economy design for a general reader?", "label": "SEMADPT"}
+{"text": "Output exactly 2 items in a JSON array for networking protocols.", "label": "CSTRSET"}
+{"text": "please provide the square root of 36", "label": "MATHDS"}
+{"text": "i need directions to get to olympia by bus", "label": "TXTSRC"}
+{"text": "what is the distance to austin city limits from my hotel , the holiday inn at austin", "label": "TXTSRC"}
+{"text": "Find the critical points of the function g(x) = 7x^3 - 21x + 20", "label": "MATHDS"}
+{"text": "Change the tone of this note to be professional: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "i need to know what the date is today", "label": "TXTSRC"}
+{"text": "Solve the linear system: 10x + 2y = 148 and x - 3y = 6", "label": "MATHDS"}
+{"text": "will i get charged extra for using my card while in tulsa", "label": "TXTSRC"}
+{"text": "Output strictly a JSON object representing a job application tracking with keys: ['applicant_id', 'position_title', 'years_experience', 'status_code']. Do not include commentary.", "label": "CSTRSET"}
+{"text": "Give exactly 5 items in a list of data visualization libraries and do not include any additional text.", "label": "CSTRSET"}
+{"text": "define qat for me", "label": "TXTSRC"}
+{"text": "how to i get to the mall on foot", "label": "TXTSRC"}
+{"text": "i'd like to know your hobbies", "label": "SEMADPT"}
+{"text": "is there a fee for using my card in portland", "label": "TXTSRC"}
+{"text": "current date", "label": "TXTSRC"}
+{"text": "Evaluate the limit of (4x^2 - 4) / (x - 1) as x approaches 1", "label": "MATHDS"}
+{"text": "Compute the perimeter of a rectangle with length 8 and width 23", "label": "MATHDS"}
+{"text": "Rewrite this email to sound warm and empathetic: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Expand and simplify the algebraic term (x + 10)(x - 50)", "label": "MATHDS"}
+{"text": "i need to know what timezone ireland is in", "label": "TXTSRC"}
+{"text": "how long to washington dc on a bus", "label": "TXTSRC"}
+{"text": "what is 15% of 3143", "label": "MATHDS"}
+{"text": "which day is it now", "label": "TXTSRC"}
+{"text": "Generate a fictional dialogue between two characters discussing an artificial intelligence discovering music.", "label": "SEMADPT"}
+{"text": "what company created you", "label": "SEMADPT"}
+{"text": "Find the second derivative of e^(5x) with respect to x", "label": "MATHDS"}
+{"text": "what's the meaning of affiliate", "label": "TXTSRC"}
+{"text": "tell me what time zone portugal uses", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound humorous and witty: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "Give exactly 3 items in a JSON array and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Provide a 1-sentence technical definition of content delivery networks containing at least 20 words.", "label": "CSTRSET"}
+{"text": "A store sells 631 items at $62 each and 271 items at $6 each. What is the total revenue?", "label": "MATHDS"}
+{"text": "what is 1/2 times 5/8", "label": "MATHDS"}
+{"text": "what kind of gas do i put in my car", "label": "TXTSRC"}
+{"text": "Compute the perimeter of a rectangle with length 10 and width 13", "label": "MATHDS"}
+{"text": "what kinds of things do you do for hobbies", "label": "SEMADPT"}
+{"text": "i would like to know some of your hobbies", "label": "SEMADPT"}
+{"text": "Find the average speed if someone runs 19 km in 41 minutes.", "label": "MATHDS"}
+{"text": "Make this sentence more friendly: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "i need to know directions to the nearest gas station", "label": "TXTSRC"}
+{"text": "Calculate the determinant of 2x2 matrix [[-3, -2], [7, 5]]", "label": "MATHDS"}
+{"text": "Change the tone of this note to be warm and empathetic: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "Rewrite this message in a diplomatic and constructive tone: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "Find the eigenvalues of matrix [[-1, 0], [0, -4]]", "label": "MATHDS"}
+{"text": "how are you this day", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 4 elements of file compression formats.", "label": "CSTRSET"}
+{"text": "could you tell me what timezone reno is in", "label": "TXTSRC"}
+{"text": "who is your creator", "label": "SEMADPT"}
+{"text": "List exactly 3 data visualization libraries. No more and no less.", "label": "CSTRSET"}
+{"text": "i need to know somthing funny", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 2 elements of mobile operating systems.", "label": "CSTRSET"}
+{"text": "what's the weather like right now", "label": "TXTSRC"}
+{"text": "Make this sentence more polite: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "Calculate the compound interest on $6010 at 7% per year for 3 years.", "label": "MATHDS"}
+{"text": "i want to hear your best joke", "label": "SEMADPT"}
+{"text": "Produce output for container orchestration systems enforcing: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Find the trace of matrix [[-4, 7], [3, -3]]", "label": "MATHDS"}
+{"text": "Give exactly 3 items in a list of relational database systems and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 4 elements of relational database systems.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 2 elements of web development frameworks.", "label": "CSTRSET"}
+{"text": "how should i spell malignant", "label": "TXTSRC"}
+{"text": "Calculate the compound interest on $6000 at 12% per year for 2 years.", "label": "MATHDS"}
+{"text": "Find the interquartile range (IQR) for values [93, 95, 68, 53, 56, 16]", "label": "MATHDS"}
+{"text": "Define a relational database while completely avoiding the following forbidden words: 'table', 'sql', 'query', 'row'.", "label": "CSTRSET"}
+{"text": "Change the tone of this note to be warm and empathetic: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "What is the integral of 6x^1 dx from 0 to 1?", "label": "MATHDS"}
+{"text": "Define a cryptographic hash while completely avoiding the following forbidden words: 'sha', 'md5', 'digest', 'encryption'.", "label": "CSTRSET"}
+{"text": "Solve for x: 10x + 41 = 117", "label": "MATHDS"}
+{"text": "Output a PostgreSQL CREATE TABLE statement for movie catalog entry with columns: [movie_id, title, director, release_year, rating].", "label": "CSTRSET"}
+{"text": "can you check the amount of calories in a chicken sandwich", "label": "TXTSRC"}
+{"text": "in a fried egg, how many calories are there", "label": "TXTSRC"}
+{"text": "Brainstorm 5 innovative ideas for a mobile app connecting urban community gardeners.", "label": "SEMADPT"}
+{"text": "Produce output for HTTP/2 protocol multiplexing enforcing: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "what's the timezone for britain", "label": "TXTSRC"}
+{"text": "List exactly 8 version control commands. No more and no less.", "label": "CSTRSET"}
+{"text": "peace out", "label": "SEMADPT"}
+{"text": "What is the z-score of a value 103 with mean 100 and standard deviation 7?", "label": "MATHDS"}
+{"text": "can you give the definition of deiscretionary", "label": "TXTSRC"}
+{"text": "how long can i expect a bus ride to the liberty bell to take", "label": "TXTSRC"}
+{"text": "List exactly 10 cybersecurity best practices. No more and no less.", "label": "CSTRSET"}
+{"text": "Provide exactly 3 bullet points on data visualization libraries with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "how many times does 8 go into 2000", "label": "MATHDS"}
+{"text": "Rewrite this message in a inspirational tone: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "is 126 divisible by 8", "label": "MATHDS"}
+{"text": "i would like to know tomorrow's date", "label": "TXTSRC"}
+{"text": "tell me what 1875 plus 3459 equals", "label": "MATHDS"}
+{"text": "Limit the explanation of memory hierarchy in modern CPUs strictly to under 140 characters, including spaces.", "label": "CSTRSET"}
+{"text": "let me know the date tomorrow", "label": "TXTSRC"}
+{"text": "what's the distance between home and the closest starbucks", "label": "TXTSRC"}
+{"text": "how do you spell antipathy", "label": "TXTSRC"}
+{"text": "find square root of 453", "label": "MATHDS"}
+{"text": "Make this sentence more humorous and witty: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "Generate data for database index structures strictly adhering to rule: Format the response such that every line contains exactly one key-value pair separated by an equals sign (=).", "label": "CSTRSET"}
+{"text": "Generate data for database index structures strictly adhering to rule: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "Rewrite this email to sound polite: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "what kind of gas does this car use", "label": "TXTSRC"}
+{"text": "what is the square root of sixteen", "label": "MATHDS"}
+{"text": "what would the date be 5 days from today", "label": "TXTSRC"}
+{"text": "please spell doctor", "label": "TXTSRC"}
+{"text": "what does yolo mean", "label": "TXTSRC"}
+{"text": "what type of fuel do i need to use to fill the car up with", "label": "TXTSRC"}
+{"text": "how long is the drive to the closest gas station", "label": "TXTSRC"}
+{"text": "Give exactly 3 items in a list of file compression formats and do not include any additional text.", "label": "CSTRSET"}
+{"text": "that's all, bye", "label": "SEMADPT"}
+{"text": "What is the integral of 4x^2 dx from 0 to 4?", "label": "MATHDS"}
+{"text": "i need a time update on the applebees trip", "label": "TXTSRC"}
+{"text": "Find the hypotenuse of a right triangle with legs 11 and 35", "label": "MATHDS"}
+{"text": "Rewrite this message in a persuasive and motivational tone: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "Give exactly 5 items in a list of networking protocols and do not include any additional text.", "label": "CSTRSET"}
+{"text": "i don't know how to spell apoplectic, can you tell me", "label": "TXTSRC"}
+{"text": "Output info on container orchestration systems under this strict formatting constraint: Format the response such that every line contains exactly one key-value pair separated by an equals sign (=).", "label": "CSTRSET"}
+{"text": "Change the tone of this note to be friendly: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "If an item costs $417 and has a discount of 17%, what is the final price?", "label": "MATHDS"}
+{"text": "What is the indefinite integral of 1 / (5x + 16) dx?", "label": "MATHDS"}
+{"text": "Format data for e-commerce customer order as a Markdown table with exact column headers: [order_id, customer_id, total_usd, payment_status, item_count].", "label": "CSTRSET"}
+{"text": "i want the calorie content for a banana", "label": "TXTSRC"}
+{"text": "how hot will it be tomorrow", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound concise: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "how many transaction fees are there when i use my discover card in rome", "label": "TXTSRC"}
+{"text": "Calculate the compound interest on $1410 at 10% per year for 3 years.", "label": "MATHDS"}
+{"text": "Rewrite this email to sound diplomatic and constructive: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound warm and empathetic: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "Multiply matrix A = [[-2, -3], [-2, 9]] by scalar 7", "label": "MATHDS"}
+{"text": "Provide an explanation of content delivery networks in exactly 50 words.", "label": "CSTRSET"}
+{"text": "Produce output for container orchestration systems enforcing: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "How many combinations of 5 items can be chosen from 13 items?", "label": "MATHDS"}
+{"text": "how many cs are in acquiescence", "label": "TXTSRC"}
+{"text": "Output exactly 7 items in a JSON array for version control commands.", "label": "CSTRSET"}
+{"text": "Simplify the expression (8x^2 + 9x) / (8x)", "label": "MATHDS"}
+{"text": "What is the Frobenius norm of matrix [[8, -1], [-1, 10]]?", "label": "MATHDS"}
+{"text": "help me solve this math equation", "label": "MATHDS"}
+{"text": "what is 2+2", "label": "MATHDS"}
+{"text": "What is the Frobenius norm of matrix [[-2, 3], [5, 8]]?", "label": "MATHDS"}
+{"text": "Output exactly 10 items in a JSON array for data visualization libraries.", "label": "CSTRSET"}
+{"text": "Condense the following discussion about the formation and dynamics of oceanic hydrothermal vents into a brief overview.", "label": "SEMADPT"}
+{"text": "Return only a comma-separated values (CSV) string for weather station report with header columns: station_id, temperature_c, humidity_pct, wind_kph, timestamp.", "label": "CSTRSET"}
+{"text": "Find the critical points of the function g(x) = 6x^3 - 18x + 6", "label": "MATHDS"}
+{"text": "Output info on asymmetric cryptography under this strict formatting constraint: Wrap every value in double quotes and separate entries with a pipe delimiter (|).", "label": "CSTRSET"}
+{"text": "Brainstorm 5 innovative ideas for creative ways to practice conversational foreign languages.", "label": "SEMADPT"}
+{"text": "Provide exactly 8 bullet points on machine learning algorithms with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "how many calories are in oreos", "label": "TXTSRC"}
+{"text": "Make this sentence more humorous and witty: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound inspirational: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Find the variance of the numbers: 68, 94, 85, 74, 27, 73, 10, 77", "label": "MATHDS"}
+{"text": "what kind of gas can i put into this car", "label": "TXTSRC"}
+{"text": "Give exactly 5 items in a list of cybersecurity best practices and do not include any additional text.", "label": "CSTRSET"}
+{"text": "What is the area of a circle with radius 4 cm?", "label": "MATHDS"}
+{"text": "good speaking to you", "label": "SEMADPT"}
+{"text": "what do you like to do for fun", "label": "SEMADPT"}
+{"text": "Generate data for microservice design patterns strictly adhering to rule: Prefix every line with a sequential numbering like [1], [2], [3].", "label": "CSTRSET"}
+{"text": "If an item costs $33 and has a discount of 12%, what is the final price?", "label": "MATHDS"}
+{"text": "Provide a 1-sentence technical definition of load balancing algorithms containing at least 20 words.", "label": "CSTRSET"}
+{"text": "If f(x) = 7x + 22, what is f(5)?", "label": "MATHDS"}
+{"text": "how you are", "label": "SEMADPT"}
+{"text": "Can you summarize this text about the cellular mechanisms of aging and telomere attrition for a general reader?", "label": "SEMADPT"}
+{"text": "see you later!", "label": "SEMADPT"}
+{"text": "Generate data for garbage collection algorithms strictly adhering to rule: Format the response such that every line contains exactly one key-value pair separated by an equals sign (=).", "label": "CSTRSET"}
+{"text": "Explain distributed consensus protocols using fewer than 25 words total.", "label": "CSTRSET"}
+{"text": "Provide exactly 5 bullet points on relational database systems with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "can you spell \"fragile\" for me", "label": "TXTSRC"}
+{"text": "Return a JSON array containing exactly 6 elements of networking protocols.", "label": "CSTRSET"}
+{"text": "give me directions to the nearest gas station", "label": "TXTSRC"}
+{"text": "Summarize the main points of the text regarding the mechanism of CRISPR-Cas9 targeted genome editing.", "label": "SEMADPT"}
+{"text": "Compute the perimeter of a rectangle with length 20 and width 13", "label": "MATHDS"}
+{"text": "Find the critical points of the function g(x) = 8x^3 - 24x + 13", "label": "MATHDS"}
+{"text": "Find the third angle of a triangle with angles 60 and 30 degrees.", "label": "MATHDS"}
+{"text": "Return a JSON array containing exactly 4 elements of machine learning algorithms.", "label": "CSTRSET"}
+{"text": "Find the variance of the numbers: 95, 94, 32, 25, 11, 27, 11", "label": "MATHDS"}
+{"text": "Provide a concise summary highlighting the key takeaways of how sleep deprivation affects memory consolidation in the brain.", "label": "SEMADPT"}
+{"text": "Change the tone of this note to be concise: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "If an item costs $110 and has a discount of 31%, what is the final price?", "label": "MATHDS"}
+{"text": "Return only the requested values and no explanation.", "label": "CSTRSET"}
+{"text": "State the function of a cache system while omitting all words from this list: 'redis', 'memcache', 'hit', 'ttl'.", "label": "CSTRSET"}
+{"text": "Rewrite this message in a warm and empathetic tone: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "what do you do for hobbies", "label": "SEMADPT"}
+{"text": "bye bye then", "label": "SEMADPT"}
+{"text": "what is 1 million twelve hundred divided by 400 thousand", "label": "MATHDS"}
+{"text": "Output info on microservice design patterns under this strict formatting constraint: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'.", "label": "CSTRSET"}
+{"text": "Calculate 6 permutation 4 (P(6, 4))", "label": "MATHDS"}
+{"text": "is the ride short to the airport in la", "label": "TXTSRC"}
+{"text": "What is the value of x if log2(x) = 8?", "label": "MATHDS"}
+{"text": "Provide exactly 5 bullet points on software architectural patterns with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Calculate 12 permutation 2 (P(12, 2))", "label": "MATHDS"}
+{"text": "hey, how are you", "label": "SEMADPT"}
+{"text": "Describe container orchestration systems in between 30 and 40 words total.", "label": "CSTRSET"}
+{"text": "tell me how many calories in a medium size apple", "label": "TXTSRC"}
+{"text": "can you provide me the calories in the smoothie", "label": "TXTSRC"}
+{"text": "Find the derivative of f(x) = 7x^3 + 14x - 15", "label": "MATHDS"}
+{"text": "italy is in what timezone", "label": "TXTSRC"}
+{"text": "Output exactly 8 items in a JSON array for mobile operating systems.", "label": "CSTRSET"}
+{"text": "Return the e-commerce customer order data as a valid JSON object with fields: order_id, customer_id, total_usd, payment_status, item_count.", "label": "CSTRSET"}
+{"text": "Find the hypotenuse of a right triangle with legs 15 and 23", "label": "MATHDS"}
+{"text": "what jokes do you know", "label": "SEMADPT"}
+{"text": "can you calculate 18 divided by 45", "label": "MATHDS"}
+{"text": "Format the weather station report details as valid JSON only matching properties: station_id, temperature_c, humidity_pct, wind_kph, timestamp.", "label": "CSTRSET"}
+{"text": "Calculate 15 permutation 5 (P(15, 5))", "label": "MATHDS"}
+{"text": "Output exactly 2 items in a JSON array for data visualization libraries.", "label": "CSTRSET"}
+{"text": "please let me know how long it'll be until i reach the sky harbor airport", "label": "TXTSRC"}
+{"text": "how do i get to the movie theater by bus", "label": "TXTSRC"}
+{"text": "Solve the linear system: 11x + 2y = 55 and x - 3y = 33", "label": "MATHDS"}
+{"text": "Define a cache system while completely avoiding the following forbidden words: 'redis', 'memcache', 'hit', 'ttl'.", "label": "CSTRSET"}
+{"text": "Solve the linear system: 12x + 2y = 54 and x - 3y = 43", "label": "MATHDS"}
+{"text": "what is 250 times 118 times 9", "label": "MATHDS"}
+{"text": "tell me the calorie content of an apple", "label": "TXTSRC"}
+{"text": "Return only a comma-separated values (CSV) string for product catalog item with header columns: sku, title, price_usd, stock_count, category.", "label": "CSTRSET"}
+{"text": "would you tell me about your hobbies", "label": "SEMADPT"}
+{"text": "is there any rain in the next 3 days", "label": "TXTSRC"}
+{"text": "can you factor x squared plus 4 x plus 4", "label": "MATHDS"}
+{"text": "hello there, good morning", "label": "SEMADPT"}
+{"text": "15 days from today, what will the date be", "label": "TXTSRC"}
+{"text": "State the function of cloud storage while omitting all words from this list: 'file', 'server', 'data', 'upload'.", "label": "CSTRSET"}
+{"text": "Draft an evocative opening paragraph for a novel set around a rainy evening in a quiet town.", "label": "SEMADPT"}
+{"text": "how long will it take to get to outback in phoenix", "label": "TXTSRC"}
+{"text": "Output as YAML format only: serialize the student academic transcript record with attributes [student_id, course_name, letter_grade, credit_hours].", "label": "CSTRSET"}
+{"text": "Return valid YAML only defining a student academic transcript with keys: ['student_id', 'course_name', 'letter_grade', 'credit_hours'].", "label": "CSTRSET"}
+{"text": "how long will it take me to get to phoenix", "label": "TXTSRC"}
+{"text": "i would like to know the kind of gas that this car uses", "label": "TXTSRC"}
+{"text": "how do i get to the train by foot", "label": "TXTSRC"}
+{"text": "Output info on cloud computing architecture under this strict formatting constraint: Wrap every value in double quotes and separate entries with a pipe delimiter (|).", "label": "CSTRSET"}
+{"text": "can you tell me the low tonight", "label": "TXTSRC"}
+{"text": "can you tell me what 30% off 279 is", "label": "MATHDS"}
+{"text": "what is the square root of 66", "label": "MATHDS"}
+{"text": "What is the z-score of a value 114 with mean 100 and standard deviation 17?", "label": "MATHDS"}
+{"text": "Output exactly 5 items in a JSON array for cybersecurity best practices.", "label": "CSTRSET"}
+{"text": "Give exactly 5 items in a list of cloud service providers and do not include any additional text.", "label": "CSTRSET"}
+{"text": "would you please tell me today's date", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be persuasive and motivational: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Rewrite this message in a diplomatic and constructive tone: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Condense the following discussion about how sleep deprivation affects memory consolidation in the brain into a brief overview.", "label": "SEMADPT"}
+{"text": "Write a short story about the mystery of deep ocean trenches.", "label": "SEMADPT"}
+{"text": "Find the vertex of the parabola y = 6x^2 - 3x + 93", "label": "MATHDS"}
+{"text": "Can you summarize this text about the economic principles behind comparative advantage in international trade for a general reader?", "label": "SEMADPT"}
+{"text": "how many calories are in mashed potatoes", "label": "TXTSRC"}
+{"text": "Output info on asymmetric cryptography under this strict formatting constraint: The output must follow this schema: key: string, count: integer, active: boolean.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 2 elements of networking protocols.", "label": "CSTRSET"}
+{"text": "what is it is all relative mean", "label": "TXTSRC"}
+{"text": "time taken to reach doctors office", "label": "TXTSRC"}
+{"text": "In a box of 20 marbles with 7 red ones, what is the chance of drawing 2 red marbles?", "label": "MATHDS"}
+{"text": "Find the interquartile range (IQR) for values [85, 35, 76, 11, 18, 21, 80, 46]", "label": "MATHDS"}
+{"text": "Rewrite this message in a warm and empathetic tone: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Evaluate the limit of (8x^2 - 8) / (x - 1) as x approaches 1", "label": "MATHDS"}
+{"text": "If f(x) = 4x + 30, what is f(6)?", "label": "MATHDS"}
+{"text": "Calculate sin^2(45) + cos^2(45)", "label": "MATHDS"}
+{"text": "Output info on HTTP/2 protocol multiplexing under this strict formatting constraint: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$.", "label": "CSTRSET"}
+{"text": "Rewrite this message in a persuasive and motivational tone: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "Provide an explanation of HTTP/2 protocol multiplexing in exactly 50 words.", "label": "CSTRSET"}
+{"text": "Generate a fictional dialogue between two characters discussing the secret life of an old clockmaker.", "label": "SEMADPT"}
+{"text": "i wish you were here earlier", "label": "SEMADPT"}
+{"text": "Change the tone of this note to be humorous and witty: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "Output info on asymmetric cryptography under this strict formatting constraint: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'.", "label": "CSTRSET"}
+{"text": "will you help me with a math problem", "label": "MATHDS"}
+{"text": "What is the indefinite integral of 1 / (8x + 18) dx?", "label": "MATHDS"}
+{"text": "what is stupedous meant", "label": "TXTSRC"}
+{"text": "i must know the closest gas station to glendale", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be concise: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "thank you for answering that", "label": "SEMADPT"}
+{"text": "tell me how to spell malignant", "label": "TXTSRC"}
+{"text": "What is the surface area of a sphere of diameter 48?", "label": "MATHDS"}
+{"text": "Produce output for distributed consensus protocols enforcing: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "what is 1000 plus 745", "label": "MATHDS"}
+{"text": "what is the date tomorrow, please", "label": "TXTSRC"}
+{"text": "tell me what the date will be in 5 days", "label": "TXTSRC"}
+{"text": "Output info on distributed consensus protocols under this strict formatting constraint: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS].", "label": "CSTRSET"}
+{"text": "calorie check, cheese burger", "label": "TXTSRC"}
+{"text": "what kind of activities do you enjoy", "label": "SEMADPT"}
+{"text": "What is the z-score of a value 85 with mean 100 and standard deviation 9?", "label": "MATHDS"}
+{"text": "if i take this bus, how long until i get to brooklyn", "label": "TXTSRC"}
+{"text": "what's happening", "label": "SEMADPT"}
+{"text": "Calculate the determinant of 2x2 matrix [[9, 0], [8, 4]]", "label": "MATHDS"}
+{"text": "how much is the atm fee for my boa card in orlando, fl", "label": "TXTSRC"}
+{"text": "good night", "label": "SEMADPT"}
+{"text": "what do you do in your free time", "label": "SEMADPT"}
+{"text": "Provide exactly 5 bullet points on file compression formats with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "what's the current weather situation for tallahassee", "label": "TXTSRC"}
+{"text": "What is the surface area of a sphere of diameter 42?", "label": "MATHDS"}
+{"text": "what sort of fuel should i use for this car", "label": "TXTSRC"}
+{"text": "Generate data for asymmetric cryptography strictly adhering to rule: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "Draft an evocative opening paragraph for a novel set around a solitary lighthouse keeper during a storm.", "label": "SEMADPT"}
+{"text": "Convert 367 tickets to books.", "label": "MATHDS"}
+{"text": "Rewrite this message in a professional tone: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "are there international transaction fees associated with my td bank card", "label": "TXTSRC"}
+{"text": "can you tell me a joke about a lawyer", "label": "SEMADPT"}
+{"text": "how many calories are in a sandwich", "label": "TXTSRC"}
+{"text": "Produce valid YAML content for a commercial invoice using keys: invoice_num, client_name, issue_date, subtotal, tax, total_due. Strictly adhere to YAML indentation.", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels polite: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "Find the variance of the numbers: 22, 94, 38, 10, 53", "label": "MATHDS"}
+{"text": "what is 48 multiplied by 4 divided by 2", "label": "MATHDS"}
+{"text": "how do i get to the nearest post office", "label": "TXTSRC"}
+{"text": "awesome, thanks", "label": "SEMADPT"}
+{"text": "Solve the inequality 2x - 19 >= 124", "label": "MATHDS"}
+{"text": "Multiply matrix A = [[6, -4], [-4, 10]] by scalar 7", "label": "MATHDS"}
+{"text": "Generate data for garbage collection algorithms strictly adhering to rule: Prefix every line with a sequential numbering like [1], [2], [3].", "label": "CSTRSET"}
+{"text": "List exactly 10 file compression formats. No more and no less.", "label": "CSTRSET"}
+{"text": "Rewrite this email to sound polite: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound polite: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "what is 34 times 80908", "label": "MATHDS"}
+{"text": "Change the tone of this note to be concise: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "what is the sum of 8 + 3", "label": "MATHDS"}
+{"text": "Rewrite this email to sound concise: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "i would love to hear a joke about the dmv", "label": "SEMADPT"}
+{"text": "Write a creative story exploring a stray dog finding a home.", "label": "SEMADPT"}
+{"text": "Output info on database index structures under this strict formatting constraint: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'.", "label": "CSTRSET"}
+{"text": "Multiply matrix A = [[-1, 9], [-4, 2]] by scalar 3", "label": "MATHDS"}
+{"text": "Rewrite this email to sound casual and relaxed: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "can you tell me today's date", "label": "TXTSRC"}
+{"text": "Expand and simplify the algebraic term (x + 12)(x - 23)", "label": "MATHDS"}
+{"text": "Find the variance of the numbers: 82, 82, 56, 50, 64, 31", "label": "MATHDS"}
+{"text": "Compute the perimeter of a rectangle with length 8 and width 5", "label": "MATHDS"}
+{"text": "if i’m in japan, what time zone am i in", "label": "TXTSRC"}
+{"text": "Compute the Euclidean distance between points (3, 9) and (-3, -3)", "label": "MATHDS"}
+{"text": "i can not thank you enough", "label": "SEMADPT"}
+{"text": "please tell me the total calories a single serving of chocolate ice cream is expected to contain", "label": "TXTSRC"}
+{"text": "Normalize the vector [-4, 3, 7] to have unit Euclidean norm", "label": "MATHDS"}
+{"text": "if i change my timezone to reno, what would it be", "label": "TXTSRC"}
+{"text": "Provide an explanation of domain name system resolution in exactly 50 words.", "label": "CSTRSET"}
+{"text": "if i win 200000 how do i split it 7 ways", "label": "MATHDS"}
+{"text": "Give exactly 8 items in a list of programming languages and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Find the eigenvalues of matrix [[-3, 0], [0, -5]]", "label": "MATHDS"}
+{"text": "Limit the explanation of load balancing algorithms strictly to under 140 characters, including spaces.", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels inspirational: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "Output info on microservice design patterns under this strict formatting constraint: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS].", "label": "CSTRSET"}
+{"text": "could you share a joke", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels professional: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Solve for x: 8x + 11 = 133", "label": "MATHDS"}
+{"text": "Change the tone of this note to be humorous and witty: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Give me creative name ideas for compelling themes for an indie fantasy novel.", "label": "SEMADPT"}
+{"text": "Simplify the expression (11x^2 + 16x) / (11x)", "label": "MATHDS"}
+{"text": "Provide exactly 6 bullet points on cloud service providers with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Provide exactly 3 bullet points on cybersecurity best practices with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Produce output for microservice design patterns enforcing: Every line must strictly terminate with a semicolon (;). No commentary or extra text.", "label": "CSTRSET"}
+{"text": "what is 78 times 81 minus 5", "label": "MATHDS"}
+{"text": "what day of the month is it", "label": "TXTSRC"}
+{"text": "i need to know britain's timezone", "label": "TXTSRC"}
+{"text": "while in tulsa, if i use my card, would i be charged more", "label": "TXTSRC"}
+{"text": "what is 63 percent of 145", "label": "MATHDS"}
+{"text": "what kind of gas is needed for this car", "label": "TXTSRC"}
+{"text": "Multiply matrix A = [[-4, 4], [5, -5]] by scalar 3", "label": "MATHDS"}
+{"text": "Rewrite this email to sound concise: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "What is the integral of 5x^4 dx from 0 to 3?", "label": "MATHDS"}
+{"text": "that will be all have a nice day!", "label": "SEMADPT"}
+{"text": "what type of gas does this car take", "label": "TXTSRC"}
+{"text": "Describe cloud storage under the negative constraint: you are strictly forbidden from using 'file', 'server', 'data', 'upload'.", "label": "CSTRSET"}
+{"text": "if i take the bus, how long will it take to get to dubrovnik", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be diplomatic and constructive: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "A store sells 242 items at $16 each and 251 items at $20 each. What is the total revenue?", "label": "MATHDS"}
+{"text": "Generate a fictional dialogue between two characters discussing autumn leaves falling in an ancient courtyard.", "label": "SEMADPT"}
+{"text": "does this car need high octane gas", "label": "TXTSRC"}
+{"text": "Give exactly 2 items in a list of file compression formats and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Find the roots of the quadratic equation x^2 - 32x + 175 = 0", "label": "MATHDS"}
+{"text": "Rewrite this email to sound friendly: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "Compute the partial derivative of f(x, y) = 4x^2*y + 17y^3 with respect to x", "label": "MATHDS"}
+{"text": "Give exactly 2 items in a list of web development frameworks and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Format the commercial invoice details as valid JSON only matching properties: invoice_num, client_name, issue_date, subtotal, tax, total_due.", "label": "CSTRSET"}
+{"text": "Simplify the expression (9x^2 + 30x) / (9x)", "label": "MATHDS"}
+{"text": "Give exactly 2 items in a list of mobile operating systems and do not include any additional text.", "label": "CSTRSET"}
+{"text": "oh, thanks", "label": "SEMADPT"}
+{"text": "Find the vertex of the parabola y = 4x^2 - 21x + 100", "label": "MATHDS"}
+{"text": "costa mesa current weather", "label": "TXTSRC"}
+{"text": "Calculate the compound interest on $1220 at 5% per year for 3 years.", "label": "MATHDS"}
+{"text": "let me know how to get to the starbucks nearby", "label": "TXTSRC"}
+{"text": "Give exactly 4 items in a list of version control commands and do not include any additional text.", "label": "CSTRSET"}
+{"text": "how do you spell out university", "label": "TXTSRC"}
+{"text": "what is 3 to the 6th power", "label": "MATHDS"}
+{"text": "tell me how are you", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels diplomatic and constructive: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "what's 47 times 83", "label": "MATHDS"}
+{"text": "If an item costs $236 and has a discount of 38%, what is the final price?", "label": "MATHDS"}
+{"text": "is it snowing right now in richmond, va", "label": "TXTSRC"}
+{"text": "Produce output for cloud computing architecture enforcing: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "List exactly 5 data visualization libraries. No more and no less.", "label": "CSTRSET"}
+{"text": "Calculate the compound interest on $3780 at 5% per year for 8 years.", "label": "MATHDS"}
+{"text": "Return a JSON array containing exactly 7 elements of web development frameworks.", "label": "CSTRSET"}
+{"text": "what do you engage in during your free time", "label": "SEMADPT"}
+{"text": "hello how's it going", "label": "SEMADPT"}
+{"text": "Change the tone of this note to be professional: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "what is 20 + 20", "label": "MATHDS"}
+{"text": "Compute the Euclidean distance between points (4, -5) and (5, -2)", "label": "MATHDS"}
+{"text": "what kind of gas goes in", "label": "TXTSRC"}
+{"text": "List exactly 6 relational database systems. No more and no less.", "label": "CSTRSET"}
+{"text": "Provide exactly 2 bullet points on relational database systems with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "are there any furniture outlets near the mall", "label": "TXTSRC"}
+{"text": "How many combinations of 3 items can be chosen from 14 items?", "label": "MATHDS"}
+{"text": "please give me today's date", "label": "TXTSRC"}
+{"text": "how long does it take to get to dallas by bus", "label": "TXTSRC"}
+{"text": "Calculate the determinant of 2x2 matrix [[-5, 7], [-4, 3]]", "label": "MATHDS"}
+{"text": "thanks a lot for the answer", "label": "SEMADPT"}
+{"text": "how miles does it take to get to red lobster from my current location", "label": "TXTSRC"}
+{"text": "Give me a short summary of this article on recent breakthroughs in quantum computing and error mitigation.", "label": "SEMADPT"}
+{"text": "Produce output for microservice design patterns enforcing: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "is there a certain type of gas i need to use for this car", "label": "TXTSRC"}
+{"text": "what is the meaning of word alliance", "label": "TXTSRC"}
+{"text": "how early should i leave to the airport in la", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels polite: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "can you tell me the amount of calories i can expect one tuna sandwich to contain", "label": "TXTSRC"}
+{"text": "Provide exactly 2 bullet points on software architectural patterns with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "List exactly 3 file compression formats. No more and no less.", "label": "CSTRSET"}
+{"text": "Produce output for HTTP/2 protocol multiplexing enforcing: Wrap every value in double quotes and separate entries with a pipe delimiter (|). No commentary or extra text.", "label": "CSTRSET"}
+{"text": "what time will i get to the beach taking the bus", "label": "TXTSRC"}
+{"text": "What is the z-score of a value 117 with mean 100 and standard deviation 18?", "label": "MATHDS"}
+{"text": "tell me the meaning of alternative", "label": "TXTSRC"}
+{"text": "Give exactly 2 items in a list of relational database systems and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Output a PostgreSQL CREATE TABLE statement for user profile with columns: [user_id, full_name, email_address, created_at, role].", "label": "CSTRSET"}
+{"text": "i need meteorological data for tallahassee", "label": "TXTSRC"}
+{"text": "what is the definition of valor", "label": "TXTSRC"}
+{"text": "what is the surcharge for using my card in italy while i visit", "label": "TXTSRC"}
+{"text": "Provide exactly 6 bullet points on file compression formats with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Output info on cloud computing architecture under this strict formatting constraint: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'.", "label": "CSTRSET"}
+{"text": "what's the definition of unencumbered", "label": "TXTSRC"}
+{"text": "what is the timezone for new york", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound concise: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Change the tone of this note to be casual and relaxed: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "Output as YAML format only: serialize the clinical patient record record with attributes [patient_id, blood_type, systolic_bp, heart_rate, allergies].", "label": "CSTRSET"}
+{"text": "Write a creative story exploring a rainy evening in a quiet town.", "label": "SEMADPT"}
+{"text": "hey, what's up", "label": "SEMADPT"}
+{"text": "Produce output for container orchestration systems enforcing: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS]. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Find the derivative of f(x) = 9x^6 + 18x - 11", "label": "MATHDS"}
+{"text": "what is 10 + 20", "label": "MATHDS"}
+{"text": "Return a JSON object containing these required fields: [vin, odometer_km, fuel_level_pct, tire_pressure_psi, speed_kph].", "label": "CSTRSET"}
+{"text": "can you tell me a few funny jokes", "label": "SEMADPT"}
+{"text": "Calculate the compound interest on $3460 at 11% per year for 6 years.", "label": "MATHDS"}
+{"text": "Return valid YAML only defining a weather station report with keys: ['station_id', 'temperature_c', 'humidity_pct', 'wind_kph', 'timestamp'].", "label": "CSTRSET"}
+{"text": "what is the total number of calories in this pizza", "label": "TXTSRC"}
+{"text": "Brainstorm 5 innovative ideas for memorable taglines for a clean energy startup.", "label": "SEMADPT"}
+{"text": "If a fair die is rolled 4 times, what is the probability of rolling all sixes?", "label": "MATHDS"}
+{"text": "Provide exactly 2 bullet points on mobile operating systems with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "will i be charged transaction fees if i use my american card internationally", "label": "TXTSRC"}
+{"text": "give me tomorrow's date please", "label": "TXTSRC"}
+{"text": "can you tell me what today's date is", "label": "TXTSRC"}
+{"text": "are you well", "label": "SEMADPT"}
+{"text": "multiply 7 and 42", "label": "MATHDS"}
+{"text": "Change the tone of this note to be inspirational: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "Write an imaginative monologue from the perspective of someone witnessing a traveler waiting at an empty train station.", "label": "SEMADPT"}
+{"text": "Simplify the expression (3x^2 + 4x) / (3x)", "label": "MATHDS"}
+{"text": "Change the tone of this note to be diplomatic and constructive: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "Give me a creative idea.", "label": "SEMADPT"}
+{"text": "Evaluate tan(30 degrees)", "label": "MATHDS"}
+{"text": "how long to reach my doctors office", "label": "TXTSRC"}
+{"text": "Generate data for asymmetric cryptography strictly adhering to rule: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'.", "label": "CSTRSET"}
+{"text": "Rewrite this email to sound warm and empathetic: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "Calculate the determinant of 2x2 matrix [[0, 1], [2, -4]]", "label": "MATHDS"}
+{"text": "how do you spell aaron", "label": "TXTSRC"}
+{"text": "Output exactly 6 items in a JSON array for file compression formats.", "label": "CSTRSET"}
+{"text": "is there a fee associated with use of my card in burkina faso", "label": "TXTSRC"}
+{"text": "Output exactly 10 items in a JSON array for programming languages.", "label": "CSTRSET"}
+{"text": "Condense the technical description of the principles of sustainable circular economy design into two sentences.", "label": "SEMADPT"}
+{"text": "what is the definition of the word migrate", "label": "TXTSRC"}
+{"text": "Format data for cloud server telemetry as a Markdown table with exact column headers: [instance_id, cpu_percent, memory_used_mb, disk_free_gb, status].", "label": "CSTRSET"}
+{"text": "what funny jokes do you know", "label": "SEMADPT"}
+{"text": "Write a haiku capturing the atmosphere of a solitary lighthouse keeper during a storm.", "label": "SEMADPT"}
+{"text": "what is the correct spelling for malignant", "label": "TXTSRC"}
+{"text": "is it going to be sunny today", "label": "TXTSRC"}
+{"text": "what type of fuel does this car utilize", "label": "TXTSRC"}
+{"text": "what's the calorie content of cheetos", "label": "TXTSRC"}
+{"text": "Make this sentence more polite: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound persuasive and motivational: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "what's the calorie content for fried eggs", "label": "TXTSRC"}
+{"text": "Calculate the determinant of 2x2 matrix [[7, -4], [-2, 9]]", "label": "MATHDS"}
+{"text": "how do i spell catheter", "label": "TXTSRC"}
+{"text": "does the ai have hobbies", "label": "SEMADPT"}
+{"text": "Return the vehicle fleet telemetry record in XML format with root element <vehicle_fleet_telemetry>.", "label": "CSTRSET"}
+{"text": "Change the tone of this note to be professional: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels casual and relaxed: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 10 elements of software architectural patterns.", "label": "CSTRSET"}
+{"text": "Produce output for database index structures enforcing: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Give exactly 7 items in a list of relational database systems and do not include any additional text.", "label": "CSTRSET"}
+{"text": "can you tell me the calories for the cheeseburger", "label": "TXTSRC"}
+{"text": "Provide exactly 6 bullet points on machine learning algorithms with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "what's the date 400 days from now", "label": "TXTSRC"}
+{"text": "Compute the perimeter of a rectangle with length 21 and width 10", "label": "MATHDS"}
+{"text": "What is the Frobenius norm of matrix [[-5, 4], [1, 5]]?", "label": "MATHDS"}
+{"text": "give me a list of international transaction fees for my amex", "label": "TXTSRC"}
+{"text": "Return a JSON array containing exactly 8 elements of file compression formats.", "label": "CSTRSET"}
+{"text": "Give exactly 4 items in a list of file compression formats and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Rewrite this message in a casual and relaxed tone: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "560 divided by 3", "label": "MATHDS"}
+{"text": "Generate data for asymmetric cryptography strictly adhering to rule: Format the response such that every line contains exactly one key-value pair separated by an equals sign (=).", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 3 elements of mobile operating systems.", "label": "CSTRSET"}
+{"text": "Make this sentence more professional: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "Return valid YAML only defining a job application tracking with keys: ['applicant_id', 'position_title', 'years_experience', 'status_code'].", "label": "CSTRSET"}
+{"text": "Summarize the core message of this document about the impact of microplastics on marine food webs.", "label": "SEMADPT"}
+{"text": "thanks for your help", "label": "SEMADPT"}
+{"text": "i need gas what type do i need for this car", "label": "TXTSRC"}
+{"text": "List exactly 7 programming languages. No more and no less.", "label": "CSTRSET"}
+{"text": "how can i travel by bus to the grand canyon", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels humorous and witty: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "Draft an evocative opening paragraph for a novel set around an ancient bookstore with infinite shelves.", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels persuasive and motivational: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "List exactly 8 machine learning algorithms. No more and no less.", "label": "CSTRSET"}
+{"text": "Rewrite this email to sound inspirational: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "what day will it be 373 days from now", "label": "TXTSRC"}
+{"text": "Solve the inequality 9x - 49 >= 39", "label": "MATHDS"}
+{"text": "what is the high temperature for tomorrow", "label": "TXTSRC"}
+{"text": "Output info on garbage collection algorithms under this strict formatting constraint: Wrap every value in double quotes and separate entries with a pipe delimiter (|).", "label": "CSTRSET"}
+{"text": "Produce output for HTTP/2 protocol multiplexing enforcing: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Multiply matrix A = [[5, 4], [4, 8]] by scalar 7", "label": "MATHDS"}
+{"text": "tell me a joke about elephants", "label": "SEMADPT"}
+{"text": "Calculate the volume of a cylinder with radius 10 and height 21", "label": "MATHDS"}
+{"text": "Limit the explanation of asymmetric cryptography strictly to under 140 characters, including spaces.", "label": "CSTRSET"}
+{"text": "Rewrite this message in a warm and empathetic tone: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "What is the surface area of a sphere of diameter 10?", "label": "MATHDS"}
+{"text": "i want to get directions to the closest atm", "label": "TXTSRC"}
+{"text": "List exactly 4 software architectural patterns. No more and no less.", "label": "CSTRSET"}
+{"text": "Output a PostgreSQL CREATE TABLE statement for e-commerce customer order with columns: [order_id, customer_id, total_usd, payment_status, item_count].", "label": "CSTRSET"}
+{"text": "can you define the word schadenfreude", "label": "TXTSRC"}
+{"text": "Output info on distributed consensus protocols under this strict formatting constraint: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "Rewrite this message in a professional tone: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "Make this sentence more warm and empathetic: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "what type of gas goes into the car", "label": "TXTSRC"}
+{"text": "Summarize the core message of this document about the history and architectural legacy of the Silk Road.", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels casual and relaxed: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "Make this sentence more humorous and witty: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "what is 606 divided by 5", "label": "MATHDS"}
+{"text": "Limit the output for HTTP/2 protocol multiplexing strictly to fewer than 30 words.", "label": "CSTRSET"}
+{"text": "Give exactly 2 items in a list of cybersecurity best practices and do not include any additional text.", "label": "CSTRSET"}
+{"text": "what day will it be in fourteen days", "label": "TXTSRC"}
+{"text": "Find the variance of the numbers: 72, 14, 21, 17, 39, 87", "label": "MATHDS"}
+{"text": "if you have hobbies tell me some of them", "label": "SEMADPT"}
+{"text": "is any type of gas ok on this car", "label": "TXTSRC"}
+{"text": "What is the median of the dataset [23, 42, 88, 35, 34, 25, 60, 37]?", "label": "MATHDS"}
+{"text": "can you let me know if it will be warm this week", "label": "TXTSRC"}
+{"text": "Find the hypotenuse of a right triangle with legs 18 and 5", "label": "MATHDS"}
+{"text": "Change the tone of this note to be inspirational: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "can you help me solve a math problem", "label": "MATHDS"}
+{"text": "Generate data for cloud computing architecture strictly adhering to rule: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'.", "label": "CSTRSET"}
+{"text": "what is 1785 minus 334 minus 87 plus 374 minus 400 plus 17", "label": "MATHDS"}
+{"text": "nice talk, talk to you later", "label": "SEMADPT"}
+{"text": "Generate a fictional dialogue between two characters discussing a stray dog finding a home.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound diplomatic and constructive: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "are there many international transactions fees for the freedom card", "label": "TXTSRC"}
+{"text": "List exactly 10 programming languages. No more and no less.", "label": "CSTRSET"}
+{"text": "Generate data for garbage collection algorithms strictly adhering to rule: Every line must strictly terminate with a semicolon (;).", "label": "CSTRSET"}
+{"text": "please tell me the weather forecast", "label": "TXTSRC"}
+{"text": "Rewrite this message in a humorous and witty tone: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels casual and relaxed: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "how many miles away am i from madison square garden", "label": "TXTSRC"}
+{"text": "what steps do i need to take to take a bus to detroit", "label": "TXTSRC"}
+{"text": "tell me the date 650 days from now", "label": "TXTSRC"}
+{"text": "Give exactly 5 items in a list of software architectural patterns and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Calculate the compound interest on $5390 at 12% per year for 7 years.", "label": "MATHDS"}
+{"text": "what amount of time will pass in order for a person at our location to take bus to detroit", "label": "TXTSRC"}
+{"text": "can you tell me who made you", "label": "SEMADPT"}
+{"text": "tell me the definition of the word redemption", "label": "TXTSRC"}
+{"text": "Output exactly 4 items in a JSON array for file compression formats.", "label": "CSTRSET"}
+{"text": "what is 80980 + 098098 + 80980 + 1243", "label": "MATHDS"}
+{"text": "Draft an evocative opening paragraph for a novel set around a chef preparing a legendary midnight feast.", "label": "SEMADPT"}
+{"text": "tell me the gas i need to fill this car up with", "label": "TXTSRC"}
+{"text": "Give exactly 7 items in a list of cloud service providers and do not include any additional text.", "label": "CSTRSET"}
+{"text": "how many calories are in powdered donuts", "label": "TXTSRC"}
+{"text": "What is the Frobenius norm of matrix [[0, 9], [6, 4]]?", "label": "MATHDS"}
+{"text": "Describe an operating system under the negative constraint: you are strictly forbidden from using 'kernel', 'process', 'memory', 'driver'.", "label": "CSTRSET"}
+{"text": "what is 3/4 of 18", "label": "MATHDS"}
+{"text": "what types of gas can i get for this car", "label": "TXTSRC"}
+{"text": "Provide a concise summary highlighting the key takeaways of recent breakthroughs in quantum computing and error mitigation.", "label": "SEMADPT"}
+{"text": "is there a certain kind of fuel needed", "label": "TXTSRC"}
+{"text": "Output info on container orchestration systems under this strict formatting constraint: Every line must strictly terminate with a semicolon (;).", "label": "CSTRSET"}
+{"text": "is there a uv or smog alert for tomorrow", "label": "TXTSRC"}
+{"text": "Produce valid YAML content for a e-commerce customer order using keys: order_id, customer_id, total_usd, payment_status, item_count. Strictly adhere to YAML indentation.", "label": "CSTRSET"}
+{"text": "Calculate 300 * 79 + 122", "label": "MATHDS"}
+{"text": "Solve the inequality 7x - 27 >= 58", "label": "MATHDS"}
+{"text": "subtract 100 from 12", "label": "MATHDS"}
+{"text": "Give exactly 3 items in a list of cloud service providers and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Find the average speed if someone runs 25 km in 105 minutes.", "label": "MATHDS"}
+{"text": "Calculate 647 * 21 + 136", "label": "MATHDS"}
+{"text": "List exactly 4 file compression formats. No more and no less.", "label": "CSTRSET"}
+{"text": "hello, how are you", "label": "SEMADPT"}
+{"text": "i need to know the calorie count of a bacon cheeseburger", "label": "TXTSRC"}
+{"text": "what do you feel like doing", "label": "SEMADPT"}
+{"text": "what is the square root of 8814", "label": "MATHDS"}
+{"text": "Output exactly 3 items in a JSON array for relational database systems.", "label": "CSTRSET"}
+{"text": "Find the average speed if someone runs 9 km in 90 minutes.", "label": "MATHDS"}
+{"text": "what's today", "label": "TXTSRC"}
+{"text": "Find the critical points of the function g(x) = 3x^3 - 9x + 6", "label": "MATHDS"}
+{"text": "What is the median of the dataset [21, 22, 27, 25, 85, 59]?", "label": "MATHDS"}
+{"text": "can you tell me what 30% off 235 is", "label": "MATHDS"}
+{"text": "thanks again!", "label": "SEMADPT"}
+{"text": "how long does it take to get to the mall in las vegas", "label": "TXTSRC"}
+{"text": "can you tell me the current date", "label": "TXTSRC"}
+{"text": "Find the vertex of the parabola y = 11x^2 - 39x + 47", "label": "MATHDS"}
+{"text": "If an item costs $595 and has a discount of 37%, what is the final price?", "label": "MATHDS"}
+{"text": "Output exactly 2 items in a JSON array for cloud service providers.", "label": "CSTRSET"}
+{"text": "how much time is left until we get there", "label": "TXTSRC"}
+{"text": "Give exactly 8 items in a list of machine learning algorithms and do not include any additional text.", "label": "CSTRSET"}
+{"text": "what is the square root of 80", "label": "MATHDS"}
+{"text": "i want to know the nearest bank's location", "label": "TXTSRC"}
+{"text": "what is 1243 times 45", "label": "MATHDS"}
+{"text": "Output exactly 2 items in a JSON array for file compression formats.", "label": "CSTRSET"}
+{"text": "how long to seattle on a bus", "label": "TXTSRC"}
+{"text": "Output exactly 5 items in a JSON array for programming languages.", "label": "CSTRSET"}
+{"text": "Explain asymmetric cryptography using fewer than 25 words total.", "label": "CSTRSET"}
+{"text": "What is the indefinite integral of 1 / (2x + 15) dx?", "label": "MATHDS"}
+{"text": "how many calories in gum", "label": "TXTSRC"}
+{"text": "Generate data for database index structures strictly adhering to rule: Wrap every value in double quotes and separate entries with a pipe delimiter (|).", "label": "CSTRSET"}
+{"text": "Provide exactly 10 bullet points on file compression formats with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Summarize the core message of this document about the formation and dynamics of oceanic hydrothermal vents.", "label": "SEMADPT"}
+{"text": "Give exactly 6 items in a list of version control commands and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Convert 145 books to euros.", "label": "MATHDS"}
+{"text": "what is three quarters of one sixth", "label": "MATHDS"}
+{"text": "that'll work, good job!", "label": "SEMADPT"}
+{"text": "Produce output for container orchestration systems enforcing: Every line must strictly terminate with a semicolon (;). No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Return the commercial invoice record in XML format with root element <commercial_invoice>.", "label": "CSTRSET"}
+{"text": "what time is it in phoenix", "label": "TXTSRC"}
+{"text": "what are your hobbies exactly", "label": "SEMADPT"}
+{"text": "Find the third angle of a triangle with angles 120 and 60 degrees.", "label": "MATHDS"}
+{"text": "Rewrite this email to sound diplomatic and constructive: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "Summarize the following passage explaining the formation and dynamics of oceanic hydrothermal vents.", "label": "SEMADPT"}
+{"text": "Change the tone of this note to be humorous and witty: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "What is 13% of 3432?", "label": "MATHDS"}
+{"text": "how much can i expect in transaction fees for using my visa in portugal", "label": "TXTSRC"}
+{"text": "what is the meaning of the word girn", "label": "TXTSRC"}
+{"text": "what's the timezone for boston", "label": "TXTSRC"}
+{"text": "please give me directions to the nearest starbucks", "label": "TXTSRC"}
+{"text": "how do i ask the ai to help me with math problem", "label": "MATHDS"}
+{"text": "If f(x) = 10x + 37, what is f(4)?", "label": "MATHDS"}
+{"text": "Condense the following discussion about the ecological significance of mangrove forests in coastal protection into a brief overview.", "label": "SEMADPT"}
+{"text": "List exactly 6 software architectural patterns. No more and no less.", "label": "CSTRSET"}
+{"text": "how many calories are in a donut hole", "label": "TXTSRC"}
+{"text": "What is the area of a trapezoid with parallel sides 18, 40 and height 10?", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels inspirational: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "What is (574 + 162) / 18?", "label": "MATHDS"}
+{"text": "Generate data for container orchestration systems strictly adhering to rule: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "what is the square root of 144", "label": "MATHDS"}
+{"text": "Create a poem reflecting on a chef preparing a legendary midnight feast.", "label": "SEMADPT"}
+{"text": "Explain a web browser without using any of the terms: 'internet', 'page', 'tab', 'url'. Output only the definition.", "label": "CSTRSET"}
+{"text": "miami time zone is what", "label": "TXTSRC"}
+{"text": "List exactly 3 cybersecurity best practices. No more and no less.", "label": "CSTRSET"}
+{"text": "Give exactly 7 items in a list of file compression formats and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Give exactly 10 items in a list of machine learning algorithms and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Define a compiler while completely avoiding the following forbidden words: 'code', 'binary', 'syntax', 'language'.", "label": "CSTRSET"}
+{"text": "Provide a 1-sentence technical definition of microservice design patterns containing at least 20 words.", "label": "CSTRSET"}
+{"text": "A store sells 353 items at $18 each and 341 items at $22 each. What is the total revenue?", "label": "MATHDS"}
+{"text": "what is the proper spelling of corporate", "label": "TXTSRC"}
+{"text": "Output info on database index structures under this strict formatting constraint: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS].", "label": "CSTRSET"}
+{"text": "What is the z-score of a value 82 with mean 100 and standard deviation 19?", "label": "MATHDS"}
+{"text": "If a fair die is rolled 5 times, what is the probability of rolling all sixes?", "label": "MATHDS"}
+{"text": "Output exactly 5 items in a JSON array for web development frameworks.", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels concise: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "how do you spell asian", "label": "TXTSRC"}
+{"text": "Provide exactly 4 bullet points on networking protocols with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Compute the partial derivative of f(x, y) = 7x^2*y + 23y^3 with respect to x", "label": "MATHDS"}
+{"text": "can you tell me the weather forecast", "label": "TXTSRC"}
+{"text": "Output exactly 5 items in a JSON array for relational database systems.", "label": "CSTRSET"}
+{"text": "Output info on container orchestration systems under this strict formatting constraint: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS].", "label": "CSTRSET"}
+{"text": "i need you to help me with some math if you can", "label": "MATHDS"}
+{"text": "Give exactly 4 items in a list of networking protocols and do not include any additional text.", "label": "CSTRSET"}
+{"text": "What is the z-score of a value 99 with mean 100 and standard deviation 19?", "label": "MATHDS"}
+{"text": "read me the current weather report for tallahassee", "label": "TXTSRC"}
+{"text": "Rewrite this message in a professional tone: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels polite: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "Produce output for cloud computing architecture enforcing: Every line must strictly terminate with a semicolon (;). No commentary or extra text.", "label": "CSTRSET"}
+{"text": "how have you been", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels inspirational: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "Find the roots of the quadratic equation x^2 - 27x + 110 = 0", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels diplomatic and constructive: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "is it snowing in the next two weeks", "label": "TXTSRC"}
+{"text": "do you enjoy any hobbies", "label": "SEMADPT"}
+{"text": "inform me of the calorie content of vanilla ice cream", "label": "TXTSRC"}
+{"text": "tell me what type of gas this car uses", "label": "TXTSRC"}
+{"text": "Explain domain name system resolution using fewer than 25 words total.", "label": "CSTRSET"}
+{"text": "Find the roots of the quadratic equation x^2 - 43x + 156 = 0", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels humorous and witty: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Describe a compiler under the negative constraint: you are strictly forbidden from using 'code', 'binary', 'syntax', 'language'.", "label": "CSTRSET"}
+{"text": "Use XML with these specified tags: <sku>, <title>, <price_usd> to represent a product catalog item.", "label": "CSTRSET"}
+{"text": "Write a short story about a bustling night market in Bangkok.", "label": "SEMADPT"}
+{"text": "please spell the word umbrella", "label": "TXTSRC"}
+{"text": "Compute the dot product of vectors [1, -5, -2] and [-5, 1, -5]", "label": "MATHDS"}
+{"text": "i would love to know the closest gas station to glendale", "label": "TXTSRC"}
+{"text": "Find the roots of the quadratic equation x^2 - 53x + 462 = 0", "label": "MATHDS"}
+{"text": "List exactly 6 data visualization libraries. No more and no less.", "label": "CSTRSET"}
+{"text": "Write a short story about an ancient bookstore with infinite shelves.", "label": "SEMADPT"}
+{"text": "What is the median of the dataset [42, 23, 10, 16, 59, 66, 63]?", "label": "MATHDS"}
+{"text": "Calculate 11 permutation 3 (P(11, 3))", "label": "MATHDS"}
+{"text": "will i be charged if i use my card in mexico", "label": "TXTSRC"}
+{"text": "List exactly 5 relational database systems. No more and no less.", "label": "CSTRSET"}
+{"text": "i have to go but it was nice talking again!", "label": "SEMADPT"}
+{"text": "List exactly 2 networking protocols. No more and no less.", "label": "CSTRSET"}
+{"text": "does my usaa card have international transaction fees", "label": "TXTSRC"}
+{"text": "Limit the output for asymmetric cryptography strictly to fewer than 30 words.", "label": "CSTRSET"}
+{"text": "who formed you", "label": "SEMADPT"}
+{"text": "how much time to reach doctors office", "label": "TXTSRC"}
+{"text": "Format the student academic transcript details as valid JSON only matching properties: student_id, course_name, letter_grade, credit_hours.", "label": "CSTRSET"}
+{"text": "Help me brainstorm engaging hooks for memorable taglines for a clean energy startup.", "label": "SEMADPT"}
+{"text": "In a box of 22 marbles with 7 red ones, what is the chance of drawing 2 red marbles?", "label": "MATHDS"}
+{"text": "get me directions to phoenix", "label": "TXTSRC"}
+{"text": "good evening", "label": "SEMADPT"}
+{"text": "Find the variance of the numbers: 39, 59, 21, 23, 23", "label": "MATHDS"}
+{"text": "Generate data for container orchestration systems strictly adhering to rule: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS].", "label": "CSTRSET"}
+{"text": "Give exactly 5 items in a list of mobile operating systems and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Find the interquartile range (IQR) for values [77, 82, 11, 88, 93]", "label": "MATHDS"}
+{"text": "do you know any good jokes about zebras", "label": "SEMADPT"}
+{"text": "what is the weather outside", "label": "TXTSRC"}
+{"text": "what's the timezone for san diego", "label": "TXTSRC"}
+{"text": "tell me how to spell curiosity", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels persuasive and motivational: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "what's the correct fuel type for my car", "label": "TXTSRC"}
+{"text": "Output as YAML format only: serialize the cloud server telemetry record with attributes [instance_id, cpu_percent, memory_used_mb, disk_free_gb, status].", "label": "CSTRSET"}
+{"text": "Output exactly 8 items in a JSON array for version control commands.", "label": "CSTRSET"}
+{"text": "what is the length of time it takes to get to phoenix", "label": "TXTSRC"}
+{"text": "Return a JSON array containing exactly 6 elements of cybersecurity best practices.", "label": "CSTRSET"}
+{"text": "List exactly 2 file compression formats. No more and no less.", "label": "CSTRSET"}
+{"text": "approximately how long does it take to get to the resort in miami", "label": "TXTSRC"}
+{"text": "i need to know what 75 plus 43 is", "label": "MATHDS"}
+{"text": "Provide an explanation of memory hierarchy in modern CPUs in exactly 50 words.", "label": "CSTRSET"}
+{"text": "tell me the gas type for that car", "label": "TXTSRC"}
+{"text": "please give me the approximate amount of time i will need to go from jfk international airport to penn station", "label": "TXTSRC"}
+{"text": "give me directions to phoenix", "label": "TXTSRC"}
+{"text": "Make this sentence more professional: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "Return only a comma-separated values (CSV) string for flight booking record with header columns: booking_ref, passenger_name, origin_code, dest_code, flight_date.", "label": "CSTRSET"}
+{"text": "do you have the date", "label": "TXTSRC"}
+{"text": "is today monday", "label": "TXTSRC"}
+{"text": "does visa charge transaction fees in the uk", "label": "TXTSRC"}
+{"text": "i need to know how many r's are in restaurant", "label": "TXTSRC"}
+{"text": "If a car travels at 69 mph for 4 hours, how many miles does it travel?", "label": "MATHDS"}
+{"text": "can you tell me the square root of pi", "label": "MATHDS"}
+{"text": "Output info on microservice design patterns under this strict formatting constraint: Format the response such that every line contains exactly one key-value pair separated by an equals sign (=).", "label": "CSTRSET"}
+{"text": "Make this sentence more professional: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "Return the clinical patient record record in XML format with root element <clinical_patient_record>.", "label": "CSTRSET"}
+{"text": "when will the bus get me to vermont", "label": "TXTSRC"}
+{"text": "how is friend spelled", "label": "TXTSRC"}
+{"text": "Solve the linear system: 2x + 2y = 59 and x - 3y = 8", "label": "MATHDS"}
+{"text": "Output exactly 7 items in a JSON array for data visualization libraries.", "label": "CSTRSET"}
+{"text": "Give exactly 4 items in a list of programming languages and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Factorize the polynomial 2x^2 + 36x + 34", "label": "MATHDS"}
+{"text": "Output exactly 7 items in a JSON array for software architectural patterns.", "label": "CSTRSET"}
+{"text": "Summarize the following passage explaining the development of urban vertical farming systems.", "label": "SEMADPT"}
+{"text": "Generate data for microservice design patterns strictly adhering to rule: Wrap every value in double quotes and separate entries with a pipe delimiter (|).", "label": "CSTRSET"}
+{"text": "this was a nice conversation", "label": "SEMADPT"}
+{"text": "Find the roots of the quadratic equation x^2 - 52x + 480 = 0", "label": "MATHDS"}
+{"text": "tell me the date it will be 5 days from now", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound concise: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "where is the closest red lobster to my location right now, which is 5th avenue", "label": "TXTSRC"}
+{"text": "If a car travels at 55 mph for 3 hours, how many miles does it travel?", "label": "MATHDS"}
+{"text": "how do i get downtown by foot", "label": "TXTSRC"}
+{"text": "i would like to know what today's date is", "label": "TXTSRC"}
+{"text": "What is the z-score of a value 92 with mean 100 and standard deviation 12?", "label": "MATHDS"}
+{"text": "Make this sentence more casual and relaxed: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "what will be the weather tomorrow", "label": "TXTSRC"}
+{"text": "Produce output for asymmetric cryptography enforcing: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "find the square root of 1243435", "label": "MATHDS"}
+{"text": "Calculate the volume of a cylinder with radius 5 and height 11", "label": "MATHDS"}
+{"text": "what's the expected calorie load of a peanut butter and jelly sandwich", "label": "TXTSRC"}
+{"text": "Condense the technical description of how sleep deprivation affects memory consolidation in the brain into two sentences.", "label": "SEMADPT"}
+{"text": "Explain the concept of the principles of sustainable circular economy design using a clear, intuitive analogy.", "label": "SEMADPT"}
+{"text": "Output info on distributed consensus protocols under this strict formatting constraint: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$.", "label": "CSTRSET"}
+{"text": "how far from our destination are we", "label": "TXTSRC"}
+{"text": "what is the weather", "label": "TXTSRC"}
+{"text": "Multiply matrix A = [[-5, 2], [8, 7]] by scalar 7", "label": "MATHDS"}
+{"text": "Find the trace of matrix [[10, -5], [5, 1]]", "label": "MATHDS"}
+{"text": "Find the derivative of f(x) = 4x^6 + 8x - 22", "label": "MATHDS"}
+{"text": "What is the z-score of a value 107 with mean 100 and standard deviation 13?", "label": "MATHDS"}
+{"text": "where is the closest mcdonald's to foxwoods casino", "label": "TXTSRC"}
+{"text": "what's the timezone for brasilia", "label": "TXTSRC"}
+{"text": "where is the closest walmart to boise, idaho", "label": "TXTSRC"}
+{"text": "Make this sentence more warm and empathetic: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "Produce output for distributed consensus protocols enforcing: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Find the vertex of the parabola y = 11x^2 - 45x + 48", "label": "MATHDS"}
+{"text": "add twelve and twelve please", "label": "MATHDS"}
+{"text": "spell water", "label": "TXTSRC"}
+{"text": "what date is tomorrow", "label": "TXTSRC"}
+{"text": "give me an eta on when i will arrive at my destination", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound professional: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "i owe you one", "label": "SEMADPT"}
+{"text": "If a fair die is rolled 3 times, what is the probability of rolling all sixes?", "label": "MATHDS"}
+{"text": "what is the meaning of altruism", "label": "TXTSRC"}
+{"text": "Calculate the volume of a cylinder with radius 24 and height 34", "label": "MATHDS"}
+{"text": "What is 5% of 3348?", "label": "MATHDS"}
+{"text": "Produce output for container orchestration systems enforcing: Format the response such that every line contains exactly one key-value pair separated by an equals sign (=). No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Explain a message queue without using any of the terms: 'kafka', 'rabbit', 'topic', 'consumer'. Output only the definition.", "label": "CSTRSET"}
+{"text": "What is the area of a circle with radius 14 cm?", "label": "MATHDS"}
+{"text": "tell me what type of fuel i need to use for this car", "label": "TXTSRC"}
+{"text": "Give me a short summary of this article on the mechanism of CRISPR-Cas9 targeted genome editing.", "label": "SEMADPT"}
+{"text": "In a box of 16 marbles with 3 red ones, what is the chance of drawing 2 red marbles?", "label": "MATHDS"}
+{"text": "what will tomorrow be on the calendar", "label": "TXTSRC"}
+{"text": "how do you spell mississippi", "label": "TXTSRC"}
+{"text": "Write a haiku capturing the atmosphere of the mystery of deep ocean trenches.", "label": "SEMADPT"}
+{"text": "how do i get to the park on foot", "label": "TXTSRC"}
+{"text": "what is 1 fifth times 2 fifths", "label": "MATHDS"}
+{"text": "this was a nice chat", "label": "SEMADPT"}
+{"text": "spell doctor", "label": "TXTSRC"}
+{"text": "what is the month and day tomorrow", "label": "TXTSRC"}
+{"text": "Divide 58962 by 62 and add 371.", "label": "MATHDS"}
+{"text": "are there any tornadoes coming soon", "label": "TXTSRC"}
+{"text": "Summarize the main points of the text regarding the history of human space exploration from Apollo to Artemis.", "label": "SEMADPT"}
+{"text": "Draft an evocative opening paragraph for a novel set around a stray dog finding a home.", "label": "SEMADPT"}
+{"text": "how is the weather in miami", "label": "TXTSRC"}
+{"text": "What is 66% of 2977?", "label": "MATHDS"}
+{"text": "List exactly 4 cybersecurity best practices. No more and no less.", "label": "CSTRSET"}
+{"text": "assist me to know how to get to target by bus", "label": "TXTSRC"}
+{"text": "Find the roots of the quadratic equation x^2 - 9x + 14 = 0", "label": "MATHDS"}
+{"text": "What is (660 + 186) / 81?", "label": "MATHDS"}
+{"text": "Output as YAML format only: serialize the movie catalog entry record with attributes [movie_id, title, director, release_year, rating].", "label": "CSTRSET"}
+{"text": "Make this sentence more professional: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "What is the area of a circle with radius 21 cm?", "label": "MATHDS"}
+{"text": "Suggest creative concepts and fresh angles for a mobile app connecting urban community gardeners.", "label": "SEMADPT"}
+{"text": "is there a tire repair place near the post office", "label": "TXTSRC"}
+{"text": "how long will i be on the bus if i rid it to seattle", "label": "TXTSRC"}
+{"text": "i wanna know who programmed you", "label": "SEMADPT"}
+{"text": "what is the correct spelling of the word: dessert", "label": "TXTSRC"}
+{"text": "i'd love to hear a joke", "label": "SEMADPT"}
+{"text": "Give exactly 8 items in a list of version control commands and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Create a poem reflecting on a sunset viewed from a futuristic skyline.", "label": "SEMADPT"}
+{"text": "Output info on container orchestration systems under this strict formatting constraint: Wrap every value in double quotes and separate entries with a pipe delimiter (|).", "label": "CSTRSET"}
+{"text": "is austin in the central timezone", "label": "TXTSRC"}
+{"text": "can you calculate the square root of 172", "label": "MATHDS"}
+{"text": "what type of gas do i put in this new car", "label": "TXTSRC"}
+{"text": "Limit the explanation of content delivery networks strictly to under 140 characters, including spaces.", "label": "CSTRSET"}
+{"text": "i would like to know what hobbies you enjoy", "label": "SEMADPT"}
+{"text": "Output exactly 2 items in a JSON array for version control commands.", "label": "CSTRSET"}
+{"text": "Make this sentence more inspirational: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "what is the current day", "label": "TXTSRC"}
+{"text": "List exactly 8 software architectural patterns. No more and no less.", "label": "CSTRSET"}
+{"text": "Find the variance of the numbers: 56, 87, 25, 94, 39, 63", "label": "MATHDS"}
+{"text": "List exactly 4 web development frameworks. No more and no less.", "label": "CSTRSET"}
+{"text": "Output a PostgreSQL CREATE TABLE statement for product catalog item with columns: [sku, title, price_usd, stock_count, category].", "label": "CSTRSET"}
+{"text": "time zone in miami is like what", "label": "TXTSRC"}
+{"text": "good morning, ai", "label": "SEMADPT"}
+{"text": "what is 562 times 400", "label": "MATHDS"}
+{"text": "Use XML with these specified tags: <order_id>, <customer_id>, <total_usd> to represent a e-commerce customer order.", "label": "CSTRSET"}
+{"text": "Make this sentence more humorous and witty: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels inspirational: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "Find the second derivative of e^(4x) with respect to x", "label": "MATHDS"}
+{"text": "Explain a cryptographic hash without using any of the terms: 'sha', 'md5', 'digest', 'encryption'. Output only the definition.", "label": "CSTRSET"}
+{"text": "What is the area of a trapezoid with parallel sides 13, 39 and height 9?", "label": "MATHDS"}
+{"text": "Produce output for asymmetric cryptography enforcing: Prefix every line with a sequential numbering like [1], [2], [3]. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Output exactly 3 items in a JSON array for data visualization libraries.", "label": "CSTRSET"}
+{"text": "Make this sentence more concise: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "italy's timezone is what", "label": "TXTSRC"}
+{"text": "tell me what day today is", "label": "TXTSRC"}
+{"text": "Summarize the main points of the text regarding the history and architectural legacy of the Silk Road.", "label": "SEMADPT"}
+{"text": "Find the interquartile range (IQR) for values [19, 12, 74, 90, 13]", "label": "MATHDS"}
+{"text": "what is the square root of 5", "label": "MATHDS"}
+{"text": "Find the hypotenuse of a right triangle with legs 20 and 32", "label": "MATHDS"}
+{"text": "Divide 51540 by 60 and add 219.", "label": "MATHDS"}
+{"text": "Describe HTTP/2 protocol multiplexing in between 30 and 40 words total.", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels warm and empathetic: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "Condense the technical description of the renewable energy transition across global power grids into two sentences.", "label": "SEMADPT"}
+{"text": "Format data for movie catalog entry as a Markdown table with exact column headers: [movie_id, title, director, release_year, rating].", "label": "CSTRSET"}
+{"text": "Produce output for asymmetric cryptography enforcing: The output must follow this schema: key: string, count: integer, active: boolean. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Compute the perimeter of a rectangle with length 5 and width 15", "label": "MATHDS"}
+{"text": "Output info on database index structures under this strict formatting constraint: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "Find the third angle of a triangle with angles 60 and 60 degrees.", "label": "MATHDS"}
+{"text": "Output exactly 2 items in a JSON array for web development frameworks.", "label": "CSTRSET"}
+{"text": "Output exactly 10 items in a JSON array for machine learning algorithms.", "label": "CSTRSET"}
+{"text": "what is the meaning of stupendous", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be polite: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "what is the time that it will take to arrive at detroit", "label": "TXTSRC"}
+{"text": "what is today's high temperature predicted to be", "label": "TXTSRC"}
+{"text": "Output info on garbage collection algorithms under this strict formatting constraint: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS].", "label": "CSTRSET"}
+{"text": "Give exactly 6 items in a list of software architectural patterns and do not include any additional text.", "label": "CSTRSET"}
+{"text": "who designed you", "label": "SEMADPT"}
+{"text": "what kind of gas does this car take", "label": "TXTSRC"}
+{"text": "Produce output for asymmetric cryptography enforcing: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "what's the calorie info for 2 cups of regular chex mix", "label": "TXTSRC"}
+{"text": "Create a poem reflecting on autumn leaves falling in an ancient courtyard.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound inspirational: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "List exactly 7 version control commands. No more and no less.", "label": "CSTRSET"}
+{"text": "Output info on microservice design patterns under this strict formatting constraint: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "Normalize the vector [6, 6, 4] to have unit Euclidean norm", "label": "MATHDS"}
+{"text": "Rewrite this message in a polite tone: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "what is the antilog of 365", "label": "MATHDS"}
+{"text": "Limit the output for microservice design patterns strictly to fewer than 30 words.", "label": "CSTRSET"}
+{"text": "What is the Frobenius norm of matrix [[10, 2], [6, 9]]?", "label": "MATHDS"}
+{"text": "what's the number of calories in a pepsi", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be diplomatic and constructive: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "what is the sum of 3 plus 5", "label": "MATHDS"}
+{"text": "Output info on microservice design patterns under this strict formatting constraint: Prefix every line with a sequential numbering like [1], [2], [3].", "label": "CSTRSET"}
+{"text": "Rewrite this message in a warm and empathetic tone: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "how close is a gas station to mcdonalds", "label": "TXTSRC"}
+{"text": "Rewrite this message in a polite tone: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "In a box of 18 marbles with 4 red ones, what is the chance of drawing 2 red marbles?", "label": "MATHDS"}
+{"text": "Find the vertex of the parabola y = 7x^2 - 45x + 36", "label": "MATHDS"}
+{"text": "i'm at home, so where is the closest starbucks", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be warm and empathetic: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "Format the movie catalog entry details as valid JSON only matching properties: movie_id, title, director, release_year, rating.", "label": "CSTRSET"}
+{"text": "who constructed you", "label": "SEMADPT"}
+{"text": "Provide exactly 4 bullet points on relational database systems with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Make this sentence more professional: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "Make this sentence more concise: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels professional: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 5 elements of data visualization libraries.", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels polite: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "Format data for job application tracking as a Markdown table with exact column headers: [applicant_id, position_title, years_experience, status_code].", "label": "CSTRSET"}
+{"text": "what is the definition of altruism", "label": "TXTSRC"}
+{"text": "what date will it be 8 days from now", "label": "TXTSRC"}
+{"text": "Give exactly 3 items in a list of version control commands and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Produce output for microservice design patterns enforcing: Output using only capitalized words (ALL CAPS) with no lowercase letters. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Produce output for database index structures enforcing: Prefix every line with a sequential numbering like [1], [2], [3]. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Compute the partial derivative of f(x, y) = 5x^2*y + 15y^3 with respect to x", "label": "MATHDS"}
+{"text": "What is the area of a circle with radius 17 cm?", "label": "MATHDS"}
+{"text": "what is the square root of 104", "label": "MATHDS"}
+{"text": "Rewrite this message in a polite tone: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "Return a JSON object containing these required fields: [user_id, full_name, email_address, created_at, role].", "label": "CSTRSET"}
+{"text": "can you tell me what kind of gas this car uses", "label": "TXTSRC"}
+{"text": "Provide exactly 8 bullet points on cybersecurity best practices with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 6 elements of file compression formats.", "label": "CSTRSET"}
+{"text": "What is the indefinite integral of 1 / (3x + 4) dx?", "label": "MATHDS"}
+{"text": "can you do a math problem", "label": "MATHDS"}
+{"text": "Return a JSON object containing these required fields: [invoice_num, client_name, issue_date, subtotal, tax, total_due].", "label": "CSTRSET"}
+{"text": "What is the z-score of a value 113 with mean 100 and standard deviation 11?", "label": "MATHDS"}
+{"text": "Make this sentence more warm and empathetic: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Write an imaginative monologue from the perspective of someone witnessing a stray dog finding a home.", "label": "SEMADPT"}
+{"text": "Produce output for distributed consensus protocols enforcing: Output using only capitalized words (ALL CAPS) with no lowercase letters. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Write a short story about friendship between two childhood rivals.", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels warm and empathetic: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 6 elements of mobile operating systems.", "label": "CSTRSET"}
+{"text": "Find the variance of the numbers: 50, 18, 21, 59, 81, 60, 80", "label": "MATHDS"}
+{"text": "can you tell me the calorie count in a glazed donut", "label": "TXTSRC"}
+{"text": "Solve for x: 2x + 26 = 132", "label": "MATHDS"}
+{"text": "Output exactly 3 items in a JSON array for mobile operating systems.", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels concise: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound diplomatic and constructive: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Change the tone of this note to be polite: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "what is the la's time zone", "label": "TXTSRC"}
+{"text": "i want directions to the closest atm", "label": "TXTSRC"}
+{"text": "Help me brainstorm engaging hooks for remote team-building activities.", "label": "SEMADPT"}
+{"text": "Provide a 1-sentence technical definition of garbage collection algorithms containing at least 20 words.", "label": "CSTRSET"}
+{"text": "Change the tone of this note to be polite: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "how long before i get to dallas , in time, not miles", "label": "TXTSRC"}
+{"text": "what do you find fun", "label": "SEMADPT"}
+{"text": "List exactly 3 machine learning algorithms. No more and no less.", "label": "CSTRSET"}
+{"text": "can you add 5 and 89", "label": "MATHDS"}
+{"text": "Return a JSON array containing exactly 10 elements of web development frameworks.", "label": "CSTRSET"}
+{"text": "Calculate the mean and standard deviation of [23, 71, 18, 53, 45, 91, 51]", "label": "MATHDS"}
+{"text": "what is six divided by 16", "label": "MATHDS"}
+{"text": "List exactly 5 cybersecurity best practices. No more and no less.", "label": "CSTRSET"}
+{"text": "List exactly 2 relational database systems. No more and no less.", "label": "CSTRSET"}
+{"text": "Change the tone of this note to be diplomatic and constructive: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "thanks for helping me out today", "label": "SEMADPT"}
+{"text": "i need to go now", "label": "SEMADPT"}
+{"text": "List exactly 3 mobile operating systems. No more and no less.", "label": "CSTRSET"}
+{"text": "Find the interquartile range (IQR) for values [30, 15, 80, 73, 36, 71, 52]", "label": "MATHDS"}
+{"text": "i need to know what is 85% of $1500", "label": "MATHDS"}
+{"text": "Find the roots of the quadratic equation x^2 - 47x + 280 = 0", "label": "MATHDS"}
+{"text": "Make this sentence more persuasive and motivational: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Find the variance of the numbers: 91, 84, 84, 89, 19", "label": "MATHDS"}
+{"text": "are there transaction fees for discover cards used in rome", "label": "TXTSRC"}
+{"text": "whats the calorie content of oatmeal", "label": "TXTSRC"}
+{"text": "what are some things that you enjoy", "label": "SEMADPT"}
+{"text": "Give exactly 6 items in a list of cloud service providers and do not include any additional text.", "label": "CSTRSET"}
+{"text": "will i be charged if i use the card in paris", "label": "TXTSRC"}
+{"text": "Generate a fictional dialogue between two characters discussing a forgotten violin in an attic.", "label": "SEMADPT"}
+{"text": "Multiply matrix A = [[0, 4], [0, 9]] by scalar 7", "label": "MATHDS"}
+{"text": "what's the funniest joke you know", "label": "SEMADPT"}
+{"text": "you have my gratitude", "label": "SEMADPT"}
+{"text": "Change the tone of this note to be humorous and witty: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "Produce output for cloud computing architecture enforcing: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS]. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 8 elements of cloud service providers.", "label": "CSTRSET"}
+{"text": "Give exactly 2 items in a list of data visualization libraries and do not include any additional text.", "label": "CSTRSET"}
+{"text": "tell me how many p's are in apple", "label": "TXTSRC"}
+{"text": "what hobbies do you like to partake in", "label": "SEMADPT"}
+{"text": "i'd like to hear a joke about donkeys", "label": "SEMADPT"}
+{"text": "i need to know the calorie content of spaghetti", "label": "TXTSRC"}
+{"text": "how do you spell the word comity, i need to know", "label": "TXTSRC"}
+{"text": "what are the transaction fee using our card in florence if any", "label": "TXTSRC"}
+{"text": "what's the letters in 'you' word like", "label": "TXTSRC"}
+{"text": "Make this sentence more inspirational: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "Explain HTTP/2 protocol multiplexing using fewer than 25 words total.", "label": "CSTRSET"}
+{"text": "what's the estimated travel time to get to dc via bus", "label": "TXTSRC"}
+{"text": "Divide 16450 by 25 and add 430.", "label": "MATHDS"}
+{"text": "Summarize the main points of the text regarding the principles of sustainable circular economy design.", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 2 elements of software architectural patterns.", "label": "CSTRSET"}
+{"text": "Summarize the core message of this document about the development of urban vertical farming systems.", "label": "SEMADPT"}
+{"text": "Return only a comma-separated values (CSV) string for job application tracking with header columns: applicant_id, position_title, years_experience, status_code.", "label": "CSTRSET"}
+{"text": "Calculate the volume of a cylinder with radius 25 and height 29", "label": "MATHDS"}
+{"text": "Solve the linear system: 11x + 2y = 76 and x - 3y = 15", "label": "MATHDS"}
+{"text": "Find the variance of the numbers: 25, 13, 52, 64, 44, 77, 18", "label": "MATHDS"}
+{"text": "how long will it take to get from galleria mall to state capitol", "label": "TXTSRC"}
+{"text": "look up the calories in an apple", "label": "TXTSRC"}
+{"text": "what is 300 divided by 42", "label": "MATHDS"}
+{"text": "Provide exactly 2 bullet points on file compression formats with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Return the flight booking record data as a valid JSON object with fields: booking_ref, passenger_name, origin_code, dest_code, flight_date.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 3 elements of file compression formats.", "label": "CSTRSET"}
+{"text": "thank you very much for the answer", "label": "SEMADPT"}
+{"text": "Rewrite this message in a humorous and witty tone: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "Calculate the determinant of 2x2 matrix [[-3, -5], [7, -1]]", "label": "MATHDS"}
+{"text": "Explain a relational database without using any of the terms: 'table', 'sql', 'query', 'row'. Output only the definition.", "label": "CSTRSET"}
+{"text": "add 45 to 87 plus 54 plus 43 plus 22", "label": "MATHDS"}
+{"text": "Give exactly 8 items in a list of web development frameworks and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels diplomatic and constructive: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 2 elements of programming languages.", "label": "CSTRSET"}
+{"text": "what's the spelling of cancer", "label": "TXTSRC"}
+{"text": "please tell me how to spell the word coup", "label": "TXTSRC"}
+{"text": "how to solve this math problem", "label": "MATHDS"}
+{"text": "Output exactly 5 items in a JSON array for file compression formats.", "label": "CSTRSET"}
+{"text": "Rewrite this message in a concise tone: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Compute the derivative of sin(8x) * cos(8x)", "label": "MATHDS"}
+{"text": "are there transaction fees charged to my discover card in japan", "label": "TXTSRC"}
+{"text": "tell me how to get to target by bus", "label": "TXTSRC"}
+{"text": "Return a JSON array containing exactly 10 elements of machine learning algorithms.", "label": "CSTRSET"}
+{"text": "Change the tone of this note to be casual and relaxed: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "List exactly 3 web development frameworks. No more and no less.", "label": "CSTRSET"}
+{"text": "Find the eigenvalues of matrix [[-4, 0], [0, -1]]", "label": "MATHDS"}
+{"text": "i can't figure out how to spell superficial", "label": "TXTSRC"}
+{"text": "what does altruism mean", "label": "TXTSRC"}
+{"text": "about how much time will it take to get to the laundry in this area", "label": "TXTSRC"}
+{"text": "Output as YAML format only: serialize the weather station report record with attributes [station_id, temperature_c, humidity_pct, wind_kph, timestamp].", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels persuasive and motivational: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "Make this sentence more inspirational: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "read me a definition for qat", "label": "TXTSRC"}
+{"text": "List exactly 8 cybersecurity best practices. No more and no less.", "label": "CSTRSET"}
+{"text": "Produce valid YAML content for a movie catalog entry using keys: movie_id, title, director, release_year, rating. Strictly adhere to YAML indentation.", "label": "CSTRSET"}
+{"text": "Provide exactly 5 bullet points on version control commands with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Output info on HTTP/2 protocol multiplexing under this strict formatting constraint: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "what is 87 divided by 4", "label": "MATHDS"}
+{"text": "Return a JSON array containing exactly 6 elements of cloud service providers.", "label": "CSTRSET"}
+{"text": "Output exactly 3 items in a JSON array for software architectural patterns.", "label": "CSTRSET"}
+{"text": "Normalize the vector [5, 8, 8] to have unit Euclidean norm", "label": "MATHDS"}
+{"text": "define discretionary", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound persuasive and motivational: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound casual and relaxed: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "Compute the perimeter of a rectangle with length 10 and width 10", "label": "MATHDS"}
+{"text": "what number of calories are in a pizza", "label": "TXTSRC"}
+{"text": "what timezone is boise in", "label": "TXTSRC"}
+{"text": "What is the area of a circle with radius 6 cm?", "label": "MATHDS"}
+{"text": "how is doctor spelled", "label": "TXTSRC"}
+{"text": "what timezone is france in", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be professional: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "what are the time zones of russia", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels persuasive and motivational: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "if i use my card in mexico, will there be added fees", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound diplomatic and constructive: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "Generate a well-formed XML snippet for product catalog item containing tags: [sku, title, price_usd, stock_count, category].", "label": "CSTRSET"}
+{"text": "List exactly 8 data visualization libraries. No more and no less.", "label": "CSTRSET"}
+{"text": "Expand and simplify the algebraic term (x + 5)(x - 20)", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels friendly: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "Make this sentence more concise: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "can you spell the word umbrella for me", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels polite: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "thanks so much!", "label": "SEMADPT"}
+{"text": "Generate data for asymmetric cryptography strictly adhering to rule: Prefix every line with a sequential numbering like [1], [2], [3].", "label": "CSTRSET"}
+{"text": "Explain the concept of the principles of zero-knowledge cryptographic proofs using a clear, intuitive analogy.", "label": "SEMADPT"}
+{"text": "how ya doin", "label": "SEMADPT"}
+{"text": "What is the indefinite integral of 1 / (3x + 20) dx?", "label": "MATHDS"}
+{"text": "when is it going to rain again", "label": "TXTSRC"}
+{"text": "can you tell me this vehicles gas type", "label": "TXTSRC"}
+{"text": "Provide exactly 7 bullet points on relational database systems with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Give exactly 6 items in a list of data visualization libraries and do not include any additional text.", "label": "CSTRSET"}
+{"text": "tell me all about your hobbies", "label": "SEMADPT"}
+{"text": "Give exactly 3 items in a list of mobile operating systems and do not include any additional text.", "label": "CSTRSET"}
+{"text": "What is the median of the dataset [19, 80, 21, 53, 86, 88]?", "label": "MATHDS"}
+{"text": "Generate data for garbage collection algorithms strictly adhering to rule: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'.", "label": "CSTRSET"}
+{"text": "how do you spell out newspaper", "label": "TXTSRC"}
+{"text": "could you tell me the fuel type for my car", "label": "TXTSRC"}
+{"text": "Give exactly 10 items in a list of cybersecurity best practices and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Provide an explanation of microservice design patterns in exactly 50 words.", "label": "CSTRSET"}
+{"text": "Make this sentence more humorous and witty: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "if i'm trying to get to heinz field, how long would it take by bus", "label": "TXTSRC"}
+{"text": "Summarize the following passage explaining how sleep deprivation affects memory consolidation in the brain.", "label": "SEMADPT"}
+{"text": "Produce output for HTTP/2 protocol multiplexing enforcing: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Produce output for garbage collection algorithms enforcing: The output must follow this schema: key: string, count: integer, active: boolean. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 8 elements of version control commands.", "label": "CSTRSET"}
+{"text": "it was really nice to be able to chat with you", "label": "SEMADPT"}
+{"text": "what is the square root of 2784", "label": "MATHDS"}
+{"text": "can you tell me what 30% off 279 is, please", "label": "MATHDS"}
+{"text": "what is 4 + 4", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels casual and relaxed: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "what is 60 percent off of 350 dollars", "label": "MATHDS"}
+{"text": "what kind of gas does this car need", "label": "TXTSRC"}
+{"text": "tell me the amount of calories in muffins", "label": "TXTSRC"}
+{"text": "Calculate the volume of a cylinder with radius 9 and height 28", "label": "MATHDS"}
+{"text": "if i use my card in england will it cost me extra", "label": "TXTSRC"}
+{"text": "What is the integral of 9x^2 dx from 0 to 4?", "label": "MATHDS"}
+{"text": "Give exactly 6 items in a list of relational database systems and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Help me rephrase this message so it feels friendly: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "i am very grateful", "label": "SEMADPT"}
+{"text": "Provide exactly 4 bullet points on cloud service providers with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Find the interquartile range (IQR) for values [65, 94, 41, 71, 54]", "label": "MATHDS"}
+{"text": "you have my sincere gratitude", "label": "SEMADPT"}
+{"text": "What is the indefinite integral of 1 / (9x + 1) dx?", "label": "MATHDS"}
+{"text": "what is 38% of 389209", "label": "MATHDS"}
+{"text": "Find the eigenvalues of matrix [[2, 0], [0, 7]]", "label": "MATHDS"}
+{"text": "give me the date today", "label": "TXTSRC"}
+{"text": "Find the vertex of the parabola y = 6x^2 - 1x + 74", "label": "MATHDS"}
+{"text": "Rewrite this email to sound humorous and witty: reconnecting with a former colleague after several years.", "label": "SEMADPT"}
+{"text": "is the timezone there different", "label": "TXTSRC"}
+{"text": "you did a good job thank you", "label": "SEMADPT"}
+{"text": "what is 20+ 5", "label": "MATHDS"}
+{"text": "what is 213 times 3", "label": "MATHDS"}
+{"text": "Output a PostgreSQL CREATE TABLE statement for clinical patient record with columns: [patient_id, blood_type, systolic_bp, heart_rate, allergies].", "label": "CSTRSET"}
+{"text": "tell me the answer to 1000 divided by 40", "label": "MATHDS"}
+{"text": "how much time will pass between the start and end of our sojourn by bus to detroit", "label": "TXTSRC"}
+{"text": "Solve for x: 11x + 1 = 86", "label": "MATHDS"}
+{"text": "what's the time zone in miami", "label": "TXTSRC"}
+{"text": "what is the current weather like", "label": "TXTSRC"}
+{"text": "Produce output for asymmetric cryptography enforcing: Format the response such that every line contains exactly one key-value pair separated by an equals sign (=). No commentary or extra text.", "label": "CSTRSET"}
+{"text": "If f(x) = 8x + 40, what is f(9)?", "label": "MATHDS"}
+{"text": "when will i get to orlando", "label": "TXTSRC"}
+{"text": "many thanks", "label": "SEMADPT"}
+{"text": "what is the calorie content of a small bag of lay's potato chips", "label": "TXTSRC"}
+{"text": "Change the tone of this note to be humorous and witty: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 2 elements of cloud service providers.", "label": "CSTRSET"}
+{"text": "how've you been", "label": "SEMADPT"}
+{"text": "what's the right way to spell \"emolument", "label": "TXTSRC"}
+{"text": "Return a JSON array containing exactly 3 elements of web development frameworks.", "label": "CSTRSET"}
+{"text": "If a fair die is rolled 2 times, what is the probability of rolling all sixes?", "label": "MATHDS"}
+{"text": "List exactly 4 machine learning algorithms. No more and no less.", "label": "CSTRSET"}
+{"text": "Compute the perimeter of a rectangle with length 40 and width 13", "label": "MATHDS"}
+{"text": "Normalize the vector [-4, 6, -4] to have unit Euclidean norm", "label": "MATHDS"}
+{"text": "Give exactly 5 items in a list of machine learning algorithms and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Calculate the compound interest on $7160 at 3% per year for 7 years.", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels humorous and witty: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "is it hot outside", "label": "TXTSRC"}
+{"text": "Output exactly 10 items in a JSON array for web development frameworks.", "label": "CSTRSET"}
+{"text": "What is the z-score of a value 85 with mean 100 and standard deviation 8?", "label": "MATHDS"}
+{"text": "Define cloud storage while completely avoiding the following forbidden words: 'file', 'server', 'data', 'upload'.", "label": "CSTRSET"}
+{"text": "what is the weather going to be like", "label": "TXTSRC"}
+{"text": "Explain a compiler without using any of the terms: 'code', 'binary', 'syntax', 'language'. Output only the definition.", "label": "CSTRSET"}
+{"text": "Solve the linear system: 12x + 2y = 135 and x - 3y = 5", "label": "MATHDS"}
+{"text": "Explain the concept of recent breakthroughs in quantum computing and error mitigation using a clear, intuitive analogy.", "label": "SEMADPT"}
+{"text": "Change the tone of this note to be casual and relaxed: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "who invented you", "label": "SEMADPT"}
+{"text": "Find the hypotenuse of a right triangle with legs 17 and 31", "label": "MATHDS"}
+{"text": "what are the atmospheric conditions in sparks", "label": "TXTSRC"}
+{"text": "what is the average time to get to walmart in mays landing", "label": "TXTSRC"}
+{"text": "how long will it take the bus to get to stop 23", "label": "TXTSRC"}
+{"text": "please define institutional racism", "label": "TXTSRC"}
+{"text": "how do i get to the train station by bus", "label": "TXTSRC"}
+{"text": "what gas does the car need", "label": "TXTSRC"}
+{"text": "Generate data for microservice design patterns strictly adhering to rule: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'.", "label": "CSTRSET"}
+{"text": "Return only a comma-separated values (CSV) string for clinical patient record with header columns: patient_id, blood_type, systolic_bp, heart_rate, allergies.", "label": "CSTRSET"}
+{"text": "Provide a JSON payload for commercial invoice containing required keys: ['invoice_num', 'client_name', 'issue_date', 'subtotal', 'tax', 'total_due']. No markdown formatting.", "label": "CSTRSET"}
+{"text": "Provide a JSON payload for job application tracking containing required keys: ['applicant_id', 'position_title', 'years_experience', 'status_code']. No markdown formatting.", "label": "CSTRSET"}
+{"text": "Find the second derivative of e^(7x) with respect to x", "label": "MATHDS"}
+{"text": "Limit the output for distributed consensus protocols strictly to fewer than 30 words.", "label": "CSTRSET"}
+{"text": "Expand and simplify the algebraic term (x + 3)(x - 5)", "label": "MATHDS"}
+{"text": "can you tell me how to spell elephant", "label": "TXTSRC"}
+{"text": "timezone in salt lake city", "label": "TXTSRC"}
+{"text": "Generate data for garbage collection algorithms strictly adhering to rule: Ensure every line starts with a timestamp in format [YYYY-MM-DD HH:MM:SS].", "label": "CSTRSET"}
+{"text": "i am wanting to know who programmed you", "label": "SEMADPT"}
+{"text": "Find the vertex of the parabola y = 2x^2 - 11x + 132", "label": "MATHDS"}
+{"text": "what is 55 times 300", "label": "MATHDS"}
+{"text": "Rewrite this email to sound inspirational: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "Find the derivative of f(x) = 7x^4 + 14x - 4", "label": "MATHDS"}
+{"text": "Output info on container orchestration systems under this strict formatting constraint: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$.", "label": "CSTRSET"}
+{"text": "i wanna know the gas i need to fill this car up with", "label": "TXTSRC"}
+{"text": "weather forecast please", "label": "TXTSRC"}
+{"text": "If an item costs $591 and has a discount of 33%, what is the final price?", "label": "MATHDS"}
+{"text": "Find the trace of matrix [[-1, 9], [9, -3]]", "label": "MATHDS"}
+{"text": "it is time to say goodbye", "label": "SEMADPT"}
+{"text": "please help with my math", "label": "MATHDS"}
+{"text": "Output info on microservice design patterns under this strict formatting constraint: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'.", "label": "CSTRSET"}
+{"text": "add up 8 and 7", "label": "MATHDS"}
+{"text": "what's the weather today", "label": "TXTSRC"}
+{"text": "does it take long to get to yankee stadium in the bronx", "label": "TXTSRC"}
+{"text": "What is the value of x if log2(x) = 10?", "label": "MATHDS"}
+{"text": "Generate data for garbage collection algorithms strictly adhering to rule: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'.", "label": "CSTRSET"}
+{"text": "what timezone is paris in", "label": "TXTSRC"}
+{"text": "Rewrite this message in a inspirational tone: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "i don't know how to spell drought", "label": "TXTSRC"}
+{"text": "thank you for the help", "label": "SEMADPT"}
+{"text": "Solve for x: 10x + 26 = 148", "label": "MATHDS"}
+{"text": "Make this sentence more friendly: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "which hospital is nearest to me", "label": "TXTSRC"}
+{"text": "what are the international transaction fees for my chase card", "label": "TXTSRC"}
+{"text": "Help me rephrase this message so it feels polite: apologizing to a client for an unexpected project delay.", "label": "SEMADPT"}
+{"text": "Find the variance of the numbers: 76, 74, 63, 29, 87, 22", "label": "MATHDS"}
+{"text": "what timezone does bangor have", "label": "TXTSRC"}
+{"text": "can you help me do math", "label": "MATHDS"}
+{"text": "i don't know how to spell theater", "label": "TXTSRC"}
+{"text": "tell me a dirty joke", "label": "SEMADPT"}
+{"text": "Calculate the volume of a cylinder with radius 13 and height 31", "label": "MATHDS"}
+{"text": "Output a PostgreSQL CREATE TABLE statement for job application tracking with columns: [applicant_id, position_title, years_experience, status_code].", "label": "CSTRSET"}
+{"text": "Create a poem reflecting on a bustling night market in Bangkok.", "label": "SEMADPT"}
+{"text": "Provide exactly 10 bullet points on data visualization libraries with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "How many combinations of 4 items can be chosen from 6 items?", "label": "MATHDS"}
+{"text": "Return valid YAML only defining a flight booking record with keys: ['booking_ref', 'passenger_name', 'origin_code', 'dest_code', 'flight_date'].", "label": "CSTRSET"}
+{"text": "Compute the Euclidean distance between points (8, 5) and (3, 6)", "label": "MATHDS"}
+{"text": "is it monday, tuesday, wednesday, thursday, friday, saturday, or sunday", "label": "TXTSRC"}
+{"text": "Give me a short summary of this article on the ecological significance of mangrove forests in coastal protection.", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 10 elements of mobile operating systems.", "label": "CSTRSET"}
+{"text": "what's 15% of 68", "label": "MATHDS"}
+{"text": "Evaluate 838 * (447 - 56)", "label": "MATHDS"}
+{"text": "Make this sentence more professional: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Return the weather station report record in XML format with root element <weather_station_report>.", "label": "CSTRSET"}
+{"text": "Compute the Euclidean distance between points (-1, -5) and (-3, -5)", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels professional: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "later gator!", "label": "SEMADPT"}
+{"text": "Expand and simplify the algebraic term (x + 10)(x - 41)", "label": "MATHDS"}
+{"text": "how many times can 12 go into 600", "label": "MATHDS"}
+{"text": "Summarize the main points of the text regarding the ecological significance of mangrove forests in coastal protection.", "label": "SEMADPT"}
+{"text": "Solve the inequality 2x - 48 >= 75", "label": "MATHDS"}
+{"text": "will i be charged if i use my card in russia", "label": "TXTSRC"}
+{"text": "Give exactly 2 items in a list of software architectural patterns and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Make this sentence more friendly: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "List exactly 6 file compression formats. No more and no less.", "label": "CSTRSET"}
+{"text": "Return valid YAML only defining a user profile with keys: ['user_id', 'full_name', 'email_address', 'created_at', 'role'].", "label": "CSTRSET"}
+{"text": "Solve the inequality 12x - 8 >= 139", "label": "MATHDS"}
+{"text": "Use XML with these specified tags: <movie_id>, <title>, <director> to represent a movie catalog entry.", "label": "CSTRSET"}
+{"text": "Make this sentence more diplomatic and constructive: letting a vendor know that their proposal was not selected.", "label": "SEMADPT"}
+{"text": "Give exactly 4 items in a list of data visualization libraries and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Condense the following discussion about recent breakthroughs in quantum computing and error mitigation into a brief overview.", "label": "SEMADPT"}
+{"text": "how many calories in this slice of pizza", "label": "TXTSRC"}
+{"text": "Return a JSON array containing exactly 4 elements of cybersecurity best practices.", "label": "CSTRSET"}
+{"text": "Find the eigenvalues of matrix [[-2, 0], [0, 5]]", "label": "MATHDS"}
+{"text": "Help me rephrase this message so it feels concise: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "Produce output for distributed consensus protocols enforcing: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Rewrite this message in a humorous and witty tone: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Provide exactly 7 bullet points on cloud service providers with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Condense the technical description of the economic principles behind comparative advantage in international trade into two sentences.", "label": "SEMADPT"}
+{"text": "Generate a fictional dialogue between two characters discussing the first snowfall in a mountain village.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound concise: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "guide me to a laundromat near me", "label": "TXTSRC"}
+{"text": "what does epicurean mean", "label": "TXTSRC"}
+{"text": "Make this sentence more persuasive and motivational: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "Describe cloud computing architecture in between 30 and 40 words total.", "label": "CSTRSET"}
+{"text": "how is the word acquaintance spelled", "label": "TXTSRC"}
+{"text": "Find the average speed if someone runs 13 km in 88 minutes.", "label": "MATHDS"}
+{"text": "List exactly 10 cloud service providers. No more and no less.", "label": "CSTRSET"}
+{"text": "Calculate the compound interest on $9630 at 8% per year for 9 years.", "label": "MATHDS"}
+{"text": "Compute the partial derivative of f(x, y) = 4x^2*y + 22y^3 with respect to x", "label": "MATHDS"}
+{"text": "Compute the perimeter of a rectangle with length 34 and width 8", "label": "MATHDS"}
+{"text": "Change the tone of this note to be diplomatic and constructive: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "what's the meaning of emulsify", "label": "TXTSRC"}
+{"text": "Describe a message queue under the negative constraint: you are strictly forbidden from using 'kafka', 'rabbit', 'topic', 'consumer'.", "label": "CSTRSET"}
+{"text": "Produce output for microservice design patterns enforcing: Wrap every value in double quotes and separate entries with a pipe delimiter (|). No commentary or extra text.", "label": "CSTRSET"}
+{"text": "help me with math", "label": "MATHDS"}
+{"text": "Produce output for microservice design patterns enforcing: The output must follow this schema: key: string, count: integer, active: boolean. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "how is water spelled", "label": "TXTSRC"}
+{"text": "Generate data for distributed consensus protocols strictly adhering to rule: Every line must strictly terminate with a semicolon (;).", "label": "CSTRSET"}
+{"text": "Describe memory hierarchy in modern CPUs in between 30 and 40 words total.", "label": "CSTRSET"}
+{"text": "Condense the technical description of the impact of microplastics on marine food webs into two sentences.", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound friendly: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "Output exactly 3 items in a JSON array for programming languages.", "label": "CSTRSET"}
+{"text": "what is 543 times 344", "label": "MATHDS"}
+{"text": "if you're in melbourne, what timezone are you in", "label": "TXTSRC"}
+{"text": "tell me what monstrosity means", "label": "TXTSRC"}
+{"text": "Calculate the volume of a cylinder with radius 24 and height 37", "label": "MATHDS"}
+{"text": "i thank you", "label": "SEMADPT"}
+{"text": "Provide a JSON payload for e-commerce customer order containing required keys: ['order_id', 'customer_id', 'total_usd', 'payment_status', 'item_count']. No markdown formatting.", "label": "CSTRSET"}
+{"text": "what day is it gonna be in twenty-one days", "label": "TXTSRC"}
+{"text": "Write a haiku capturing the atmosphere of a chef preparing a legendary midnight feast.", "label": "SEMADPT"}
+{"text": "what is intercontinental mean", "label": "TXTSRC"}
+{"text": "what's your favorite hobby", "label": "SEMADPT"}
+{"text": "what kind of gas should i put in this car", "label": "TXTSRC"}
+{"text": "Compute the Euclidean distance between points (2, 0) and (-3, 10)", "label": "MATHDS"}
+{"text": "Rewrite this email to sound concise: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Output info on cloud computing architecture under this strict formatting constraint: Prefix every line with a sequential numbering like [1], [2], [3].", "label": "CSTRSET"}
+{"text": "i wanna know your hobbies", "label": "SEMADPT"}
+{"text": "how fast can i get to target in trenton", "label": "TXTSRC"}
+{"text": "how much farther is orlando from my location", "label": "TXTSRC"}
+{"text": "how do you spell superficial", "label": "TXTSRC"}
+{"text": "Give exactly 6 items in a list of file compression formats and do not include any additional text.", "label": "CSTRSET"}
+{"text": "please tell me how curiosity is spelled", "label": "TXTSRC"}
+{"text": "tell me the weather for today", "label": "TXTSRC"}
+{"text": "spell aaron", "label": "TXTSRC"}
+{"text": "are there transaction fees using my discover if i'm in cuba", "label": "TXTSRC"}
+{"text": "Solve for x: 12x + 14 = 145", "label": "MATHDS"}
+{"text": "how long will it take to reach central park by bus", "label": "TXTSRC"}
+{"text": "what are the nearest streets to the statue of liberty in new york", "label": "TXTSRC"}
+{"text": "List exactly 2 data visualization libraries. No more and no less.", "label": "CSTRSET"}
+{"text": "Find the critical points of the function g(x) = 6x^3 - 18x + 14", "label": "MATHDS"}
+{"text": "what is an 18 percent tip on 20 dollars", "label": "MATHDS"}
+{"text": "What is (891 + 128) / 62?", "label": "MATHDS"}
+{"text": "who supplied your instructions", "label": "SEMADPT"}
+{"text": "tell me how to spell anonymous", "label": "TXTSRC"}
+{"text": "what’s the answer to 5-6=", "label": "MATHDS"}
+{"text": "what will be the date tomorrow", "label": "TXTSRC"}
+{"text": "i want to hear jokes about toddlers", "label": "SEMADPT"}
+{"text": "are there any transaction fee if i use my boston private card in scotland", "label": "TXTSRC"}
+{"text": "Return a JSON array containing exactly 5 elements of programming languages.", "label": "CSTRSET"}
+{"text": "how many miles will it take to get to my destination", "label": "TXTSRC"}
+{"text": "Create a poem reflecting on friendship between two childhood rivals.", "label": "SEMADPT"}
+{"text": "Rewrite this message in a casual and relaxed tone: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "What is (81 + 293) / 69?", "label": "MATHDS"}
+{"text": "Multiply matrix A = [[8, 7], [-4, 7]] by scalar 7", "label": "MATHDS"}
+{"text": "List exactly 10 networking protocols. No more and no less.", "label": "CSTRSET"}
+{"text": "Condense the technical description of the geopolitical causes of the First Industrial Revolution into two sentences.", "label": "SEMADPT"}
+{"text": "Summarize the following passage explaining the mechanism of CRISPR-Cas9 targeted genome editing.", "label": "SEMADPT"}
+{"text": "can you tell me where the atm closest to my current location is", "label": "TXTSRC"}
+{"text": "Generate data for HTTP/2 protocol multiplexing strictly adhering to rule: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "i'd like to know what the date is", "label": "TXTSRC"}
+{"text": "Give exactly 3 items in a list of cybersecurity best practices and do not include any additional text.", "label": "CSTRSET"}
+{"text": "What is the integral of 7x^5 dx from 0 to 2?", "label": "MATHDS"}
+{"text": "List exactly 5 mobile operating systems. No more and no less.", "label": "CSTRSET"}
+{"text": "Generate a well-formed XML snippet for cloud server telemetry containing tags: [instance_id, cpu_percent, memory_used_mb, disk_free_gb, status].", "label": "CSTRSET"}
+{"text": "what does the forecast look like", "label": "TXTSRC"}
+{"text": "talk later", "label": "SEMADPT"}
+{"text": "please tell me what kind of gas this car needs", "label": "TXTSRC"}
+{"text": "Return only a comma-separated values (CSV) string for student academic transcript with header columns: student_id, course_name, letter_grade, credit_hours.", "label": "CSTRSET"}
+{"text": "What is the area of a trapezoid with parallel sides 11, 14 and height 4?", "label": "MATHDS"}
+{"text": "where is the closest starbucks", "label": "TXTSRC"}
+{"text": "what does 2 + 2 equal", "label": "MATHDS"}
+{"text": "Describe a relational database under the negative constraint: you are strictly forbidden from using 'table', 'sql', 'query', 'row'.", "label": "CSTRSET"}
+{"text": "Compute the derivative of sin(9x) * cos(9x)", "label": "MATHDS"}
+{"text": "what timezone is london in", "label": "TXTSRC"}
+{"text": "is sparks experiencing bad weather right now", "label": "TXTSRC"}
+{"text": "Make this sentence more friendly: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "Convert 410 dollars to kilometers.", "label": "MATHDS"}
+{"text": "Condense the following discussion about the fundamental concepts behind generative adversarial networks into a brief overview.", "label": "SEMADPT"}
+{"text": "i am needing to know who made you", "label": "SEMADPT"}
+{"text": "Output strictly a JSON object representing a user profile with keys: ['user_id', 'full_name', 'email_address', 'created_at', 'role']. Do not include commentary.", "label": "CSTRSET"}
+{"text": "Rewrite this email to sound concise: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "how many calories are in spaghetti and meat sauce", "label": "TXTSRC"}
+{"text": "timezone of cuba", "label": "TXTSRC"}
+{"text": "i need some directions to phoenix", "label": "TXTSRC"}
+{"text": "what is the average of 54, 23, 43, 12, and 442", "label": "MATHDS"}
+{"text": "Write a creative story exploring friendship between two childhood rivals.", "label": "SEMADPT"}
+{"text": "Explain the concept of the formation and dynamics of oceanic hydrothermal vents using a clear, intuitive analogy.", "label": "SEMADPT"}
+{"text": "Return valid YAML only defining a product catalog item with keys: ['sku', 'title', 'price_usd', 'stock_count', 'category'].", "label": "CSTRSET"}
+{"text": "Compute the dot product of vectors [-2, -5, 4] and [-4, -2, -5]", "label": "MATHDS"}
+{"text": "Output exactly 10 items in a JSON array for software architectural patterns.", "label": "CSTRSET"}
+{"text": "how does the weather feel", "label": "TXTSRC"}
+{"text": "Output exactly 6 items in a JSON array for data visualization libraries.", "label": "CSTRSET"}
+{"text": "Compute the dot product of vectors [1, -5, 1] and [4, 1, -5]", "label": "MATHDS"}
+{"text": "i’m leaving-goodbye!", "label": "SEMADPT"}
+{"text": "Output as YAML format only: serialize the job application tracking record with attributes [applicant_id, position_title, years_experience, status_code].", "label": "CSTRSET"}
+{"text": "how do i get to the court house on foot", "label": "TXTSRC"}
+{"text": "Produce output for database index structures enforcing: Wrap every value in double quotes and separate entries with a pipe delimiter (|). No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Calculate the definite integral of x * e^x dx from 0 to 1.", "label": "MATHDS"}
+{"text": "Find the interquartile range (IQR) for values [51, 58, 24, 59, 42]", "label": "MATHDS"}
+{"text": "Return a JSON array containing exactly 4 elements of software architectural patterns.", "label": "CSTRSET"}
+{"text": "starbucks near me", "label": "TXTSRC"}
+{"text": "Compute the dot product of vectors [4, 6, -1] and [-2, 4, 6]", "label": "MATHDS"}
+{"text": "subtract 85 from 997", "label": "MATHDS"}
+{"text": "Format data for vehicle fleet telemetry as a Markdown table with exact column headers: [vin, odometer_km, fuel_level_pct, tire_pressure_psi, speed_kph].", "label": "CSTRSET"}
+{"text": "Generate data for cloud computing architecture strictly adhering to rule: Output using only capitalized words (ALL CAPS) with no lowercase letters.", "label": "CSTRSET"}
+{"text": "Provide exactly 7 bullet points on file compression formats with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "who programmed you", "label": "SEMADPT"}
+{"text": "What is the median of the dataset [40, 54, 50, 31, 91]?", "label": "MATHDS"}
+{"text": "Explain the concept of the fundamental concepts behind generative adversarial networks using a clear, intuitive analogy.", "label": "SEMADPT"}
+{"text": "Help me rephrase this message so it feels diplomatic and constructive: welcoming a new colleague to the team during an all-hands meeting.", "label": "SEMADPT"}
+{"text": "Calculate the mean and standard deviation of [65, 27, 53, 72, 55, 34, 31]", "label": "MATHDS"}
+{"text": "Generate data for asymmetric cryptography strictly adhering to rule: The output must follow this schema: key: string, count: integer, active: boolean.", "label": "CSTRSET"}
+{"text": "can you tell me what is 18 percent of $2500", "label": "MATHDS"}
+{"text": "Rewrite this email to sound inspirational: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "how many calories in peanuts", "label": "TXTSRC"}
+{"text": "i need help spelling superficial", "label": "TXTSRC"}
+{"text": "i need to know tomorrow's date", "label": "TXTSRC"}
+{"text": "Provide a 1-sentence technical definition of asymmetric cryptography containing at least 20 words.", "label": "CSTRSET"}
+{"text": "Find the critical points of the function g(x) = 7x^3 - 21x + 18", "label": "MATHDS"}
+{"text": "Explain the concept of the development of urban vertical farming systems using a clear, intuitive analogy.", "label": "SEMADPT"}
+{"text": "Make this sentence more diplomatic and constructive: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "Compose a descriptive scene illustrating a traveler waiting at an empty train station.", "label": "SEMADPT"}
+{"text": "tell me what you do for fun", "label": "SEMADPT"}
+{"text": "what is good riddance mean", "label": "TXTSRC"}
+{"text": "Find the derivative of f(x) = 4x^3 + 8x - 7", "label": "MATHDS"}
+{"text": "what's going on", "label": "SEMADPT"}
+{"text": "what is 900 times 8", "label": "MATHDS"}
+{"text": "Output info on cloud computing architecture under this strict formatting constraint: The output must follow this schema: key: string, count: integer, active: boolean.", "label": "CSTRSET"}
+{"text": "Output info on HTTP/2 protocol multiplexing under this strict formatting constraint: Wrap every value in double quotes and separate entries with a pipe delimiter (|).", "label": "CSTRSET"}
+{"text": "Rewrite this message in a warm and empathetic tone: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "Output exactly 3 items in a JSON array for cloud service providers.", "label": "CSTRSET"}
+{"text": "how was this ai created", "label": "SEMADPT"}
+{"text": "List exactly 3 networking protocols. No more and no less.", "label": "CSTRSET"}
+{"text": "what does tertiary mean", "label": "TXTSRC"}
+{"text": "how long would it take to get to chicago by bus", "label": "TXTSRC"}
+{"text": "What is the z-score of a value 97 with mean 100 and standard deviation 17?", "label": "MATHDS"}
+{"text": "What is the integral of 4x^4 dx from 0 to 2?", "label": "MATHDS"}
+{"text": "Evaluate tan(60 degrees)", "label": "MATHDS"}
+{"text": "Rewrite this email to sound warm and empathetic: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Calculate the mean and standard deviation of [78, 55, 36, 67, 49]", "label": "MATHDS"}
+{"text": "Change the tone of this note to be concise: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "catch you later", "label": "SEMADPT"}
+{"text": "How many combinations of 2 items can be chosen from 8 items?", "label": "MATHDS"}
+{"text": "what's the day today", "label": "TXTSRC"}
+{"text": "how do i get to the grocery store by bus", "label": "TXTSRC"}
+{"text": "Help me brainstorm engaging hooks for an interactive science podcast for teens.", "label": "SEMADPT"}
+{"text": "Provide exactly 10 bullet points on version control commands with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Summarize the following passage explaining the economic principles behind comparative advantage in international trade.", "label": "SEMADPT"}
+{"text": "Compute the perimeter of a rectangle with length 24 and width 22", "label": "MATHDS"}
+{"text": "what is 2/3 x 1/9", "label": "MATHDS"}
+{"text": "i don't know how to spell circumference", "label": "TXTSRC"}
+{"text": "Write an imaginative monologue from the perspective of someone witnessing a bustling night market in Bangkok.", "label": "SEMADPT"}
+{"text": "what company's software engineers gave you life", "label": "SEMADPT"}
+{"text": "how long will it take me to drive to my destination", "label": "TXTSRC"}
+{"text": "Rewrite this message in a concise tone: reminding employees about the upcoming quarterly review deadline.", "label": "SEMADPT"}
+{"text": "Output exactly 8 items in a JSON array for machine learning algorithms.", "label": "CSTRSET"}
+{"text": "Divide 17877 by 59 and add 134.", "label": "MATHDS"}
+{"text": "Calculate the determinant of 2x2 matrix [[3, -1], [0, 3]]", "label": "MATHDS"}
+{"text": "Make this sentence more warm and empathetic: giving gentle feedback to a teammate whose presentation lacked focus.", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 3 elements of programming languages.", "label": "CSTRSET"}
+{"text": "give me the 7 day forecast", "label": "TXTSRC"}
+{"text": "Write a haiku capturing the atmosphere of a rainy evening in a quiet town.", "label": "SEMADPT"}
+{"text": "can you tell me what the next day is", "label": "TXTSRC"}
+{"text": "what timezone is the country in", "label": "TXTSRC"}
+{"text": "i need your assistance to solve this math problem", "label": "MATHDS"}
+{"text": "Produce output for container orchestration systems enforcing: Generate output strictly adhering to regex pattern: ^[A-Z]{3}-[0-9]{4}-[A-Z]$. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "Generate data for database index structures strictly adhering to rule: Format each line as JSONL: exactly one valid JSON object per line with keys 'step' and 'action'.", "label": "CSTRSET"}
+{"text": "Find the hypotenuse of a right triangle with legs 3 and 16", "label": "MATHDS"}
+{"text": "how many ts are in tethered", "label": "TXTSRC"}
+{"text": "what's ten times eight", "label": "MATHDS"}
+{"text": "Give exactly 6 items in a list of programming languages and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Use XML with these specified tags: <applicant_id>, <position_title>, <years_experience> to represent a job application tracking.", "label": "CSTRSET"}
+{"text": "will using a discover card in rome cause transaction fees", "label": "TXTSRC"}
+{"text": "Return a JSON array containing exactly 4 elements of programming languages.", "label": "CSTRSET"}
+{"text": "what's the calorie content of chicken nuggets", "label": "TXTSRC"}
+{"text": "Return a JSON array containing exactly 5 elements of file compression formats.", "label": "CSTRSET"}
+{"text": "define zesty", "label": "TXTSRC"}
+{"text": "Rewrite this message in a polite tone: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "Write a short story about a chef preparing a legendary midnight feast.", "label": "SEMADPT"}
+{"text": "do you have any monkey jokes", "label": "SEMADPT"}
+{"text": "divide 100 by 12", "label": "MATHDS"}
+{"text": "what is happening with the weather in austin", "label": "TXTSRC"}
+{"text": "need to know the weather now", "label": "TXTSRC"}
+{"text": "Output info on garbage collection algorithms under this strict formatting constraint: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'.", "label": "CSTRSET"}
+{"text": "Return a JSON array containing exactly 5 elements of web development frameworks.", "label": "CSTRSET"}
+{"text": "Change the tone of this note to be concise: asking a manager for constructive feedback and a salary review.", "label": "SEMADPT"}
+{"text": "will it get over 90 degrees today", "label": "TXTSRC"}
+{"text": "Generate a fictional dialogue between two characters discussing a sunset viewed from a futuristic skyline.", "label": "SEMADPT"}
+{"text": "what will the date be in 10 days", "label": "TXTSRC"}
+{"text": "i could really use a laugh right now", "label": "SEMADPT"}
+{"text": "Generate a well-formed XML snippet for user profile containing tags: [user_id, full_name, email_address, created_at, role].", "label": "CSTRSET"}
+{"text": "Make this sentence more humorous and witty: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "Output exactly 4 items in a JSON array for software architectural patterns.", "label": "CSTRSET"}
+{"text": "Produce output for cloud computing architecture enforcing: The output must follow this schema: key: string, count: integer, active: boolean. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "how many calories are in a bowel of wheaties", "label": "TXTSRC"}
+{"text": "Produce output for garbage collection algorithms enforcing: Output each item as 'ID: <UUID>, Value: <Integer>, Status: <ACTIVE|INACTIVE>'. No commentary or extra text.", "label": "CSTRSET"}
+{"text": "let me know what date it will be in 3 days", "label": "TXTSRC"}
+{"text": "If f(x) = 9x + 23, what is f(3)?", "label": "MATHDS"}
+{"text": "what are the weather conditions like in seattle", "label": "TXTSRC"}
+{"text": "Rewrite this email to sound persuasive and motivational: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "what's the timezone in valencia", "label": "TXTSRC"}
+{"text": "what type of gas do i use in this car", "label": "TXTSRC"}
+{"text": "what is the square root of 31", "label": "MATHDS"}
+{"text": "Rewrite this message in a inspirational tone: pitching an ambitious research initiative to department leadership.", "label": "SEMADPT"}
+{"text": "Help me brainstorm engaging hooks for eco-friendly subscription boxes.", "label": "SEMADPT"}
+{"text": "what does distinguish mean", "label": "TXTSRC"}
+{"text": "see you again soon", "label": "SEMADPT"}
+{"text": "Generate data for microservice design patterns strictly adhering to rule: Format the response such that every line contains exactly one key-value pair separated by an equals sign (=).", "label": "CSTRSET"}
+{"text": "Condense the following discussion about the principles of zero-knowledge cryptographic proofs into a brief overview.", "label": "SEMADPT"}
+{"text": "Change the tone of this note to be casual and relaxed: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "Provide exactly 10 bullet points on cloud service providers with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Give exactly 5 items in a list of programming languages and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Output exactly 8 items in a JSON array for file compression formats.", "label": "CSTRSET"}
+{"text": "Can you summarize this text about how mRNA vaccines stimulate the human immune response for a general reader?", "label": "SEMADPT"}
+{"text": "tell me the right kind of gas for this car", "label": "TXTSRC"}
+{"text": "Rewrite this message in a concise tone: thanking volunteers for their dedication at a community fundraiser.", "label": "SEMADPT"}
+{"text": "is it going to rain tonight", "label": "TXTSRC"}
+{"text": "Write an imaginative monologue from the perspective of someone witnessing the secret life of an old clockmaker.", "label": "SEMADPT"}
+{"text": "Give exactly 10 items in a list of file compression formats and do not include any additional text.", "label": "CSTRSET"}
+{"text": "tell me the meaning of hegemony", "label": "TXTSRC"}
+{"text": "Simplify the expression (7x^2 + 16x) / (7x)", "label": "MATHDS"}
+{"text": "Produce valid YAML content for a clinical patient record using keys: patient_id, blood_type, systolic_bp, heart_rate, allergies. Strictly adhere to YAML indentation.", "label": "CSTRSET"}
+{"text": "how many es are in receiving", "label": "TXTSRC"}
+{"text": "what kinds of hobbies do you have", "label": "SEMADPT"}
+{"text": "Rewrite this email to sound inspirational: announcing the successful release of a major product update.", "label": "SEMADPT"}
+{"text": "what are the ai's hobbies", "label": "SEMADPT"}
+{"text": "calender says tomorrow is", "label": "TXTSRC"}
+{"text": "Make this sentence more polite: declining an invitation to speak at a conference due to scheduling conflicts.", "label": "SEMADPT"}
+{"text": "What is the median of the dataset [93, 65, 76, 63, 57]?", "label": "MATHDS"}
+{"text": "signing off", "label": "SEMADPT"}
+{"text": "Find the eigenvalues of matrix [[6, 0], [0, 4]]", "label": "MATHDS"}
+{"text": "Format the clinical patient record details as valid JSON only matching properties: patient_id, blood_type, systolic_bp, heart_rate, allergies.", "label": "CSTRSET"}
+{"text": "i spent 34 dollars for 12 gallons of paint what is the average price for each gallon", "label": "MATHDS"}
+{"text": "Give exactly 8 items in a list of software architectural patterns and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Provide exactly 5 bullet points on programming languages with no introductory or closing remarks.", "label": "CSTRSET"}
+{"text": "Give exactly 6 items in a list of cybersecurity best practices and do not include any additional text.", "label": "CSTRSET"}
+{"text": "Give exactly 4 items in a list of cybersecurity best practices and do not include any additional text.", "label": "CSTRSET"}
+{"text": "do you know any good jokes", "label": "SEMADPT"}
+{"text": "Return a JSON array containing exactly 10 elements of version control commands.", "label": "CSTRSET"}
+{"text": "Give me creative name ideas for a mobile app connecting urban community gardeners.", "label": "SEMADPT"}
+{"text": "List exactly 6 cybersecurity best practices. No more and no less.", "label": "CSTRSET"}
+{"text": "it was very good to talk to you", "label": "SEMADPT"}
+{"text": "are there any transaction fees associated with my amex card if i am in france", "label": "TXTSRC"}
+{"text": "What is the surface area of a sphere of diameter 18?", "label": "MATHDS"}
+{"text": "who engineered you", "label": "SEMADPT"}
+{"text": "can you tell me what the weather will be please", "label": "TXTSRC"}
+{"text": "Compute the perimeter of a rectangle with length 21 and width 20", "label": "MATHDS"}
+{"text": "how do you spell \"montpelier", "label": "TXTSRC"}
+{"text": "what is meant by defense", "label": "TXTSRC"}
+{"text": "what's it doing outside right now", "label": "TXTSRC"}
+{"text": "what is 8 factorial", "label": "MATHDS"}
+{"text": "what does 6 x 1 equal", "label": "MATHDS"}
+{"text": "Evaluate 775 * (184 - 72)", "label": "MATHDS"}
+{"text": "Change the tone of this note to be persuasive and motivational: explaining to a customer why a warranty claim cannot be processed.", "label": "SEMADPT"}
+{"text": "so what sort of hobbies are you into", "label": "SEMADPT"}
+{"text": "What is the surface area of a sphere of diameter 6?", "label": "MATHDS"}

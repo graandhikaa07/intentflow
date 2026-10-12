@@ -1,0 +1,415 @@
+[
+  {
+    "dataset": "GSM8K",
+    "source_label": "main",
+    "mapped_label": "MATHDS",
+    "mapping_reason": "Natural-language grade-school mathematical word problems requiring multi-step arithmetic, numerical reasoning, and computation. Solutions/answers omitted.",
+    "number_of_examples_selected": 7473
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "are_you_a_bot",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational persona inquiry regarding identity.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "calculator",
+    "mapped_label": "MATHDS",
+    "mapping_reason": "Explicit arithmetic computations, factorials, percentages, and basic algebra.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "calories",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Nutritional calorie content factual lookup for foods.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "carry_on",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Airline baggage allowance policy lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "cook_time",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Culinary cooking duration factual lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "date",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Current calendar date lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "definition",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Factual dictionary word definition lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "directions",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Spatial navigation and route retrieval.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "distance",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Geographical distance and commute duration lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "do_you_have_pets",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational persona pet inquiry.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "exchange_rate",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Currency exchange rate financial data lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "food_last",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Food expiration and shelf-life guideline lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "fun_fact",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "General factual trivia and curiosity retrieval.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "gas_type",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Automotive vehicle fuel specification lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "goodbye",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational social pleasantry and interaction farewell.",
+    "number_of_examples_selected": 138
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "greeting",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational social pleasantry and interaction opening.",
+    "number_of_examples_selected": 135
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "how_old_are_you",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational persona age inquiry.",
+    "number_of_examples_selected": 146
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "ingredient_substitution",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Culinary recipe ingredient replacement factual lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "ingredients_list",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Recipe ingredient component listing lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "international_fees",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Credit card foreign transaction fee policy lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "international_visa",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "International visa entry requirements and travel documentation lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "jump_start",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Automotive battery jump-start procedure lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "meaning_of_life",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational philosophical reflection and ideation.",
+    "number_of_examples_selected": 148
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "measurement_conversion",
+    "mapped_label": "MATHDS",
+    "mapping_reason": "Numerical unit conversions requiring mathematical formula evaluation (e.g. feet to inches, F to C).",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "next_holiday",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Calendar public holiday date lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "nutrition_info",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Nutritional facts, vitamins, and health data lookup for foods.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "oil_change_how",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Step-by-step automotive oil change technical instruction retrieval.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "oil_change_when",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Recommended vehicle maintenance schedule and interval lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "plug_type",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Electrical socket/plug standard specifications by country lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "replacement_card_duration",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Bank card replacement delivery timeline policy lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "restaurant_reviews",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Public feedback and review rating lookup.",
+    "number_of_examples_selected": 148
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "routing",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Financial bank routing transit number lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "spelling",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Factual orthographic word spelling lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "tell_joke",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Creative generation of jokes, humor, and witty one-liners.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "thank_you",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational social pleasantry expressing gratitude.",
+    "number_of_examples_selected": 139
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "time",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Current temporal lookup for specified world locations.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "timezone",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Factual geographical timezone information lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "translate",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Cross-lingual semantic transformation and language re-expression.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "travel_alert",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Government travel warning and security advisory lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "vaccines",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Travel health immunization requirements and medical advisory lookup.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "w2",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Tax document retrieval and location guidance lookup.",
+    "number_of_examples_selected": 145
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "weather",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Meteorological forecast and condition factual information retrieval.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "what_are_your_hobbies",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational persona question requiring creative/adaptive self-expression.",
+    "number_of_examples_selected": 149
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "what_is_your_name",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational persona identity inquiry.",
+    "number_of_examples_selected": 149
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "where_are_you_from",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational persona origin inquiry.",
+    "number_of_examples_selected": 149
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "who_do_you_work_for",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational persona affiliation inquiry.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "who_made_you",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Conversational persona question requiring adaptive self-presentation.",
+    "number_of_examples_selected": 150
+  },
+  {
+    "dataset": "ExistingProjectData",
+    "source_label": "MATHDS",
+    "mapped_label": "MATHDS",
+    "mapping_reason": "Project-curated verified queries for MATHDS preserved from Phase 5.1 and programmatic generator.",
+    "number_of_examples_selected": 640
+  },
+  {
+    "dataset": "ExistingProjectData",
+    "source_label": "TXTSRC",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Project-curated verified queries for TXTSRC preserved from Phase 5.1 and programmatic generator.",
+    "number_of_examples_selected": 378
+  },
+  {
+    "dataset": "ExistingProjectData",
+    "source_label": "SEMADPT",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Project-curated verified queries for SEMADPT preserved from Phase 5.1 and programmatic generator.",
+    "number_of_examples_selected": 955
+  },
+  {
+    "dataset": "ExistingProjectData",
+    "source_label": "CSTRSET",
+    "mapped_label": "CSTRSET",
+    "mapping_reason": "Project-curated verified queries for CSTRSET preserved from Phase 5.1 and programmatic generator.",
+    "number_of_examples_selected": 1009
+  },
+  {
+    "dataset": "BoundaryPatternDefense",
+    "source_label": "boundary_txtsrc",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Targeted boundary training queries addressing Phase 6.2 failure patterns for TXTSRC without benchmark overlap.",
+    "number_of_examples_selected": 10
+  },
+  {
+    "dataset": "BoundaryPatternDefense",
+    "source_label": "boundary_semadpt",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Targeted boundary training queries addressing Phase 6.2 failure patterns for SEMADPT without benchmark overlap.",
+    "number_of_examples_selected": 10
+  },
+  {
+    "dataset": "IFEval",
+    "source_label": "instruction_following_constraints",
+    "mapped_label": "CSTRSET",
+    "mapping_reason": "Prompts containing explicit, machine-verifiable instruction constraints (punctuation, formatting, exact length, forbidden words, etc.).",
+    "number_of_examples_selected": 541
+  },
+  {
+    "dataset": "RECAST-30K",
+    "source_label": "multi_constraint_instruction",
+    "mapped_label": "CSTRSET",
+    "mapping_reason": "Prompts with multiple simultaneous structural, stylistic, and formatting constraints (ICLR 2026 RECAST benchmark).",
+    "number_of_examples_selected": 3000
+  },
+  {
+    "dataset": "RECAST-Test",
+    "source_label": "five_constraints_instruction",
+    "mapped_label": "CSTRSET",
+    "mapping_reason": "Challenging prompts containing five simultaneous verifiable constraints from the held-out RECAST test suite.",
+    "number_of_examples_selected": 490
+  },
+  {
+    "dataset": "XSum",
+    "source_label": "abstractive_summarization",
+    "mapped_label": "SEMADPT",
+    "mapping_reason": "Abstractive summarization requests requiring concise semantic synthesis of BBC news articles; target summaries omitted to avoid label leakage.",
+    "number_of_examples_selected": 2750
+  },
+  {
+    "dataset": "TriviaQA",
+    "source_label": "factual_qa",
+    "mapped_label": "TXTSRC",
+    "mapping_reason": "Natural open-domain factual knowledge retrieval questions; answer keys, search results, and evidence passages strictly omitted.",
+    "number_of_examples_selected": 1440
+  }
+]

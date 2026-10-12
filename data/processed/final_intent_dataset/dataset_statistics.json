@@ -1,0 +1,173 @@
+{
+  "dataset_name": "Antigravity Intent Classification Dataset (Phase 6.3 Final)",
+  "random_seed": 42,
+  "total_examples": 17471,
+  "split_counts": {
+    "train": 13976,
+    "validation": 1747,
+    "test": 1748
+  },
+  "split_proportions": {
+    "train": 0.8,
+    "validation": 0.1,
+    "test": 0.1001
+  },
+  "examples_per_class": {
+    "SEMADPT": 3018,
+    "MATHDS": 8413,
+    "TXTSRC": 5031,
+    "CSTRSET": 1009
+  },
+  "class_balance_proportions": {
+    "SEMADPT": 0.1727,
+    "MATHDS": 0.4815,
+    "TXTSRC": 0.288,
+    "CSTRSET": 0.0578
+  },
+  "per_class_split_counts": {
+    "MATHDS": {
+      "total": 8413,
+      "train": 6730,
+      "val": 841,
+      "test": 842
+    },
+    "TXTSRC": {
+      "total": 5031,
+      "train": 4025,
+      "val": 503,
+      "test": 503
+    },
+    "SEMADPT": {
+      "total": 3018,
+      "train": 2414,
+      "val": 302,
+      "test": 302
+    },
+    "CSTRSET": {
+      "total": 1009,
+      "train": 807,
+      "val": 101,
+      "test": 101
+    }
+  },
+  "examples_per_source_dataset": {
+    "CLINC150": 6996,
+    "GSM8K": 7473,
+    "ExistingProjectData": 1471,
+    "ExistingCustomGenerator": 1511,
+    "BoundaryPatternDefense": 20
+  },
+  "examples_per_source_label": {
+    "CLINC150::greeting": 135,
+    "GSM8K::main": 7473,
+    "CLINC150::vaccines": 150,
+    "CLINC150::distance": 150,
+    "ExistingProjectData::CSTRSET": 600,
+    "ExistingCustomGenerator::TXTSRC": 376,
+    "ExistingCustomGenerator::SEMADPT": 536,
+    "ExistingCustomGenerator::CSTRSET": 409,
+    "CLINC150::exchange_rate": 150,
+    "CLINC150::what_are_your_hobbies": 149,
+    "CLINC150::time": 150,
+    "CLINC150::gas_type": 150,
+    "CLINC150::what_is_your_name": 149,
+    "ExistingProjectData::MATHDS": 450,
+    "CLINC150::meaning_of_life": 148,
+    "CLINC150::jump_start": 150,
+    "CLINC150::ingredient_substitution": 150,
+    "BoundaryPatternDefense::boundary_txtsrc": 10,
+    "CLINC150::w2": 145,
+    "CLINC150::who_made_you": 150,
+    "CLINC150::calculator": 150,
+    "CLINC150::tell_joke": 150,
+    "CLINC150::timezone": 150,
+    "CLINC150::routing": 150,
+    "CLINC150::carry_on": 150,
+    "CLINC150::plug_type": 150,
+    "ExistingProjectData::SEMADPT": 419,
+    "CLINC150::do_you_have_pets": 150,
+    "CLINC150::replacement_card_duration": 150,
+    "CLINC150::where_are_you_from": 149,
+    "CLINC150::fun_fact": 150,
+    "CLINC150::oil_change_how": 150,
+    "CLINC150::travel_alert": 150,
+    "CLINC150::who_do_you_work_for": 150,
+    "CLINC150::nutrition_info": 150,
+    "CLINC150::oil_change_when": 150,
+    "CLINC150::restaurant_reviews": 148,
+    "CLINC150::weather": 150,
+    "CLINC150::spelling": 150,
+    "CLINC150::definition": 150,
+    "CLINC150::ingredients_list": 150,
+    "ExistingCustomGenerator::MATHDS": 190,
+    "CLINC150::international_visa": 150,
+    "CLINC150::date": 150,
+    "CLINC150::thank_you": 139,
+    "CLINC150::translate": 150,
+    "CLINC150::calories": 150,
+    "CLINC150::food_last": 150,
+    "CLINC150::how_old_are_you": 146,
+    "CLINC150::cook_time": 150,
+    "CLINC150::goodbye": 138,
+    "CLINC150::next_holiday": 150,
+    "CLINC150::international_fees": 150,
+    "CLINC150::directions": 150,
+    "BoundaryPatternDefense::boundary_semadpt": 10,
+    "CLINC150::are_you_a_bot": 150,
+    "CLINC150::measurement_conversion": 150,
+    "ExistingProjectData::TXTSRC": 2
+  },
+  "duplicate_counts": {
+    "exact_duplicates_discarded": 2395,
+    "normalized_duplicates_discarded": 50,
+    "too_short_discarded": 8,
+    "detailed_breakdown": {
+      "MATHDS_exact_dup": 598,
+      "MATHDS_norm_dup": 1,
+      "TXTSRC_norm_dup": 7,
+      "TXTSRC_exact_dup": 599,
+      "TXTSRC_benchmark_leak": 2,
+      "SEMADPT_norm_dup": 42,
+      "SEMADPT_too_short": 8,
+      "SEMADPT_exact_dup": 598,
+      "CSTRSET_exact_dup": 600
+    }
+  },
+  "benchmark_leakage": {
+    "eval_benchmark_size": 80,
+    "benchmark_leaks_detected": 2,
+    "benchmark_leaks_purged": [
+      {
+        "query": "What is the capital of Canada?",
+        "matched_benchmark_id": "TXT_18",
+        "match_type": "high_jaccard",
+        "source": "ExistingCustomGenerator",
+        "class": "TXTSRC"
+      },
+      {
+        "query": "What is the capital of Australia?",
+        "matched_benchmark_id": "TXT_01",
+        "match_type": "exact",
+        "source": "ExistingCustomGenerator",
+        "class": "TXTSRC"
+      }
+    ],
+    "final_dataset_benchmark_overlap": 0
+  },
+  "partition_overlap_verification": {
+    "train_val_overlap": 0,
+    "train_test_overlap": 0,
+    "val_test_overlap": 0
+  },
+  "mapping_summary": {
+    "total_clinc_intents_audited": 151,
+    "clinc_intents_mapped": 47,
+    "clinc_intents_excluded": 103,
+    "gsm8k_splits_used": [
+      "train"
+    ],
+    "gsm8k_splits_preserved": [
+      "test (1,319 examples)"
+    ]
+  }
+}

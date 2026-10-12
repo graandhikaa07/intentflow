@@ -1,0 +1,95 @@
+{
+  "dataset_name": "Antigravity Intent Classification Dataset (Phase 6.4 Final Candidate v2)",
+  "random_seed": 42,
+  "total_examples": 25692,
+  "split_counts": {
+    "train": 20553,
+    "validation": 2569,
+    "test": 2570
+  },
+  "split_proportions": {
+    "train": 0.8,
+    "validation": 0.1,
+    "test": 0.1
+  },
+  "examples_per_class": {
+    "SEMADPT": 5768,
+    "TXTSRC": 6471,
+    "MATHDS": 8413,
+    "CSTRSET": 5040
+  },
+  "class_balance_proportions": {
+    "MATHDS": 0.3275,
+    "TXTSRC": 0.2519,
+    "SEMADPT": 0.2245,
+    "CSTRSET": 0.1962
+  },
+  "per_class_split_counts": {
+    "MATHDS": {
+      "total": 8413,
+      "train": 6730,
+      "val": 841,
+      "test": 842
+    },
+    "TXTSRC": {
+      "total": 6471,
+      "train": 5177,
+      "val": 647,
+      "test": 647
+    },
+    "SEMADPT": {
+      "total": 5768,
+      "train": 4614,
+      "val": 577,
+      "test": 577
+    },
+    "CSTRSET": {
+      "total": 5040,
+      "train": 4032,
+      "val": 504,
+      "test": 504
+    }
+  },
+  "examples_per_source_dataset": {
+    "CLINC150": 6996,
+    "TriviaQA": 1440,
+    "GSM8K": 7473,
+    "RECAST-Test": 490,
+    "RECAST-30K": 3000,
+    "XSum": 2750,
+    "ExistingProjectData": 1471,
+    "ExistingCustomGenerator": 1511,
+    "IFEval": 541,
+    "BoundaryPatternDefense": 20
+  },
+  "duplicate_counts": {
+    "recast30k_length_filtered": 10363,
+    "recast30k_no_constraint_signals": 210,
+    "recast_test_no_constraint_signals": 6,
+    "recast_test_length_filtered": 2,
+    "xsum_doc_too_short": 18,
+    "triviaqa_math_like_filtered": 9,
+    "triviaqa_length_filtered": 25,
+    "TXTSRC_exact_dup": 59,
+    "TXTSRC_benchmark_leak": 1
+  },
+  "benchmark_leakage": {
+    "eval_benchmark_size": 80,
+    "benchmark_leaks_detected_and_purged": 1,
+    "purged_details": [
+      {
+        "query": "What is the capital city of Colombia?",
+        "matched_benchmark_id": "TXT_18",
+        "match_type": "high_jaccard",
+        "source": "TriviaQA",
+        "class": "TXTSRC"
+      }
+    ],
+    "final_dataset_benchmark_overlap": 0
+  },
+  "partition_overlap_verification": {
+    "train_val_overlap": 0,
+    "train_test_overlap": 0,
+    "val_test_overlap": 0
+  }
+}

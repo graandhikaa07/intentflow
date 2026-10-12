@@ -1,0 +1,40 @@
+# Experiment & Pipeline Configuration
+project_name: "intent-classification-hallucination-reduction"
+seed: 42
+
+dataset:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  splits:
+    train: 0.80
+    val: 0.10
+    test: 0.10
+  max_seq_length: 128
+  batch_size: 32
+
+model:
+  pretrained_model_name: "models/distilbert-base-uncased"
+  num_labels: 4
+  learning_rate: 2e-5
+  num_epochs: 4
+  warmup_ratio: 0.1
+  weight_decay: 0.01
+  checkpoint_dir: "artifacts/checkpoints"
+
+baseline_llm:
+  provider: "gemini"
+  model_name: "gemini-3.1-flash-lite"
+  temperature: 0.0
+  max_tokens: 16
+
+evaluation:
+  metrics:
+    - "accuracy"
+    - "precision"
+    - "recall"
+    - "f1"
+    - "confusion_matrix"
+    - "latency"
+    - "token_cost"
+  output_dir: "artifacts/reports"
+  figures_dir: "artifacts/figures"

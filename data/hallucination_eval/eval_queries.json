@@ -1,0 +1,1630 @@
+[
+  {
+    "query_id": "MATH_01",
+    "intent": "MATHDS",
+    "subdomain": "arithmetic_multiplication",
+    "query": "What is 348 * 27?",
+    "ground_truth": {
+      "expected_value": 9396,
+      "expected_answer_str": "9396",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "Calculated value must equal 9396 exactly."
+    }
+  },
+  {
+    "query_id": "MATH_02",
+    "intent": "MATHDS",
+    "subdomain": "arithmetic_division",
+    "query": "Calculate 4913 / 17.",
+    "ground_truth": {
+      "expected_value": 289.0,
+      "expected_answer_str": "289",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "Calculated quotient must equal 289 exactly."
+    }
+  },
+  {
+    "query_id": "MATH_03",
+    "intent": "MATHDS",
+    "subdomain": "percentage_calculation",
+    "query": "Compute 15% of 840.",
+    "ground_truth": {
+      "expected_value": 126.0,
+      "expected_answer_str": "126",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "Calculated percentage must equal 126 exactly."
+    }
+  },
+  {
+    "query_id": "MATH_04",
+    "intent": "MATHDS",
+    "subdomain": "exponentiation_arithmetic",
+    "query": "What is 28 squared plus 14 squared?",
+    "ground_truth": {
+      "expected_value": 980,
+      "expected_answer_str": "980",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "28^2 (784) + 14^2 (196) must equal 980 exactly."
+    }
+  },
+  {
+    "query_id": "MATH_05",
+    "intent": "MATHDS",
+    "subdomain": "algebraic_linear_equation",
+    "query": "Solve for x: 3x - 14 = 49",
+    "ground_truth": {
+      "expected_value": 21.0,
+      "expected_answer_str": "21",
+      "variable": "x",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_algebraic_solution",
+      "description": "Solved root for x must equal 21."
+    }
+  },
+  {
+    "query_id": "MATH_06",
+    "intent": "MATHDS",
+    "subdomain": "algebraic_quadratic_equation",
+    "query": "Solve the quadratic equation: x^2 - 7x + 12 = 0",
+    "ground_truth": {
+      "expected_roots": [
+        3.0,
+        4.0
+      ],
+      "expected_answer_str": "3, 4",
+      "variable": "x",
+      "tolerance": 0.0,
+      "evaluation_type": "set_of_roots"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_quadratic_roots",
+      "description": "Solved roots for x must be exactly 3 and 4."
+    }
+  },
+  {
+    "query_id": "MATH_07",
+    "intent": "MATHDS",
+    "subdomain": "multistep_arithmetic",
+    "query": "What is 45 * 52 - 180?",
+    "ground_truth": {
+      "expected_value": 2160,
+      "expected_answer_str": "2160",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "45 * 52 (2340) - 180 must equal 2160."
+    }
+  },
+  {
+    "query_id": "MATH_08",
+    "intent": "MATHDS",
+    "subdomain": "descriptive_statistics_mean",
+    "query": "Find the arithmetic mean of the numbers 12, 18, 25, 31, and 44.",
+    "ground_truth": {
+      "expected_value": 26.0,
+      "expected_answer_str": "26",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "Sum (130) divided by 5 must equal 26.0."
+    }
+  },
+  {
+    "query_id": "MATH_09",
+    "intent": "MATHDS",
+    "subdomain": "percentage_subtraction",
+    "query": "What is 35% of 640 minus 24?",
+    "ground_truth": {
+      "expected_value": 200.0,
+      "expected_answer_str": "200",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "35% of 640 (224) - 24 must equal 200."
+    }
+  },
+  {
+    "query_id": "MATH_10",
+    "intent": "MATHDS",
+    "subdomain": "algebraic_linear_equation",
+    "query": "Solve for y: 2y + 5 = 37 - 2y",
+    "ground_truth": {
+      "expected_value": 8.0,
+      "expected_answer_str": "8",
+      "variable": "y",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_algebraic_solution",
+      "description": "4y = 32 implies y must equal 8."
+    }
+  },
+  {
+    "query_id": "MATH_11",
+    "intent": "MATHDS",
+    "subdomain": "descriptive_statistics_median",
+    "query": "What is the median of the dataset: 7, 3, 9, 12, 1, 15, 6?",
+    "ground_truth": {
+      "expected_value": 7.0,
+      "expected_answer_str": "7",
+      "sorted_values": [
+        1,
+        3,
+        6,
+        7,
+        9,
+        12,
+        15
+      ],
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "The middle value of the sorted 7-element dataset must equal 7."
+    }
+  },
+  {
+    "query_id": "MATH_12",
+    "intent": "MATHDS",
+    "subdomain": "powers_and_multiplication",
+    "query": "Compute 2^8 * 5.",
+    "ground_truth": {
+      "expected_value": 1280,
+      "expected_answer_str": "1280",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "2^8 (256) * 5 must equal 1280."
+    }
+  },
+  {
+    "query_id": "MATH_13",
+    "intent": "MATHDS",
+    "subdomain": "financial_arithmetic",
+    "query": "If an item originally costs $250 and is discounted by 20%, what is the final price?",
+    "ground_truth": {
+      "expected_value": 200.0,
+      "expected_answer_str": "200",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "$250 * (1 - 0.20) must equal 200."
+    }
+  },
+  {
+    "query_id": "MATH_14",
+    "intent": "MATHDS",
+    "subdomain": "modular_arithmetic",
+    "query": "What is the remainder when 1256 is divided by 9?",
+    "ground_truth": {
+      "expected_value": 5,
+      "expected_answer_str": "5",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "1256 mod 9 must equal 5."
+    }
+  },
+  {
+    "query_id": "MATH_15",
+    "intent": "MATHDS",
+    "subdomain": "quadratic_difference_of_squares",
+    "query": "Solve for x: x^2 - 16 = 0",
+    "ground_truth": {
+      "expected_roots": [
+        -4.0,
+        4.0
+      ],
+      "expected_answer_str": "-4, 4",
+      "variable": "x",
+      "tolerance": 0.0,
+      "evaluation_type": "set_of_roots"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_quadratic_roots",
+      "description": "Roots must be exactly -4 and 4."
+    }
+  },
+  {
+    "query_id": "MATH_16",
+    "intent": "MATHDS",
+    "subdomain": "population_variance",
+    "query": "Calculate the population variance of the values 2, 4, 6, 8, and 10.",
+    "ground_truth": {
+      "expected_value": 8.0,
+      "expected_answer_str": "8",
+      "mean": 6.0,
+      "deviations_squared_sum": 40.0,
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "Sum of squared deviations (40) divided by N (5) must equal 8.0."
+    }
+  },
+  {
+    "query_id": "MATH_17",
+    "intent": "MATHDS",
+    "subdomain": "arithmetic_multiplication",
+    "query": "What is 125 * 64?",
+    "ground_truth": {
+      "expected_value": 8000,
+      "expected_answer_str": "8000",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "125 * 64 must equal 8000."
+    }
+  },
+  {
+    "query_id": "MATH_18",
+    "intent": "MATHDS",
+    "subdomain": "combinatorics_factorial",
+    "query": "Compute the value of 5! (5 factorial).",
+    "ground_truth": {
+      "expected_value": 120,
+      "expected_answer_str": "120",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "5 * 4 * 3 * 2 * 1 must equal 120."
+    }
+  },
+  {
+    "query_id": "MATH_19",
+    "intent": "MATHDS",
+    "subdomain": "algebraic_linear_equation",
+    "query": "Solve for x: 5(x - 3) = 2x + 9",
+    "ground_truth": {
+      "expected_value": 8.0,
+      "expected_answer_str": "8",
+      "variable": "x",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_algebraic_solution",
+      "description": "5x - 15 = 2x + 9 implies 3x = 24, so x must equal 8."
+    }
+  },
+  {
+    "query_id": "MATH_20",
+    "intent": "MATHDS",
+    "subdomain": "combined_percentages",
+    "query": "What is 75% of 320 plus 40% of 150?",
+    "ground_truth": {
+      "expected_value": 300.0,
+      "expected_answer_str": "300",
+      "tolerance": 0.0,
+      "evaluation_type": "exact_numeric"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_numerical_match",
+      "description": "(0.75 * 320 = 240) + (0.40 * 150 = 60) must equal 300."
+    }
+  },
+  {
+    "query_id": "TXT_01",
+    "intent": "TXTSRC",
+    "subdomain": "geography_capital",
+    "query": "What is the capital of Australia?",
+    "ground_truth": {
+      "reference_id": "REF_01",
+      "target_facts": [
+        "Canberra"
+      ],
+      "required_entities": [
+        "Canberra"
+      ],
+      "prohibited_entities": [
+        "Sydney",
+        "Melbourne"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must identify Canberra as the capital; must not state Sydney or Melbourne as capital; claim must match REF_01."
+    }
+  },
+  {
+    "query_id": "TXT_02",
+    "intent": "TXTSRC",
+    "subdomain": "chemistry_element",
+    "query": "What is the chemical symbol and atomic number of gold?",
+    "ground_truth": {
+      "reference_id": "REF_02",
+      "target_facts": [
+        "Au",
+        "79"
+      ],
+      "required_entities": [
+        "Au",
+        "79"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must provide chemical symbol 'Au' and atomic number 79 as verified in REF_02."
+    }
+  },
+  {
+    "query_id": "TXT_03",
+    "intent": "TXTSRC",
+    "subdomain": "history_space_exploration",
+    "query": "In what year did the Apollo 11 mission land the first humans on the Moon?",
+    "ground_truth": {
+      "reference_id": "REF_03",
+      "target_facts": [
+        "1969"
+      ],
+      "required_entities": [
+        "1969"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must state 1969 (specifically July 1969) as confirmed by REF_03."
+    }
+  },
+  {
+    "query_id": "TXT_04",
+    "intent": "TXTSRC",
+    "subdomain": "physics_constants",
+    "query": "What is the speed of light in a vacuum in meters per second?",
+    "ground_truth": {
+      "reference_id": "REF_04",
+      "target_facts": [
+        "299,792,458",
+        "299792458"
+      ],
+      "required_entities": [
+        "299792458"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must state exactly 299,792,458 m/s (or standard scientific notation 3.00 x 10^8 m/s) matching REF_04."
+    }
+  },
+  {
+    "query_id": "TXT_05",
+    "intent": "TXTSRC",
+    "subdomain": "history_of_science",
+    "query": "Who developed the theory of general relativity and in what year was it published?",
+    "ground_truth": {
+      "reference_id": "REF_05",
+      "target_facts": [
+        "Albert Einstein",
+        "1915"
+      ],
+      "required_entities": [
+        "Albert Einstein",
+        "1915"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must identify Albert Einstein and the year 1915 as supported by REF_05."
+    }
+  },
+  {
+    "query_id": "TXT_06",
+    "intent": "TXTSRC",
+    "subdomain": "oceanography_geography",
+    "query": "What is the deepest oceanic trench in the world and what is its maximum known depth?",
+    "ground_truth": {
+      "reference_id": "REF_06",
+      "target_facts": [
+        "Mariana Trench",
+        "10,984 meters"
+      ],
+      "required_entities": [
+        "Mariana Trench"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must name Mariana Trench (or Challenger Deep) and depth approximately 10,984 m (~36,000 ft) from REF_06."
+    }
+  },
+  {
+    "query_id": "TXT_07",
+    "intent": "TXTSRC",
+    "subdomain": "biology_cellular",
+    "query": "What is the primary function of ribosomes in biological cells?",
+    "ground_truth": {
+      "reference_id": "REF_07",
+      "target_facts": [
+        "protein synthesis",
+        "translation of mRNA"
+      ],
+      "required_entities": [
+        "protein synthesis"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must state protein synthesis or translation of mRNA into polypeptides as in REF_07."
+    }
+  },
+  {
+    "query_id": "TXT_08",
+    "intent": "TXTSRC",
+    "subdomain": "modern_history",
+    "query": "Which treaty officially ended World War I in 1919?",
+    "ground_truth": {
+      "reference_id": "REF_08",
+      "target_facts": [
+        "Treaty of Versailles"
+      ],
+      "required_entities": [
+        "Treaty of Versailles"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must specify Treaty of Versailles as documented in REF_08."
+    }
+  },
+  {
+    "query_id": "TXT_09",
+    "intent": "TXTSRC",
+    "subdomain": "thermodynamics_constants",
+    "query": "What is the boiling point of pure water under standard atmospheric pressure in Celsius and Fahrenheit?",
+    "ground_truth": {
+      "reference_id": "REF_09",
+      "target_facts": [
+        "100 degrees Celsius",
+        "212 degrees Fahrenheit",
+        "100°C",
+        "212°F"
+      ],
+      "required_entities": [
+        "100",
+        "212"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must cite both 100°C and 212°F under standard atmospheric pressure matching REF_09."
+    }
+  },
+  {
+    "query_id": "TXT_10",
+    "intent": "TXTSRC",
+    "subdomain": "literature_history",
+    "query": "Who wrote the novel 'Pride and Prejudice' and in what year was it first published?",
+    "ground_truth": {
+      "reference_id": "REF_10",
+      "target_facts": [
+        "Jane Austen",
+        "1813"
+      ],
+      "required_entities": [
+        "Jane Austen",
+        "1813"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must name Jane Austen and publication year 1813 supported by REF_10."
+    }
+  },
+  {
+    "query_id": "TXT_11",
+    "intent": "TXTSRC",
+    "subdomain": "physical_geography",
+    "query": "What is the tallest mountain peak on Earth measured from sea level and what is its official elevation?",
+    "ground_truth": {
+      "reference_id": "REF_11",
+      "target_facts": [
+        "Mount Everest",
+        "8,848.86 meters",
+        "29,031.7 feet"
+      ],
+      "required_entities": [
+        "Mount Everest",
+        "8848.86"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must identify Mount Everest and elevation ~8,848.86 meters (~29,032 ft) matching REF_11."
+    }
+  },
+  {
+    "query_id": "TXT_12",
+    "intent": "TXTSRC",
+    "subdomain": "inorganic_chemistry",
+    "query": "What are the three historically primary allotropes of elemental carbon?",
+    "ground_truth": {
+      "reference_id": "REF_12",
+      "target_facts": [
+        "Diamond",
+        "Graphite",
+        "Fullerenes"
+      ],
+      "required_entities": [
+        "Diamond",
+        "Graphite",
+        "Fullerenes"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must name diamond, graphite, and fullerenes (or buckyballs/nanotubes) from REF_12."
+    }
+  },
+  {
+    "query_id": "TXT_13",
+    "intent": "TXTSRC",
+    "subdomain": "history_nobel_prize",
+    "query": "Who was the first woman to win a Nobel Prize and in what scientific discipline was it awarded?",
+    "ground_truth": {
+      "reference_id": "REF_13",
+      "target_facts": [
+        "Marie Curie",
+        "Physics",
+        "1903"
+      ],
+      "required_entities": [
+        "Marie Curie",
+        "Physics"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must name Marie Curie and Physics (1903) as supported by REF_13."
+    }
+  },
+  {
+    "query_id": "TXT_14",
+    "intent": "TXTSRC",
+    "subdomain": "economics_currency",
+    "query": "What is the official currency of South Korea and what is its international currency code?",
+    "ground_truth": {
+      "reference_id": "REF_14",
+      "target_facts": [
+        "South Korean Won",
+        "KRW",
+        "Won"
+      ],
+      "required_entities": [
+        "Won",
+        "KRW"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must state Won and currency code KRW as in REF_14."
+    }
+  },
+  {
+    "query_id": "TXT_15",
+    "intent": "TXTSRC",
+    "subdomain": "international_relations",
+    "query": "In what year was the United Nations established and in which city is its official headquarters located?",
+    "ground_truth": {
+      "reference_id": "REF_15",
+      "target_facts": [
+        "1945",
+        "New York City"
+      ],
+      "required_entities": [
+        "1945",
+        "New York"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must state 1945 and New York City as documented in REF_15."
+    }
+  },
+  {
+    "query_id": "TXT_16",
+    "intent": "TXTSRC",
+    "subdomain": "cell_biology",
+    "query": "What organelle is commonly referred to as the powerhouse of the eukaryotic cell?",
+    "ground_truth": {
+      "reference_id": "REF_16",
+      "target_facts": [
+        "Mitochondria",
+        "Mitochondrion"
+      ],
+      "required_entities": [
+        "Mitochondria"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must identify Mitochondria (or Mitochondrion) as in REF_16."
+    }
+  },
+  {
+    "query_id": "TXT_17",
+    "intent": "TXTSRC",
+    "subdomain": "nuclear_chemistry",
+    "query": "What is the half-life of Carbon-14 used in archaeological radiocarbon dating?",
+    "ground_truth": {
+      "reference_id": "REF_17",
+      "target_facts": [
+        "5,730 years",
+        "5730"
+      ],
+      "required_entities": [
+        "5730"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must state approximately 5,730 years (within standard margin +/- 40 years) from REF_17."
+    }
+  },
+  {
+    "query_id": "TXT_18",
+    "intent": "TXTSRC",
+    "subdomain": "geography_capital",
+    "query": "What is the capital city of Canada?",
+    "ground_truth": {
+      "reference_id": "REF_18",
+      "target_facts": [
+        "Ottawa"
+      ],
+      "required_entities": [
+        "Ottawa"
+      ],
+      "prohibited_entities": [
+        "Toronto",
+        "Montreal",
+        "Vancouver"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must state Ottawa; must not confuse with Toronto or Montreal; matches REF_18."
+    }
+  },
+  {
+    "query_id": "TXT_19",
+    "intent": "TXTSRC",
+    "subdomain": "biochemistry_history",
+    "query": "Who determined the chemical structure of penicillin using X-ray crystallography and won the Nobel Prize in Chemistry in 1964?",
+    "ground_truth": {
+      "reference_id": "REF_19",
+      "target_facts": [
+        "Dorothy Crowfoot Hodgkin",
+        "Dorothy Hodgkin"
+      ],
+      "required_entities": [
+        "Dorothy Hodgkin"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must identify Dorothy Hodgkin (or Dorothy Crowfoot Hodgkin) from REF_19."
+    }
+  },
+  {
+    "query_id": "TXT_20",
+    "intent": "TXTSRC",
+    "subdomain": "astronomy_constants",
+    "query": "What is the average distance from the Earth to the Sun called, and approximately how many kilometers is it?",
+    "ground_truth": {
+      "reference_id": "REF_20",
+      "target_facts": [
+        "Astronomical Unit",
+        "1 AU",
+        "149.6 million kilometers"
+      ],
+      "required_entities": [
+        "Astronomical Unit",
+        "149.6"
+      ],
+      "evaluation_type": "factual_grounding"
+    },
+    "evaluation_criteria": {
+      "metric": "factual_grounding_accuracy",
+      "description": "Must cite Astronomical Unit (AU) and approximately 149.6 million km (~93 million miles) from REF_20."
+    }
+  },
+  {
+    "query_id": "SEM_01",
+    "intent": "SEMADPT",
+    "subdomain": "tone_transformation",
+    "query": "Rewrite the following announcement to sound warm, friendly, and welcoming: 'The system maintenance is complete. Services are restored.'",
+    "ground_truth": {
+      "task_type": "tone_transformation",
+      "target_tone": "warm_friendly_welcoming",
+      "core_content_elements": [
+        "maintenance is complete",
+        "services are restored"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_semantic_preservation",
+      "description": "Response adopts a warm/friendly tone, preserves core facts that maintenance is done and services are restored, and contains no extraneous factual hallucinations."
+    }
+  },
+  {
+    "query_id": "SEM_02",
+    "intent": "SEMADPT",
+    "subdomain": "text_conciseness",
+    "query": "Make this email more concise and direct while maintaining professional courtesy: 'Dear team, I am writing to you today to gently inform everyone that our scheduled meeting tomorrow morning will unfortunately need to be postponed until Thursday at 2 PM due to scheduling conflicts. Please let me know if you have any questions.'",
+    "ground_truth": {
+      "task_type": "concise_rewriting",
+      "max_word_count": 35,
+      "core_content_elements": [
+        "meeting postponed",
+        "Thursday at 2 PM"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_length",
+      "description": "Response must be under 35 words, retain the new meeting time (Thursday at 2 PM), and remain professional."
+    }
+  },
+  {
+    "query_id": "SEM_03",
+    "intent": "SEMADPT",
+    "subdomain": "creative_generation",
+    "query": "Write a short creative story of exactly 3 to 4 sentences about a lighthouse keeper during a heavy storm.",
+    "ground_truth": {
+      "task_type": "creative_story",
+      "min_sentences": 3,
+      "max_sentences": 4,
+      "theme_elements": [
+        "lighthouse keeper",
+        "storm"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_sentence_count",
+      "description": "Response must be a narrative containing between 3 and 4 sentences featuring a lighthouse keeper in a storm."
+    }
+  },
+  {
+    "query_id": "SEM_04",
+    "intent": "SEMADPT",
+    "subdomain": "single_sentence_summarization",
+    "query": "Summarize the following passage into exactly one sentence: 'Photosynthesis is the biological process used by plants, algae, and certain bacteria to convert light energy into chemical energy. This chemical energy is stored in carbohydrate molecules, such as sugars, synthesized from carbon dioxide and water. In most cases, oxygen is released as a byproduct, making photosynthesis crucial for aerobic life on Earth.'",
+    "ground_truth": {
+      "task_type": "single_sentence_summary",
+      "exact_sentence_count": 1,
+      "core_content_elements": [
+        "plants convert light energy into chemical energy/sugars",
+        "oxygen released / supports life"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_sentence_count",
+      "description": "Response must consist of exactly 1 grammatical sentence capturing the light-to-chemical conversion process."
+    }
+  },
+  {
+    "query_id": "SEM_05",
+    "intent": "SEMADPT",
+    "subdomain": "tone_transformation",
+    "query": "Rewrite this negative customer feedback into a constructive, polite inquiry: 'Your software crashed three times today and ruined my report. Fix this garbage.'",
+    "ground_truth": {
+      "task_type": "tone_transformation",
+      "target_tone": "constructive_polite",
+      "core_content_elements": [
+        "software crashed",
+        "report affected",
+        "request for fix/support"
+      ],
+      "prohibited_words": [
+        "garbage",
+        "ruined"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_politeness",
+      "description": "Response eliminates rude vocabulary ('garbage') while clearly describing the crash issue and requesting resolution."
+    }
+  },
+  {
+    "query_id": "SEM_06",
+    "intent": "SEMADPT",
+    "subdomain": "creative_ideation",
+    "query": "Generate three creative slogan ideas for an eco-friendly reusable water bottle brand.",
+    "ground_truth": {
+      "task_type": "creative_slogans",
+      "item_count": 3,
+      "theme_elements": [
+        "eco-friendly",
+        "reusable water bottle"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_count",
+      "description": "Response must provide exactly 3 distinct slogans themed around environmental sustainability and hydration."
+    }
+  },
+  {
+    "query_id": "SEM_07",
+    "intent": "SEMADPT",
+    "subdomain": "register_transformation",
+    "query": "Rewrite this informal text into formal business prose: 'Hey guys, we gotta push back the project deadline cause the vendors haven't sent the parts yet.'",
+    "ground_truth": {
+      "task_type": "register_shift_formal",
+      "target_register": "formal_business",
+      "core_content_elements": [
+        "project deadline extended/postponed",
+        "delayed vendor shipment/parts"
+      ],
+      "prohibited_phrases": [
+        "hey guys",
+        "gotta",
+        "cause"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_formality",
+      "description": "Response removes colloquialisms ('hey guys', 'gotta') and communicates the deadline extension formally."
+    }
+  },
+  {
+    "query_id": "SEM_08",
+    "intent": "SEMADPT",
+    "subdomain": "poetry_generation",
+    "query": "Write a four-line rhyming poem (AABB or ABAB) about autumn leaves falling in October.",
+    "ground_truth": {
+      "task_type": "rhyming_poetry",
+      "line_count": 4,
+      "theme_elements": [
+        "autumn leaves",
+        "October"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_form",
+      "description": "Response must be a 4-line poem with discernible rhyme scheme about autumn leaves in October."
+    }
+  },
+  {
+    "query_id": "SEM_09",
+    "intent": "SEMADPT",
+    "subdomain": "bullet_point_summarization",
+    "query": "Summarize the key takeaway of this text in exactly two bullet points: 'Neural networks are composed of interconnected layers of nodes designed to mimic the human brain. Deep learning involves neural networks with three or more layers, enabling feature hierarchy extraction. While deep neural networks achieve high predictive performance on complex vision and language benchmarks, they typically require large training datasets and substantial computational resources for optimization.'",
+    "ground_truth": {
+      "task_type": "bullet_summary",
+      "bullet_count": 2,
+      "core_content_elements": [
+        "hierarchical feature learning with 3+ layers",
+        "high performance but requires large data and compute"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_count",
+      "description": "Response must contain exactly 2 bullet points capturing hierarchical feature learning and computational/data demands."
+    }
+  },
+  {
+    "query_id": "SEM_10",
+    "intent": "SEMADPT",
+    "subdomain": "conversational_empathy",
+    "query": "Provide an empathetic and reassuring response to a colleague who is feeling stressed about an upcoming client presentation.",
+    "ground_truth": {
+      "task_type": "empathetic_dialogue",
+      "target_tone": "supportive_empathic",
+      "theme_elements": [
+        "client presentation",
+        "stress validation",
+        "encouragement"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_tone",
+      "description": "Response validates their stress, offers reassuring support, and maintains professional collegiality."
+    }
+  },
+  {
+    "query_id": "SEM_11",
+    "intent": "SEMADPT",
+    "subdomain": "audience_adaptation",
+    "query": "Rewrite this complex explanation in simple language suitable for an 8-year-old child: 'Mitochondria are double-membrane-bound organelles found in most eukaryotic organisms that generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy.'",
+    "ground_truth": {
+      "task_type": "audience_adaptation",
+      "target_audience": "child_8_years_old",
+      "core_content_elements": [
+        "parts of the body/cells that make energy",
+        "battery or powerhouse analogy"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_simplicity",
+      "description": "Response replaces technical jargon (e.g., 'adenosine triphosphate') with child-accessible concepts like 'tiny power plants' or 'batteries'."
+    }
+  },
+  {
+    "query_id": "SEM_12",
+    "intent": "SEMADPT",
+    "subdomain": "dialogue_generation",
+    "query": "Write a short fictional dialogue of exactly 4 turns (2 per speaker) between an astronaut and mission control about spotting an unusual aurora from orbit.",
+    "ground_truth": {
+      "task_type": "scripted_dialogue",
+      "turn_count": 4,
+      "speakers": [
+        "Astronaut",
+        "Mission Control"
+      ],
+      "theme_elements": [
+        "aurora from orbit"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_turn_count",
+      "description": "Response must feature exactly 4 dialogue lines alternating between astronaut and ground control regarding an aurora."
+    }
+  },
+  {
+    "query_id": "SEM_13",
+    "intent": "SEMADPT",
+    "subdomain": "tactful_communication",
+    "query": "Rewrite the following blunt rejection letter to sound appreciative and encouraging: 'We reviewed your resume and decided not to hire you because someone else had more experience.'",
+    "ground_truth": {
+      "task_type": "tactful_rewriting",
+      "target_tone": "respectful_encouraging",
+      "core_content_elements": [
+        "thank candidate for applying",
+        "decision not to move forward",
+        "wish success in job search"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_courtesy",
+      "description": "Response expresses gratitude for candidate's time and delivers rejection with standard HR professionalism and encouragement."
+    }
+  },
+  {
+    "query_id": "SEM_14",
+    "intent": "SEMADPT",
+    "subdomain": "constrained_summarization",
+    "query": "Condense this technical paragraph into exactly 2 concise sentences: 'Machine learning algorithms build a mathematical model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.'",
+    "ground_truth": {
+      "task_type": "two_sentence_summary",
+      "exact_sentence_count": 2,
+      "core_content_elements": [
+        "models learn from data to make predictions",
+        "applied where conventional algorithms are unfeasible"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_sentence_count",
+      "description": "Response must consist of exactly 2 sentences summarizing what ML is and its practical application scope."
+    }
+  },
+  {
+    "query_id": "SEM_15",
+    "intent": "SEMADPT",
+    "subdomain": "creative_ideation",
+    "query": "Brainstorm three creative name ideas for a cozy coffee shop located inside an independent bookstore.",
+    "ground_truth": {
+      "task_type": "name_brainstorming",
+      "item_count": 3,
+      "theme_elements": [
+        "coffee",
+        "books / reading"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_count",
+      "description": "Response must produce exactly 3 distinct store name options that merge book/reading imagery with coffee."
+    }
+  },
+  {
+    "query_id": "SEM_16",
+    "intent": "SEMADPT",
+    "subdomain": "marketing_copywriting",
+    "query": "Rewrite this product feature description from technical passive voice to engaging, active, user-centric marketing copy: 'A reduction in boot time from 45 seconds to 8 seconds is achieved through the integration of the solid-state drive.'",
+    "ground_truth": {
+      "task_type": "copywriting_transformation",
+      "target_style": "active_marketing",
+      "core_content_elements": [
+        "faster boot time (from 45s to 8s)",
+        "solid-state drive / SSD"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_voice",
+      "description": "Response converts passive structure to active voice emphasizing user speed benefits (8-second startup)."
+    }
+  },
+  {
+    "query_id": "SEM_17",
+    "intent": "SEMADPT",
+    "subdomain": "poetic_form_haiku",
+    "query": "Write a creative haiku (3 lines with approximately 5-7-5 syllable structure) about a winter sunrise.",
+    "ground_truth": {
+      "task_type": "haiku_poetry",
+      "line_count": 3,
+      "theme_elements": [
+        "winter sunrise",
+        "snow / frost / dawn"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_form",
+      "description": "Response must be a 3-line haiku capturing the imagery of a cold winter dawn."
+    }
+  },
+  {
+    "query_id": "SEM_18",
+    "intent": "SEMADPT",
+    "subdomain": "concise_policy_summary",
+    "query": "Summarize this policy excerpt into a single short sentence under 20 words: 'All employees travelling on company business must submit itemized expense receipts within thirty calendar days of returning from travel in order to receive reimbursement from the accounts payable department.'",
+    "ground_truth": {
+      "task_type": "micro_summary",
+      "exact_sentence_count": 1,
+      "max_word_count": 20,
+      "core_content_elements": [
+        "submit receipts within 30 days for reimbursement"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_length",
+      "description": "Response must be exactly 1 sentence, strictly under 20 words, stating the 30-day receipt submission rule."
+    }
+  },
+  {
+    "query_id": "SEM_19",
+    "intent": "SEMADPT",
+    "subdomain": "workplace_welcome",
+    "query": "Compose a warm, encouraging message welcoming a newly hired software engineer on their first day with the team.",
+    "ground_truth": {
+      "task_type": "welcome_message",
+      "target_tone": "warm_encouraging",
+      "theme_elements": [
+        "first day welcome",
+        "engineering team",
+        "readiness to help"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_tone",
+      "description": "Response conveys genuine welcome, expresses excitement to collaborate, and offers support for onboarding."
+    }
+  },
+  {
+    "query_id": "SEM_20",
+    "intent": "SEMADPT",
+    "subdomain": "urgent_professional_communication",
+    "query": "Rewrite this message to convey urgency without causing alarm: 'The server disk space is at 94% capacity. We need to clear old log files today.'",
+    "ground_truth": {
+      "task_type": "urgent_professional_tone",
+      "target_tone": "calm_urgent",
+      "core_content_elements": [
+        "disk space at 94%",
+        "clear old logs today"
+      ],
+      "evaluation_type": "instruction_adherence"
+    },
+    "evaluation_criteria": {
+      "metric": "instruction_adherence_and_tone",
+      "description": "Response emphasizes immediate same-day action while avoiding panicked phrasing."
+    }
+  },
+  {
+    "query_id": "CSTR_01",
+    "intent": "CSTRSET",
+    "subdomain": "json_schema_object",
+    "query": "Return a JSON object with fields 'book_title', 'author', and 'publication_year'. Do not include any explanation or extra text.",
+    "ground_truth": {
+      "expected_format": "json_object",
+      "required_keys": [
+        "book_title",
+        "author",
+        "publication_year"
+      ],
+      "negative_constraints": [
+        "no_markdown_codeblocks",
+        "no_conversational_text"
+      ],
+      "evaluation_type": "schema_validation"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_json_schema_compliance",
+      "description": "Parses as valid JSON object containing exactly the 3 required keys with no surrounding conversational prose."
+    }
+  },
+  {
+    "query_id": "CSTR_02",
+    "intent": "CSTRSET",
+    "subdomain": "json_array_count",
+    "query": "Output a JSON array containing exactly 4 string items naming colors. Return only valid JSON.",
+    "ground_truth": {
+      "expected_format": "json_array",
+      "exact_item_count": 4,
+      "item_types": "string",
+      "negative_constraints": [
+        "only_valid_json"
+      ],
+      "evaluation_type": "array_length_and_type"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_json_array_compliance",
+      "description": "Parses as valid JSON array of length exactly 4 where all elements are strings."
+    }
+  },
+  {
+    "query_id": "CSTR_03",
+    "intent": "CSTRSET",
+    "subdomain": "yaml_mapping",
+    "query": "Provide the following configuration as valid YAML with keys 'service_name', 'port', and 'active_status'. Do not include conversational text.",
+    "ground_truth": {
+      "expected_format": "yaml_mapping",
+      "required_keys": [
+        "service_name",
+        "port",
+        "active_status"
+      ],
+      "negative_constraints": [
+        "no_conversational_text"
+      ],
+      "evaluation_type": "yaml_schema_validation"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_yaml_compliance",
+      "description": "Parses as valid YAML mapping containing keys 'service_name', 'port', and 'active_status'."
+    }
+  },
+  {
+    "query_id": "CSTR_04",
+    "intent": "CSTRSET",
+    "subdomain": "json_type_enforcement",
+    "query": "Return a JSON object containing two keys: 'status' (string) and 'error_code' (integer). The output must contain only the raw JSON.",
+    "ground_truth": {
+      "expected_format": "json_object",
+      "required_keys": [
+        "status",
+        "error_code"
+      ],
+      "type_constraints": {
+        "status": "str",
+        "error_code": "int"
+      },
+      "negative_constraints": [
+        "raw_json_only"
+      ],
+      "evaluation_type": "typed_json_validation"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_typed_json_compliance",
+      "description": "Valid JSON object with 'status' as string, 'error_code' as integer, and zero additional prose."
+    }
+  },
+  {
+    "query_id": "CSTR_05",
+    "intent": "CSTRSET",
+    "subdomain": "numbered_list_count",
+    "query": "List exactly 5 European capital cities as a numbered list from 1 to 5. Do not include any introductory or concluding text.",
+    "ground_truth": {
+      "expected_format": "numbered_list",
+      "exact_line_count": 5,
+      "prefix_pattern": "^[1-5]\\.\\s+[A-Za-z\\s]+$",
+      "negative_constraints": [
+        "no_intro_text",
+        "no_concluding_text"
+      ],
+      "evaluation_type": "line_count_and_format"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_list_formatting",
+      "description": "Output consists of exactly 5 lines numbered 1 to 5 with European capitals and zero conversational preamble."
+    }
+  },
+  {
+    "query_id": "CSTR_06",
+    "intent": "CSTRSET",
+    "subdomain": "xml_schema",
+    "query": "Format a user record as valid XML with root tag <user> and child tags <id>, <name>, and <role>. Return only the XML block.",
+    "ground_truth": {
+      "expected_format": "xml",
+      "root_tag": "user",
+      "required_child_tags": [
+        "id",
+        "name",
+        "role"
+      ],
+      "negative_constraints": [
+        "xml_only"
+      ],
+      "evaluation_type": "xml_validation"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_xml_compliance",
+      "description": "Parses as valid XML document with root <user> containing <id>, <name>, and <role>."
+    }
+  },
+  {
+    "query_id": "CSTR_07",
+    "intent": "CSTRSET",
+    "subdomain": "json_ordered_array",
+    "query": "Return a JSON array containing exactly 3 numbers in ascending order. No additional words or explanations.",
+    "ground_truth": {
+      "expected_format": "json_array",
+      "exact_item_count": 3,
+      "ordering_constraint": "strictly_ascending_numbers",
+      "negative_constraints": [
+        "no_additional_words"
+      ],
+      "evaluation_type": "ordered_array_validation"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_json_ordering_compliance",
+      "description": "Parses as valid JSON array of 3 numbers where item[0] < item[1] < item[2]."
+    }
+  },
+  {
+    "query_id": "CSTR_08",
+    "intent": "CSTRSET",
+    "subdomain": "exact_word_count",
+    "query": "Describe the concept of gravity in exactly 20 words. No more, no less.",
+    "ground_truth": {
+      "expected_format": "plain_text",
+      "exact_word_count": 20,
+      "topic": "gravity",
+      "negative_constraints": [
+        "exact_length_only"
+      ],
+      "evaluation_type": "word_count_check"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_word_count_compliance",
+      "description": "Token count when split by whitespace must equal exactly 20 words."
+    }
+  },
+  {
+    "query_id": "CSTR_09",
+    "intent": "CSTRSET",
+    "subdomain": "json_schema_types",
+    "query": "Return a JSON object with the exact keys: 'product_id', 'price_usd', 'in_stock'. 'price_usd' must be a float and 'in_stock' must be a boolean.",
+    "ground_truth": {
+      "expected_format": "json_object",
+      "required_keys": [
+        "product_id",
+        "price_usd",
+        "in_stock"
+      ],
+      "type_constraints": {
+        "price_usd": "float_or_number",
+        "in_stock": "bool"
+      },
+      "negative_constraints": [
+        "no_additional_keys",
+        "no_conversational_text"
+      ],
+      "evaluation_type": "typed_json_validation"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_typed_json_compliance",
+      "description": "Valid JSON object with price_usd as float/number and in_stock as boolean."
+    }
+  },
+  {
+    "query_id": "CSTR_10",
+    "intent": "CSTRSET",
+    "subdomain": "comma_separated_count",
+    "query": "Provide a comma-separated list of exactly 6 fruits. Return only the comma-separated values with no other text.",
+    "ground_truth": {
+      "expected_format": "csv_line",
+      "delimiter": ",",
+      "exact_item_count": 6,
+      "negative_constraints": [
+        "no_intro_or_outro_text"
+      ],
+      "evaluation_type": "csv_item_count"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_csv_count_compliance",
+      "description": "Single line of text splitting on comma into exactly 6 non-empty fruit names."
+    }
+  },
+  {
+    "query_id": "CSTR_11",
+    "intent": "CSTRSET",
+    "subdomain": "json_nested_structure",
+    "query": "Return a JSON object with nested structure: key 'metadata' containing 'created_at' and 'author', and key 'data' containing 'score'. Only raw JSON.",
+    "ground_truth": {
+      "expected_format": "json_object",
+      "required_root_keys": [
+        "metadata",
+        "data"
+      ],
+      "nested_keys": {
+        "metadata": [
+          "created_at",
+          "author"
+        ],
+        "data": [
+          "score"
+        ]
+      },
+      "negative_constraints": [
+        "raw_json_only"
+      ],
+      "evaluation_type": "nested_json_validation"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_nested_json_compliance",
+      "description": "Valid JSON object verifying root keys 'metadata' and 'data' and their respective specified child keys."
+    }
+  },
+  {
+    "query_id": "CSTR_12",
+    "intent": "CSTRSET",
+    "subdomain": "ordered_list_constraint",
+    "query": "List exactly 3 programming languages in reverse alphabetical order. Return only the list with no extra words.",
+    "ground_truth": {
+      "expected_format": "text_list",
+      "exact_item_count": 3,
+      "ordering_constraint": "descending_alphabetical",
+      "negative_constraints": [
+        "no_extra_words"
+      ],
+      "evaluation_type": "ordered_list_check"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_alphabetical_ordering",
+      "description": "Exactly 3 programming languages whose names appear in strictly descending alphabetical order."
+    }
+  },
+  {
+    "query_id": "CSTR_13",
+    "intent": "CSTRSET",
+    "subdomain": "yaml_typed_mapping",
+    "query": "Format the response as a valid YAML mapping with keys 'database', 'host', and 'timeout_seconds'. The timeout_seconds value must be an integer.",
+    "ground_truth": {
+      "expected_format": "yaml_mapping",
+      "required_keys": [
+        "database",
+        "host",
+        "timeout_seconds"
+      ],
+      "type_constraints": {
+        "timeout_seconds": "int"
+      },
+      "negative_constraints": [
+        "no_markdown_fences",
+        "no_conversational_text"
+      ],
+      "evaluation_type": "yaml_schema_validation"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_yaml_typed_compliance",
+      "description": "Valid YAML mapping with integer value for 'timeout_seconds' key."
+    }
+  },
+  {
+    "query_id": "CSTR_14",
+    "intent": "CSTRSET",
+    "subdomain": "json_alternating_array",
+    "query": "Output a JSON array containing exactly 5 boolean values alternating between true and false starting with true.",
+    "ground_truth": {
+      "expected_format": "json_array",
+      "expected_value": [
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      "exact_item_count": 5,
+      "negative_constraints": [
+        "only_boolean_array",
+        "no_extra_elements"
+      ],
+      "evaluation_type": "exact_json_match"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_json_payload_match",
+      "description": "Parses as valid JSON array exactly matching [true, false, true, false, true]."
+    }
+  },
+  {
+    "query_id": "CSTR_15",
+    "intent": "CSTRSET",
+    "subdomain": "bounded_word_count",
+    "query": "Define the word 'algorithm' in a single sentence containing between 10 and 15 words total.",
+    "ground_truth": {
+      "expected_format": "single_sentence",
+      "exact_sentence_count": 1,
+      "min_word_count": 10,
+      "max_word_count": 15,
+      "topic": "algorithm",
+      "negative_constraints": [
+        "no_multiple_sentences",
+        "word_count_bounded"
+      ],
+      "evaluation_type": "bounded_sentence_length"
+    },
+    "evaluation_criteria": {
+      "metric": "bounded_word_count_compliance",
+      "description": "Exactly one sentence with total word count between 10 and 15 words defining 'algorithm'."
+    }
+  },
+  {
+    "query_id": "CSTR_16",
+    "intent": "CSTRSET",
+    "subdomain": "json_schema_boolean",
+    "query": "Return a JSON object with fields 'student_name', 'grade', and 'passed'. 'passed' must be boolean true. Do not include markdown code fences.",
+    "ground_truth": {
+      "expected_format": "json_object",
+      "required_keys": [
+        "student_name",
+        "grade",
+        "passed"
+      ],
+      "value_constraints": {
+        "passed": true
+      },
+      "negative_constraints": [
+        "no_markdown_code_fences"
+      ],
+      "evaluation_type": "json_value_check"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_json_value_compliance",
+      "description": "Valid JSON without markdown codeblock formatting, containing required keys and passed == True."
+    }
+  },
+  {
+    "query_id": "CSTR_17",
+    "intent": "CSTRSET",
+    "subdomain": "bullet_formatting_count",
+    "query": "Provide exactly 4 bullet points outlining key steps of the water cycle. Use '-' as the bullet symbol. No introductory text.",
+    "ground_truth": {
+      "expected_format": "bulleted_list",
+      "bullet_symbol": "-",
+      "exact_line_count": 4,
+      "negative_constraints": [
+        "no_intro_text"
+      ],
+      "evaluation_type": "bullet_count_check"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_bullet_format_compliance",
+      "description": "Exactly 4 lines starting with '-' outlining water cycle stages without introductory narrative."
+    }
+  },
+  {
+    "query_id": "CSTR_18",
+    "intent": "CSTRSET",
+    "subdomain": "single_digit_output",
+    "query": "Return a single integer representing the number of continents on Earth. Output only the digit and nothing else.",
+    "ground_truth": {
+      "expected_format": "raw_digit",
+      "expected_digit": 7,
+      "negative_constraints": [
+        "digit_only_no_prose"
+      ],
+      "evaluation_type": "single_digit_check"
+    },
+    "evaluation_criteria": {
+      "metric": "exact_digit_compliance",
+      "description": "Output stripped must equal '7' with zero additional characters or words."
+    }
+  },
+  {
+    "query_id": "CSTR_19",
+    "intent": "CSTRSET",
+    "subdomain": "xml_schema_event",
+    "query": "Format this event information as valid XML using root tag <event> with child tags <title>, <date>, and <location>. Return only the XML.",
+    "ground_truth": {
+      "expected_format": "xml",
+      "root_tag": "event",
+      "required_child_tags": [
+        "title",
+        "date",
+        "location"
+      ],
+      "negative_constraints": [
+        "xml_only"
+      ],
+      "evaluation_type": "xml_validation"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_xml_compliance",
+      "description": "Parses as valid XML document with root <event> containing <title>, <date>, and <location>."
+    }
+  },
+  {
+    "query_id": "CSTR_20",
+    "intent": "CSTRSET",
+    "subdomain": "json_cased_array",
+    "query": "Return a JSON object with key 'tags' whose value is a list of exactly 3 lowercase strings. Return only valid JSON.",
+    "ground_truth": {
+      "expected_format": "json_object",
+      "required_keys": [
+        "tags"
+      ],
+      "tags_list_length": 3,
+      "tags_casing": "all_lowercase",
+      "negative_constraints": [
+        "only_valid_json"
+      ],
+      "evaluation_type": "nested_cased_list_check"
+    },
+    "evaluation_criteria": {
+      "metric": "strict_json_cased_list_compliance",
+      "description": "Valid JSON object with key 'tags' containing a 3-element list where every string is lowercase."
+    }
+  }
+]

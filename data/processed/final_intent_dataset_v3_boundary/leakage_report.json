@@ -1,0 +1,16 @@
+{
+  "benchmark_file": "C:\\Users\\utham\\Desktop\\nndl proj\\data\\hallucination_eval\\eval_queries.json",
+  "benchmark_hash": "83ccec72b5a0c969e77e36eb00296e1c6e18f9369751038b80a829444f8ee454",
+  "total_benchmark_queries": 80,
+  "leaks_detected": 0,
+  "leak_details": [],
+  "cross_split_overlaps": {
+    "train_val": 0,
+    "train_test": 0,
+    "val_test": 0
+  },
+  "holdout_eval_file": "C:\\Users\\utham\\Desktop\\nndl proj\\data\\hallucination_eval\\phase6_7_boundary_eval.json",
+  "holdout_eval_hash": "401eac2c89763dc87375019a2f8bb71dc220667805933af0034b77da1f27821f",
+  "holdout_eval_overlap": 0,
+  "status": "PASSED_STRICT"
+}

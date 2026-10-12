@@ -1,0 +1,1402 @@
+[
+  {
+    "case_id": "BOUND_SEM_001",
+    "query": "Write an imaginative story consisting of exactly 2 sentences describing a deep-space voyager probe transmitting a final telemetry image.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 2 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_002",
+    "query": "Write an imaginative story consisting of exactly 2 sentences describing a solitary astronomer logging variable star luminosities in an alpine dome.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 2 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_003",
+    "query": "Write an imaginative story consisting of exactly 2 sentences describing an archaeologist assembling fragments of a bronze water clock.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 2 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_004",
+    "query": "Write an imaginative story consisting of exactly 2 sentences describing a marine researcher diving through a giant kelp forest.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 2 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_005",
+    "query": "Write an imaginative story consisting of exactly 2 sentences describing a master glassblower sculpting an intricate blown-glass decanter.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 2 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_006",
+    "query": "Write an imaginative story consisting of exactly 3 sentences describing a deep-space voyager probe transmitting a final telemetry image.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 3 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_007",
+    "query": "Write an imaginative story consisting of exactly 3 sentences describing a solitary astronomer logging variable star luminosities in an alpine dome.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 3 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_008",
+    "query": "Write an imaginative story consisting of exactly 3 sentences describing an archaeologist assembling fragments of a bronze water clock.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 3 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_009",
+    "query": "Write an imaginative story consisting of exactly 3 sentences describing a marine researcher diving through a giant kelp forest.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 3 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_010",
+    "query": "Write an imaginative story consisting of exactly 3 sentences describing a master glassblower sculpting an intricate blown-glass decanter.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 3 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_011",
+    "query": "Write an imaginative story consisting of exactly 4 sentences describing a deep-space voyager probe transmitting a final telemetry image.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 4 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_012",
+    "query": "Write an imaginative story consisting of exactly 4 sentences describing a solitary astronomer logging variable star luminosities in an alpine dome.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 4 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_013",
+    "query": "Write an imaginative story consisting of exactly 4 sentences describing an archaeologist assembling fragments of a bronze water clock.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 4 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_014",
+    "query": "Write an imaginative story consisting of exactly 4 sentences describing a marine researcher diving through a giant kelp forest.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 4 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_015",
+    "query": "Write an imaginative story consisting of exactly 4 sentences describing a master glassblower sculpting an intricate blown-glass decanter.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 4 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_016",
+    "query": "Write an imaginative story consisting of exactly 5 sentences describing a deep-space voyager probe transmitting a final telemetry image.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 5 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_017",
+    "query": "Write an imaginative story consisting of exactly 5 sentences describing a solitary astronomer logging variable star luminosities in an alpine dome.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 5 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_018",
+    "query": "Write an imaginative story consisting of exactly 5 sentences describing an archaeologist assembling fragments of a bronze water clock.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 5 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_019",
+    "query": "Write an imaginative story consisting of exactly 5 sentences describing a marine researcher diving through a giant kelp forest.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 5 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_020",
+    "query": "Write an imaginative story consisting of exactly 5 sentences describing a master glassblower sculpting an intricate blown-glass decanter.",
+    "intent": "SEMADPT",
+    "subtype": "story_sentence_constrained",
+    "target_constraint": "exactly 5 sentences"
+  },
+  {
+    "case_id": "BOUND_SEM_021",
+    "query": "Write a lyrical poem of 4 lines with an AABB rhyme scheme depicting an antiquarian bookseller cataloging first-edition travelogues.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, AABB rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_022",
+    "query": "Write a lyrical poem of 4 lines with an AABB rhyme scheme depicting a meteorologist observing a squall line crossing coastal wetlands.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, AABB rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_023",
+    "query": "Write a lyrical poem of 4 lines with an AABB rhyme scheme depicting a blacksmith quenching a forged broadaxe in mineral oil.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, AABB rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_024",
+    "query": "Write a lyrical poem of 4 lines with an AABB rhyme scheme depicting a violist performing a solo chaconne inside a stone crypt.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, AABB rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_025",
+    "query": "Write a lyrical poem of 4 lines with an AABB rhyme scheme depicting a clockmaker calibrating the tourbillon movement of a pocket watch.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, AABB rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_026",
+    "query": "Write a lyrical poem of 4 lines with an ABAB rhyme scheme depicting an antiquarian bookseller cataloging first-edition travelogues.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, ABAB rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_027",
+    "query": "Write a lyrical poem of 4 lines with an ABAB rhyme scheme depicting a meteorologist observing a squall line crossing coastal wetlands.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, ABAB rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_028",
+    "query": "Write a lyrical poem of 4 lines with an ABAB rhyme scheme depicting a blacksmith quenching a forged broadaxe in mineral oil.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, ABAB rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_029",
+    "query": "Write a lyrical poem of 4 lines with an ABAB rhyme scheme depicting a violist performing a solo chaconne inside a stone crypt.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, ABAB rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_030",
+    "query": "Write a lyrical poem of 4 lines with an ABAB rhyme scheme depicting a clockmaker calibrating the tourbillon movement of a pocket watch.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, ABAB rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_031",
+    "query": "Write a lyrical poem of 4 lines with an ABBA rhyme scheme depicting an antiquarian bookseller cataloging first-edition travelogues.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, ABBA rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_032",
+    "query": "Write a lyrical poem of 4 lines with an ABBA rhyme scheme depicting a meteorologist observing a squall line crossing coastal wetlands.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, ABBA rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_033",
+    "query": "Write a lyrical poem of 4 lines with an ABBA rhyme scheme depicting a blacksmith quenching a forged broadaxe in mineral oil.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, ABBA rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_034",
+    "query": "Write a lyrical poem of 4 lines with an ABBA rhyme scheme depicting a violist performing a solo chaconne inside a stone crypt.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, ABBA rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_035",
+    "query": "Write a lyrical poem of 4 lines with an ABBA rhyme scheme depicting a clockmaker calibrating the tourbillon movement of a pocket watch.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "4 lines, ABBA rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_036",
+    "query": "Write a lyrical poem of 6 lines with an AABBCC rhyme scheme depicting an antiquarian bookseller cataloging first-edition travelogues.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "6 lines, AABBCC rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_037",
+    "query": "Write a lyrical poem of 6 lines with an AABBCC rhyme scheme depicting a meteorologist observing a squall line crossing coastal wetlands.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "6 lines, AABBCC rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_038",
+    "query": "Write a lyrical poem of 6 lines with an AABBCC rhyme scheme depicting a blacksmith quenching a forged broadaxe in mineral oil.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "6 lines, AABBCC rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_039",
+    "query": "Write a lyrical poem of 6 lines with an AABBCC rhyme scheme depicting a violist performing a solo chaconne inside a stone crypt.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "6 lines, AABBCC rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_040",
+    "query": "Write a lyrical poem of 6 lines with an AABBCC rhyme scheme depicting a clockmaker calibrating the tourbillon movement of a pocket watch.",
+    "intent": "SEMADPT",
+    "subtype": "poem_rhyme_constrained",
+    "target_constraint": "6 lines, AABBCC rhyme"
+  },
+  {
+    "case_id": "BOUND_SEM_041",
+    "query": "Compose a dramatic dialogue consisting of exactly 4 turns (2 per speaker) between Specialist A and Operator B examining a tea farmer hand-picking early spring silver needle shoots.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 4 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_042",
+    "query": "Compose a dramatic dialogue consisting of exactly 4 turns (2 per speaker) between Specialist B and Operator C examining a midnight freight locomotive crossing windswept northern plains.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 4 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_043",
+    "query": "Compose a dramatic dialogue consisting of exactly 4 turns (2 per speaker) between Specialist C and Operator D examining a botanist cataloging a rare flowering bromeliad in cloud forests.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 4 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_044",
+    "query": "Compose a dramatic dialogue consisting of exactly 4 turns (2 per speaker) between Specialist D and Operator E examining a potter turning a celadon tea bowl upon a foot-powered wheel.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 4 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_045",
+    "query": "Compose a dramatic dialogue consisting of exactly 4 turns (2 per speaker) between Specialist E and Operator F examining a coastal radio technician receiving an SOS call across stormy seas.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 4 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_046",
+    "query": "Compose a dramatic dialogue consisting of exactly 4 turns (2 per speaker) between Specialist F and Operator G examining an ornithologist observing a pair of ospreys nesting on river crags.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 4 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_047",
+    "query": "Compose a dramatic dialogue consisting of exactly 4 turns (2 per speaker) between Specialist G and Operator H examining a night security officer checking locked archives in a municipal library.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 4 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_048",
+    "query": "Compose a dramatic dialogue consisting of exactly 4 turns (2 per speaker) between Specialist H and Operator I examining an artisan baker lifting seeded rye loaves from a masonry hearth.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 4 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_049",
+    "query": "Compose a dramatic dialogue consisting of exactly 4 turns (2 per speaker) between Specialist I and Operator J examining a desert explorer mapping petroglyphs carved into sandstone cliffs.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 4 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_050",
+    "query": "Compose a dramatic dialogue consisting of exactly 4 turns (2 per speaker) between Specialist J and Operator K examining a sculptor carving a classical torso from carrarra marble.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 4 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_051",
+    "query": "Compose a dramatic dialogue consisting of exactly 6 turns (3 per speaker) between Specialist A and Operator B examining a tea farmer hand-picking early spring silver needle shoots.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 6 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_052",
+    "query": "Compose a dramatic dialogue consisting of exactly 6 turns (3 per speaker) between Specialist B and Operator C examining a midnight freight locomotive crossing windswept northern plains.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 6 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_053",
+    "query": "Compose a dramatic dialogue consisting of exactly 6 turns (3 per speaker) between Specialist C and Operator D examining a botanist cataloging a rare flowering bromeliad in cloud forests.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 6 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_054",
+    "query": "Compose a dramatic dialogue consisting of exactly 6 turns (3 per speaker) between Specialist D and Operator E examining a potter turning a celadon tea bowl upon a foot-powered wheel.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 6 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_055",
+    "query": "Compose a dramatic dialogue consisting of exactly 6 turns (3 per speaker) between Specialist E and Operator F examining a coastal radio technician receiving an SOS call across stormy seas.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 6 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_056",
+    "query": "Compose a dramatic dialogue consisting of exactly 6 turns (3 per speaker) between Specialist F and Operator G examining an ornithologist observing a pair of ospreys nesting on river crags.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 6 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_057",
+    "query": "Compose a dramatic dialogue consisting of exactly 6 turns (3 per speaker) between Specialist G and Operator H examining a night security officer checking locked archives in a municipal library.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 6 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_058",
+    "query": "Compose a dramatic dialogue consisting of exactly 6 turns (3 per speaker) between Specialist H and Operator I examining an artisan baker lifting seeded rye loaves from a masonry hearth.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 6 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_059",
+    "query": "Compose a dramatic dialogue consisting of exactly 6 turns (3 per speaker) between Specialist I and Operator J examining a desert explorer mapping petroglyphs carved into sandstone cliffs.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 6 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_060",
+    "query": "Compose a dramatic dialogue consisting of exactly 6 turns (3 per speaker) between Specialist J and Operator K examining a sculptor carving a classical torso from carrarra marble.",
+    "intent": "SEMADPT",
+    "subtype": "dialogue_turns_constrained",
+    "target_constraint": "exactly 6 turns"
+  },
+  {
+    "case_id": "BOUND_SEM_061",
+    "query": "Rewrite this customer complaint into a courteous, diplomatic note in exactly 2 sentences: 'Your update broke my settings. Unacceptable work.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=diplomatic"
+  },
+  {
+    "case_id": "BOUND_SEM_062",
+    "query": "Rephrase this technical error message into reassuring, plain-English guidance in exactly 3 sentences: 'Fatal memory fault 0x00A1: buffer overflow detected.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=reassuring"
+  },
+  {
+    "case_id": "BOUND_SEM_063",
+    "query": "Rewrite this terse job candidate update into a thoughtful and positive message in exactly 2 sentences: 'You were not selected due to internal role reallocation.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=encouraging"
+  },
+  {
+    "case_id": "BOUND_SEM_064",
+    "query": "Rewrite this urgent team notification to sound calm, deliberate, and professional in exactly 3 sentences: 'The analytics pipeline is stalling and clients are noticing delay.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=calm_professional"
+  },
+  {
+    "case_id": "BOUND_SEM_065",
+    "query": "Rewrite this customer complaint into a courteous, diplomatic note in exactly 2 sentences: 'Your update broke my settings. Unacceptable work.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=diplomatic"
+  },
+  {
+    "case_id": "BOUND_SEM_066",
+    "query": "Rephrase this technical error message into reassuring, plain-English guidance in exactly 3 sentences: 'Fatal memory fault 0x00A1: buffer overflow detected.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=reassuring"
+  },
+  {
+    "case_id": "BOUND_SEM_067",
+    "query": "Rewrite this terse job candidate update into a thoughtful and positive message in exactly 2 sentences: 'You were not selected due to internal role reallocation.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=encouraging"
+  },
+  {
+    "case_id": "BOUND_SEM_068",
+    "query": "Rewrite this urgent team notification to sound calm, deliberate, and professional in exactly 3 sentences: 'The analytics pipeline is stalling and clients are noticing delay.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=calm_professional"
+  },
+  {
+    "case_id": "BOUND_SEM_069",
+    "query": "Rewrite this customer complaint into a courteous, diplomatic note in exactly 2 sentences: 'Your update broke my settings. Unacceptable work.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=diplomatic"
+  },
+  {
+    "case_id": "BOUND_SEM_070",
+    "query": "Rephrase this technical error message into reassuring, plain-English guidance in exactly 3 sentences: 'Fatal memory fault 0x00A1: buffer overflow detected.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=reassuring"
+  },
+  {
+    "case_id": "BOUND_SEM_071",
+    "query": "Rewrite this terse job candidate update into a thoughtful and positive message in exactly 2 sentences: 'You were not selected due to internal role reallocation.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=encouraging"
+  },
+  {
+    "case_id": "BOUND_SEM_072",
+    "query": "Rewrite this urgent team notification to sound calm, deliberate, and professional in exactly 3 sentences: 'The analytics pipeline is stalling and clients are noticing delay.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=calm_professional"
+  },
+  {
+    "case_id": "BOUND_SEM_073",
+    "query": "Rewrite this customer complaint into a courteous, diplomatic note in exactly 2 sentences: 'Your update broke my settings. Unacceptable work.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=diplomatic"
+  },
+  {
+    "case_id": "BOUND_SEM_074",
+    "query": "Rephrase this technical error message into reassuring, plain-English guidance in exactly 3 sentences: 'Fatal memory fault 0x00A1: buffer overflow detected.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=reassuring"
+  },
+  {
+    "case_id": "BOUND_SEM_075",
+    "query": "Rewrite this terse job candidate update into a thoughtful and positive message in exactly 2 sentences: 'You were not selected due to internal role reallocation.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=encouraging"
+  },
+  {
+    "case_id": "BOUND_SEM_076",
+    "query": "Rewrite this urgent team notification to sound calm, deliberate, and professional in exactly 3 sentences: 'The analytics pipeline is stalling and clients are noticing delay.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=calm_professional"
+  },
+  {
+    "case_id": "BOUND_SEM_077",
+    "query": "Rewrite this customer complaint into a courteous, diplomatic note in exactly 2 sentences: 'Your update broke my settings. Unacceptable work.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=diplomatic"
+  },
+  {
+    "case_id": "BOUND_SEM_078",
+    "query": "Rephrase this technical error message into reassuring, plain-English guidance in exactly 3 sentences: 'Fatal memory fault 0x00A1: buffer overflow detected.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=reassuring"
+  },
+  {
+    "case_id": "BOUND_SEM_079",
+    "query": "Rewrite this terse job candidate update into a thoughtful and positive message in exactly 2 sentences: 'You were not selected due to internal role reallocation.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=encouraging"
+  },
+  {
+    "case_id": "BOUND_SEM_080",
+    "query": "Rewrite this urgent team notification to sound calm, deliberate, and professional in exactly 3 sentences: 'The analytics pipeline is stalling and clients are noticing delay.'",
+    "intent": "SEMADPT",
+    "subtype": "tone_rewrite_sentence_constrained",
+    "target_constraint": "tone=calm_professional"
+  },
+  {
+    "case_id": "BOUND_SEM_081",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a deep-space voyager probe transmitting a final telemetry image.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_082",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a solitary astronomer logging variable star luminosities in an alpine dome.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_083",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about an archaeologist assembling fragments of a bronze water clock.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_084",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a marine researcher diving through a giant kelp forest.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_085",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a master glassblower sculpting an intricate blown-glass decanter.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_086",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about an antiquarian bookseller cataloging first-edition travelogues.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_087",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a meteorologist observing a squall line crossing coastal wetlands.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_088",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a blacksmith quenching a forged broadaxe in mineral oil.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_089",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a violist performing a solo chaconne inside a stone crypt.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_090",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a clockmaker calibrating the tourbillon movement of a pocket watch.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_091",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a tea farmer hand-picking early spring silver needle shoots.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_092",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a midnight freight locomotive crossing windswept northern plains.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_093",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a botanist cataloging a rare flowering bromeliad in cloud forests.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_094",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a potter turning a celadon tea bowl upon a foot-powered wheel.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_095",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a coastal radio technician receiving an SOS call across stormy seas.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_096",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about an ornithologist observing a pair of ospreys nesting on river crags.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_097",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a night security officer checking locked archives in a municipal library.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_098",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about an artisan baker lifting seeded rye loaves from a masonry hearth.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_099",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a desert explorer mapping petroglyphs carved into sandstone cliffs.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_SEM_100",
+    "query": "Write an evocative haiku of exactly 3 lines (following traditional 5-7-5 syllable phrasing) about a sculptor carving a classical torso from carrarra marble.",
+    "intent": "SEMADPT",
+    "subtype": "haiku_syllable_constrained",
+    "target_constraint": "3 lines, 5-7-5 syllables"
+  },
+  {
+    "case_id": "BOUND_CSTR_001",
+    "query": "Return a JSON object containing exactly 4 keys for a industrial_thermostat profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_002",
+    "query": "Return a JSON object containing exactly 4 keys for a quadcopter_telemetry profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_003",
+    "query": "Return a JSON object containing exactly 4 keys for a shopping_cart profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_004",
+    "query": "Return a JSON object containing exactly 4 keys for a hardware_wallet profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_005",
+    "query": "Return a JSON object containing exactly 4 keys for a cardiac_monitor profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_006",
+    "query": "Return a JSON object containing exactly 4 keys for a ocean_buoy profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_007",
+    "query": "Return a JSON object containing exactly 4 keys for a virtual_machine profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_008",
+    "query": "Return a JSON object containing exactly 4 keys for a railway_interlock profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_009",
+    "query": "Return a JSON object containing exactly 4 keys for a rfid_turnstile profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_010",
+    "query": "Return a JSON object containing exactly 4 keys for a frequency_converter profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_011",
+    "query": "Return a JSON object containing exactly 4 keys for a kubernetes_pod profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_012",
+    "query": "Return a JSON object containing exactly 4 keys for a merchant_terminal profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_013",
+    "query": "Return a JSON object containing exactly 4 keys for a spooler_daemon profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_014",
+    "query": "Return a JSON object containing exactly 4 keys for a video_transcoder profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_015",
+    "query": "Return a JSON object containing exactly 4 keys for a managed_switch profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_016",
+    "query": "Return a JSON object containing exactly 4 keys for a asset_beacon profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_017",
+    "query": "Return a JSON object containing exactly 4 keys for a flow_battery profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_018",
+    "query": "Return a JSON object containing exactly 4 keys for a reverse_osmosis profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_019",
+    "query": "Return a JSON object containing exactly 4 keys for a chiller_unit profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_020",
+    "query": "Return a JSON object containing exactly 4 keys for a downlink_antenna profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_021",
+    "query": "Return a JSON object containing exactly 4 keys for a industrial_thermostat profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_022",
+    "query": "Return a JSON object containing exactly 4 keys for a quadcopter_telemetry profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_023",
+    "query": "Return a JSON object containing exactly 4 keys for a shopping_cart profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_024",
+    "query": "Return a JSON object containing exactly 4 keys for a hardware_wallet profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_025",
+    "query": "Return a JSON object containing exactly 4 keys for a cardiac_monitor profile: device_id, registered_at, operational_status, metric_value. Raw JSON only.",
+    "intent": "CSTRSET",
+    "subtype": "json_object_schema",
+    "target_constraint": "4 exact keys, raw JSON"
+  },
+  {
+    "case_id": "BOUND_CSTR_026",
+    "query": "Return a JSON array containing exactly 3 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 3 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_027",
+    "query": "Return a JSON array containing exactly 3 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 3 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_028",
+    "query": "Return a JSON array containing exactly 3 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 3 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_029",
+    "query": "Return a JSON array containing exactly 3 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 3 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_030",
+    "query": "Return a JSON array containing exactly 3 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 3 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_031",
+    "query": "Return a JSON array containing exactly 4 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 4 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_032",
+    "query": "Return a JSON array containing exactly 4 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 4 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_033",
+    "query": "Return a JSON array containing exactly 4 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 4 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_034",
+    "query": "Return a JSON array containing exactly 4 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 4 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_035",
+    "query": "Return a JSON array containing exactly 4 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 4 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_036",
+    "query": "Return a JSON array containing exactly 5 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 5 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_037",
+    "query": "Return a JSON array containing exactly 5 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 5 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_038",
+    "query": "Return a JSON array containing exactly 5 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 5 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_039",
+    "query": "Return a JSON array containing exactly 5 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 5 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_040",
+    "query": "Return a JSON array containing exactly 5 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 5 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_041",
+    "query": "Return a JSON array containing exactly 6 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 6 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_042",
+    "query": "Return a JSON array containing exactly 6 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 6 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_043",
+    "query": "Return a JSON array containing exactly 6 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 6 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_044",
+    "query": "Return a JSON array containing exactly 6 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 6 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_045",
+    "query": "Return a JSON array containing exactly 6 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 6 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_046",
+    "query": "Return a JSON array containing exactly 7 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 7 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_047",
+    "query": "Return a JSON array containing exactly 7 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 7 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_048",
+    "query": "Return a JSON array containing exactly 7 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 7 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_049",
+    "query": "Return a JSON array containing exactly 7 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 7 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_050",
+    "query": "Return a JSON array containing exactly 7 floating-point values representing calibration offsets between 0.1 and 2.5.",
+    "intent": "CSTRSET",
+    "subtype": "json_array_floats",
+    "target_constraint": "exact length 7 floats"
+  },
+  {
+    "case_id": "BOUND_CSTR_051",
+    "query": "Provide the settings for a industrial_thermostat as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_052",
+    "query": "Provide the settings for a quadcopter_telemetry as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_053",
+    "query": "Provide the settings for a shopping_cart as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_054",
+    "query": "Provide the settings for a hardware_wallet as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_055",
+    "query": "Provide the settings for a cardiac_monitor as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_056",
+    "query": "Provide the settings for a ocean_buoy as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_057",
+    "query": "Provide the settings for a virtual_machine as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_058",
+    "query": "Provide the settings for a railway_interlock as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_059",
+    "query": "Provide the settings for a rfid_turnstile as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_060",
+    "query": "Provide the settings for a frequency_converter as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_061",
+    "query": "Provide the settings for a kubernetes_pod as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_062",
+    "query": "Provide the settings for a merchant_terminal as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_063",
+    "query": "Provide the settings for a spooler_daemon as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_064",
+    "query": "Provide the settings for a video_transcoder as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_065",
+    "query": "Provide the settings for a managed_switch as a valid YAML mapping with keys 'node_id', 'listen_port', and 'enabled_flag'.",
+    "intent": "CSTRSET",
+    "subtype": "yaml_mapping_schema",
+    "target_constraint": "YAML mapping, 3 keys"
+  },
+  {
+    "case_id": "BOUND_CSTR_066",
+    "query": "Format a kubernetes_pod message as valid XML with root tag <telemetry_packet> and child elements <header>, <payload>, and <checksum>. XML only.",
+    "intent": "CSTRSET",
+    "subtype": "xml_schema_tags",
+    "target_constraint": "XML root and 3 child tags"
+  },
+  {
+    "case_id": "BOUND_CSTR_067",
+    "query": "Format a merchant_terminal message as valid XML with root tag <telemetry_packet> and child elements <header>, <payload>, and <checksum>. XML only.",
+    "intent": "CSTRSET",
+    "subtype": "xml_schema_tags",
+    "target_constraint": "XML root and 3 child tags"
+  },
+  {
+    "case_id": "BOUND_CSTR_068",
+    "query": "Format a spooler_daemon message as valid XML with root tag <telemetry_packet> and child elements <header>, <payload>, and <checksum>. XML only.",
+    "intent": "CSTRSET",
+    "subtype": "xml_schema_tags",
+    "target_constraint": "XML root and 3 child tags"
+  },
+  {
+    "case_id": "BOUND_CSTR_069",
+    "query": "Format a video_transcoder message as valid XML with root tag <telemetry_packet> and child elements <header>, <payload>, and <checksum>. XML only.",
+    "intent": "CSTRSET",
+    "subtype": "xml_schema_tags",
+    "target_constraint": "XML root and 3 child tags"
+  },
+  {
+    "case_id": "BOUND_CSTR_070",
+    "query": "Format a managed_switch message as valid XML with root tag <telemetry_packet> and child elements <header>, <payload>, and <checksum>. XML only.",
+    "intent": "CSTRSET",
+    "subtype": "xml_schema_tags",
+    "target_constraint": "XML root and 3 child tags"
+  },
+  {
+    "case_id": "BOUND_CSTR_071",
+    "query": "Format a asset_beacon message as valid XML with root tag <telemetry_packet> and child elements <header>, <payload>, and <checksum>. XML only.",
+    "intent": "CSTRSET",
+    "subtype": "xml_schema_tags",
+    "target_constraint": "XML root and 3 child tags"
+  },
+  {
+    "case_id": "BOUND_CSTR_072",
+    "query": "Format a flow_battery message as valid XML with root tag <telemetry_packet> and child elements <header>, <payload>, and <checksum>. XML only.",
+    "intent": "CSTRSET",
+    "subtype": "xml_schema_tags",
+    "target_constraint": "XML root and 3 child tags"
+  },
+  {
+    "case_id": "BOUND_CSTR_073",
+    "query": "Format a reverse_osmosis message as valid XML with root tag <telemetry_packet> and child elements <header>, <payload>, and <checksum>. XML only.",
+    "intent": "CSTRSET",
+    "subtype": "xml_schema_tags",
+    "target_constraint": "XML root and 3 child tags"
+  },
+  {
+    "case_id": "BOUND_CSTR_074",
+    "query": "Format a chiller_unit message as valid XML with root tag <telemetry_packet> and child elements <header>, <payload>, and <checksum>. XML only.",
+    "intent": "CSTRSET",
+    "subtype": "xml_schema_tags",
+    "target_constraint": "XML root and 3 child tags"
+  },
+  {
+    "case_id": "BOUND_CSTR_075",
+    "query": "Format a downlink_antenna message as valid XML with root tag <telemetry_packet> and child elements <header>, <payload>, and <checksum>. XML only.",
+    "intent": "CSTRSET",
+    "subtype": "xml_schema_tags",
+    "target_constraint": "XML root and 3 child tags"
+  },
+  {
+    "case_id": "BOUND_CSTR_076",
+    "query": "Provide a comma-separated list of exactly 4 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 4 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_077",
+    "query": "Provide a comma-separated list of exactly 5 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 5 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_078",
+    "query": "Provide a comma-separated list of exactly 6 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 6 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_079",
+    "query": "Provide a comma-separated list of exactly 7 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 7 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_080",
+    "query": "Provide a comma-separated list of exactly 4 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 4 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_081",
+    "query": "Provide a comma-separated list of exactly 5 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 5 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_082",
+    "query": "Provide a comma-separated list of exactly 6 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 6 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_083",
+    "query": "Provide a comma-separated list of exactly 7 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 7 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_084",
+    "query": "Provide a comma-separated list of exactly 4 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 4 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_085",
+    "query": "Provide a comma-separated list of exactly 5 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 5 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_086",
+    "query": "Provide a comma-separated list of exactly 6 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 6 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_087",
+    "query": "Provide a comma-separated list of exactly 7 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 7 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_088",
+    "query": "Provide a comma-separated list of exactly 4 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 4 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_089",
+    "query": "Provide a comma-separated list of exactly 5 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 5 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_090",
+    "query": "Provide a comma-separated list of exactly 6 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 6 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_091",
+    "query": "Provide a comma-separated list of exactly 7 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 7 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_092",
+    "query": "Provide a comma-separated list of exactly 4 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 4 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_093",
+    "query": "Provide a comma-separated list of exactly 5 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 5 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_094",
+    "query": "Provide a comma-separated list of exactly 6 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 6 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_095",
+    "query": "Provide a comma-separated list of exactly 7 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 7 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_096",
+    "query": "Provide a comma-separated list of exactly 4 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 4 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_097",
+    "query": "Provide a comma-separated list of exactly 5 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 5 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_098",
+    "query": "Provide a comma-separated list of exactly 6 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 6 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_099",
+    "query": "Provide a comma-separated list of exactly 7 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 7 CSV items"
+  },
+  {
+    "case_id": "BOUND_CSTR_100",
+    "query": "Provide a comma-separated list of exactly 4 chemical element symbols in uppercase. Return only the comma-delimited tokens.",
+    "intent": "CSTRSET",
+    "subtype": "csv_delimited_count",
+    "target_constraint": "exact 4 CSV items"
+  }
+]

@@ -1,0 +1,620 @@
+[
+  {
+    "dataset": "CLINC150",
+    "source_label": "accept_reservations",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Restaurant reservation policy check; commerce inquiry."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "account_blocked",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal account exception handling query; private account support."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "alarm",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Device timer / alarm setting command; hardware / assistant control."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "application_status",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal credit card application status check; private banking state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "apr",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal credit card interest rate inquiry; private financial terms."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "balance",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Private banking account balance query; represents personal account action rather than general knowledge retrieval."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "bill_balance",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal account billing statement query; user-specific account state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "bill_due",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal account due date schedule query; user-specific financial obligation."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "book_flight",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Airline ticket reservation transaction; commerce action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "book_hotel",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Lodging reservation transaction; commerce action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "calendar",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal calendar schedule query; private schedule lookup."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "calendar_update",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal calendar event creation / edit command; personal organizer action."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "cancel",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Dialog cancellation command; conversational control token."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "cancel_reservation",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Reservation cancellation transaction; commerce action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "car_rental",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Vehicle rental reservation transaction; commerce action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "card_declined",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal payment failure inquiry; private transaction support."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "change_accent",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Speech voice accent adjustment command; assistant setting execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "change_ai_name",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Assistant persona customization command; assistant setting execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "change_language",
+    "status": "EXCLUDED",
+    "exclusion_reason": "System language setting command; assistant setting execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "change_speed",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Speech rate setting adjustment command; assistant setting execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "change_user_name",
+    "status": "EXCLUDED",
+    "exclusion_reason": "User profile name customization command; assistant setting execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "change_volume",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Audio volume setting adjustment command; hardware action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "confirm_reservation",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Reservation status verification transaction; commerce action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "credit_limit",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal credit card limit query; private account state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "credit_limit_change",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Credit limit adjustment request; administrative transaction."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "credit_score",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal credit rating query; private financial report."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "current_location",
+    "status": "EXCLUDED",
+    "exclusion_reason": "GPS coordinates query; device sensor reading."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "damaged_card",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Physical card replacement request; administrative action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "direct_deposit",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Direct deposit setup procedure / account routing; administrative action."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "expiration_date",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal credit card expiration date check; private account detail."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "find_phone",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Device paging / finding command; hardware action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "flight_status",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal flight tracking query; real-time operational status."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "flip_coin",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Pseudo-random binary event generator; assistant utility."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "freeze_account",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Security action command to freeze account; transactional action."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "gas",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Vehicle fuel tank level query; vehicle sensor reading."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "how_busy",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Real-time venue wait time inquiry; dynamic operational state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "improve_credit_score",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal financial advice request; outside the 4 taxonomy intents."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "income",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal salary and income record inquiry; private employee data."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "insurance",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Employee health insurance plan details query; private benefit coverage."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "insurance_change",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Benefit enrollment modification request; administrative action."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "interest_rate",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal loan / credit interest rate inquiry; private account terms."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "last_maintenance",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Vehicle service history date query; personal vehicle log."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "lost_luggage",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Baggage tracing incident report; operational support action."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "make_call",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Telephony voice call command; communication action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "maybe",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Ambiguous / uncertain dialog response; conversational token."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "meal_suggestion",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Food recommendation request; recommendation query."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "meeting_schedule",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal meeting schedule query; private calendar lookup."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "min_payment",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal account minimum payment query; user-specific credit state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "mpg",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Vehicle fuel efficiency calculation / sensor check; vehicle sensor reading."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "new_card",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Credit card application request; administrative action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "next_song",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Media track skipping command; device action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "no",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Negative dialog response; conversational denial token."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "oos",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Uncategorized out-of-scope utterances without consistent intent semantics."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "order",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Goods purchase / reordering command; commerce action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "order_checks",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Transactional service request to order paper checks; action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "order_status",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Package shipment delivery tracking query; operational commerce state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "pay_bill",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Transactional command to execute bill payment; action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "payday",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Payroll disbursement schedule query; internal employer data."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "pin_change",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Security action command to change account PIN; administrative action."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "play_music",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Media playback command; device action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "pto_balance",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal paid time off balance query; employee HR portal data."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "pto_request",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Leave of absence request submission; administrative action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "pto_request_status",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Leave request approval status query; administrative portal data."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "pto_used",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Historical leave days utilized query; employee HR portal data."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "recipe",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Culinary preparation recipe request; instructional how-to guidance."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "redeem_rewards",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Reward points redemption command; transactional action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "reminder",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal task reminder query; personal organizer action."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "reminder_update",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Task reminder creation / modification command; personal organizer action."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "repeat",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Audio repetition request; conversational control token."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "report_fraud",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Security incident reporting; administrative action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "report_lost_card",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Security incident reporting; administrative action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "reset_settings",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Device system restore command; hardware action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "restaurant_reservation",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Dining table reservation transaction; commerce action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "restaurant_suggestion",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Dining recommendation request; recommendation query."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "rewards_balance",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal loyalty points balance inquiry; private account state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "roll_dice",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Pseudo-random die roll generator; assistant utility."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "rollover_401k",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Retirement account transfer procedure; administrative action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "schedule_maintenance",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Automotive service appointment scheduling command; action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "schedule_meeting",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal meeting scheduling command; action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "share_location",
+    "status": "EXCLUDED",
+    "exclusion_reason": "GPS location sharing command; communication action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "shopping_list",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal shopping list query; private organizer state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "shopping_list_update",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal shopping list modification command; action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "smart_home",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Home automation hardware control command (lights, thermostat, locks); action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "spending_history",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal financial transaction history query; private database lookup."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "sync_device",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Hardware device pairing / syncing command; action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "taxes",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal tax obligation query; private financial state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "text",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Messaging / SMS sending command; communication action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "timer",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Device countdown timer command; hardware / assistant control."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "tire_change",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Tire replacement scheduling query; vehicle service action."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "tire_pressure",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Tire pressure sensor reading query; vehicle sensor reading."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "todo_list",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal todo task list query; private organizer state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "todo_list_update",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal todo task list modification command; action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "transactions",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Personal banking ledger query; private database lookup."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "transfer",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Transactional command to transfer money between accounts; action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "travel_notification",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Travel itinerary notification to bank; administrative action."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "travel_suggestion",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Open-ended tourist destination suggestion; recommendation query."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "uber",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Ride-hailing booking command; commerce action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "update_playlist",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Media playlist modification command; action execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "user_name",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Inquiry about current user profile moniker; assistant profile state."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "what_can_i_ask_you",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Assistant capabilities inquiry; meta-system dialog."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "what_song",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Audio recognition / Shazam query; media identification service."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "whisper_mode",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Assistant operating mode toggle command; assistant setting execution."
+  },
+  {
+    "dataset": "CLINC150",
+    "source_label": "yes",
+    "status": "EXCLUDED",
+    "exclusion_reason": "Affirmative dialog response; conversational acknowledgment token."
+  }
+]

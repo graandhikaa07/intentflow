@@ -1,0 +1,14 @@
+{
+  "label2id": {
+    "MATHDS": 0,
+    "TXTSRC": 1,
+    "SEMADPT": 2,
+    "CSTRSET": 3
+  },
+  "id2label": {
+    "0": "MATHDS",
+    "1": "TXTSRC",
+    "2": "SEMADPT",
+    "3": "CSTRSET"
+  }
+}
